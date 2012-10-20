@@ -1,0 +1,297 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C6EF12E163280350094603A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C6EF12D163280350094603A /* UIKit.framework */; };
+		0C6EF130163280350094603A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C6EF12F163280350094603A /* Foundation.framework */; };
+		0C6EF132163280350094603A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C6EF131163280350094603A /* CoreGraphics.framework */; };
+		0C6EF138163280350094603A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF136163280350094603A /* InfoPlist.strings */; };
+		0C6EF13A163280350094603A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF139163280350094603A /* main.m */; };
+		0C6EF13E163280350094603A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF13D163280350094603A /* AppDelegate.m */; };
+		0C6EF140163280350094603A /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF13F163280350094603A /* Default.png */; };
+		0C6EF142163280350094603A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF141163280350094603A /* Default@2x.png */; };
+		0C6EF144163280350094603A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF143163280350094603A /* Default-568h@2x.png */; };
+		0C6EF147163280350094603A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF146163280350094603A /* ViewController.m */; };
+		0C6EF14A163280350094603A /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF148163280350094603A /* ViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0C6EF129163280350094603A /* CreateDatabaseForSR4GMTerm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreateDatabaseForSR4GMTerm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C6EF12D163280350094603A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0C6EF12F163280350094603A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		0C6EF131163280350094603A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0C6EF135163280350094603A /* CreateDatabaseForSR4GMTerm-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CreateDatabaseForSR4GMTerm-Info.plist"; sourceTree = "<group>"; };
+		0C6EF137163280350094603A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0C6EF139163280350094603A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0C6EF13B163280350094603A /* CreateDatabaseForSR4GMTerm-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CreateDatabaseForSR4GMTerm-Prefix.pch"; sourceTree = "<group>"; };
+		0C6EF13C163280350094603A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0C6EF13D163280350094603A /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0C6EF13F163280350094603A /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		0C6EF141163280350094603A /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		0C6EF143163280350094603A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		0C6EF145163280350094603A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0C6EF146163280350094603A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0C6EF149163280350094603A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0C6EF126163280350094603A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C6EF12E163280350094603A /* UIKit.framework in Frameworks */,
+				0C6EF130163280350094603A /* Foundation.framework in Frameworks */,
+				0C6EF132163280350094603A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C6EF11E163280350094603A = {
+			isa = PBXGroup;
+			children = (
+				0C6EF133163280350094603A /* CreateDatabaseForSR4GMTerm */,
+				0C6EF12C163280350094603A /* Frameworks */,
+				0C6EF12A163280350094603A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		0C6EF12A163280350094603A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF129163280350094603A /* CreateDatabaseForSR4GMTerm.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0C6EF12C163280350094603A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF12D163280350094603A /* UIKit.framework */,
+				0C6EF12F163280350094603A /* Foundation.framework */,
+				0C6EF131163280350094603A /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0C6EF133163280350094603A /* CreateDatabaseForSR4GMTerm */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF13C163280350094603A /* AppDelegate.h */,
+				0C6EF13D163280350094603A /* AppDelegate.m */,
+				0C6EF145163280350094603A /* ViewController.h */,
+				0C6EF146163280350094603A /* ViewController.m */,
+				0C6EF148163280350094603A /* ViewController.xib */,
+				0C6EF134163280350094603A /* Supporting Files */,
+			);
+			path = CreateDatabaseForSR4GMTerm;
+			sourceTree = "<group>";
+		};
+		0C6EF134163280350094603A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF135163280350094603A /* CreateDatabaseForSR4GMTerm-Info.plist */,
+				0C6EF136163280350094603A /* InfoPlist.strings */,
+				0C6EF139163280350094603A /* main.m */,
+				0C6EF13B163280350094603A /* CreateDatabaseForSR4GMTerm-Prefix.pch */,
+				0C6EF13F163280350094603A /* Default.png */,
+				0C6EF141163280350094603A /* Default@2x.png */,
+				0C6EF143163280350094603A /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0C6EF128163280350094603A /* CreateDatabaseForSR4GMTerm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0C6EF14D163280350094603A /* Build configuration list for PBXNativeTarget "CreateDatabaseForSR4GMTerm" */;
+			buildPhases = (
+				0C6EF125163280350094603A /* Sources */,
+				0C6EF126163280350094603A /* Frameworks */,
+				0C6EF127163280350094603A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CreateDatabaseForSR4GMTerm;
+			productName = CreateDatabaseForSR4GMTerm;
+			productReference = 0C6EF129163280350094603A /* CreateDatabaseForSR4GMTerm.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0C6EF120163280350094603A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = corestrikelab;
+			};
+			buildConfigurationList = 0C6EF123163280350094603A /* Build configuration list for PBXProject "CreateDatabaseForSR4GMTerm" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0C6EF11E163280350094603A;
+			productRefGroup = 0C6EF12A163280350094603A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0C6EF128163280350094603A /* CreateDatabaseForSR4GMTerm */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0C6EF127163280350094603A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C6EF138163280350094603A /* InfoPlist.strings in Resources */,
+				0C6EF140163280350094603A /* Default.png in Resources */,
+				0C6EF142163280350094603A /* Default@2x.png in Resources */,
+				0C6EF144163280350094603A /* Default-568h@2x.png in Resources */,
+				0C6EF14A163280350094603A /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0C6EF125163280350094603A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C6EF13A163280350094603A /* main.m in Sources */,
+				0C6EF13E163280350094603A /* AppDelegate.m in Sources */,
+				0C6EF147163280350094603A /* ViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		0C6EF136163280350094603A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0C6EF137163280350094603A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		0C6EF148163280350094603A /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0C6EF149163280350094603A /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		0C6EF14B163280350094603A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		0C6EF14C163280350094603A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0C6EF14E163280350094603A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CreateDatabaseForSR4GMTerm/CreateDatabaseForSR4GMTerm-Prefix.pch";
+				INFOPLIST_FILE = "CreateDatabaseForSR4GMTerm/CreateDatabaseForSR4GMTerm-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0C6EF14F163280350094603A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CreateDatabaseForSR4GMTerm/CreateDatabaseForSR4GMTerm-Prefix.pch";
+				INFOPLIST_FILE = "CreateDatabaseForSR4GMTerm/CreateDatabaseForSR4GMTerm-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0C6EF123163280350094603A /* Build configuration list for PBXProject "CreateDatabaseForSR4GMTerm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C6EF14B163280350094603A /* Debug */,
+				0C6EF14C163280350094603A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0C6EF14D163280350094603A /* Build configuration list for PBXNativeTarget "CreateDatabaseForSR4GMTerm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C6EF14E163280350094603A /* Debug */,
+				0C6EF14F163280350094603A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0C6EF120163280350094603A /* Project object */;
+}
