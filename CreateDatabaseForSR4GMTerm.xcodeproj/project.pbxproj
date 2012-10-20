@@ -25,6 +25,7 @@
 		0C6EF183163288230094603A /* sr4gmterm.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF181163288230094603A /* sr4gmterm.sqlite */; };
 		0C6EF1891632882E0094603A /* DocumentReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1861632882E0094603A /* DocumentReader.m */; };
 		0C6EF18A1632882E0094603A /* SqliteDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1881632882E0094603A /* SqliteDB.m */; };
+		0C6EF19616328CFE0094603A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF19516328CFE0094603A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		0C6EF1861632882E0094603A /* DocumentReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentReader.m; sourceTree = "<group>"; };
 		0C6EF1871632882E0094603A /* SqliteDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SqliteDB.h; sourceTree = "<group>"; };
 		0C6EF1881632882E0094603A /* SqliteDB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SqliteDB.m; sourceTree = "<group>"; };
+		0C6EF19516328CFE0094603A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 		0C6EF134163280350094603A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0C6EF19516328CFE0094603A /* README.md */,
 				0C6EF17F163288230094603A /* data */,
 				0C6EF135163280350094603A /* CreateDatabaseForSR4GMTerm-Info.plist */,
 				0C6EF136163280350094603A /* InfoPlist.strings */,
@@ -264,6 +267,7 @@
 				0C6EF14A163280350094603A /* ViewController.xib in Resources */,
 				0C6EF182163288230094603A /* sr4data_utf8.txt in Resources */,
 				0C6EF183163288230094603A /* sr4gmterm.sqlite in Resources */,
+				0C6EF19616328CFE0094603A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
