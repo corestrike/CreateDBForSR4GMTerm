@@ -7,6 +7,8 @@
 //
 
 #import "ViewController.h"
+#import "SqliteDB.h"
+#import "DocumentReader.h"
 
 @interface ViewController ()
 
@@ -17,7 +19,13 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    
+    /* database */
+    SqliteDB* db = [[SqliteDB alloc] init];
+    [db initializeDatabaseIfNeeded];
+    [db release];
+    
+    [DocumentReader insertInitialData];
 }
 
 - (void)didReceiveMemoryWarning
