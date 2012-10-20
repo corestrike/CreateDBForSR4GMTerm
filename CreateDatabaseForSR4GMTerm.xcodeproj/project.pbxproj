@@ -21,8 +21,10 @@
 		0C6EF15F1632809D0094603A /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF15B1632809D0094603A /* FMDatabaseAdditions.m */; };
 		0C6EF1601632809D0094603A /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF15D1632809D0094603A /* FMResultSet.m */; };
 		0C6EF16E163281F10094603A /* libsqliteFTS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C6EF16D163281CB0094603A /* libsqliteFTS.a */; };
-		0C6EF173163283BF0094603A /* DocumentReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF170163282890094603A /* DocumentReader.m */; };
-		0C6EF174163283C30094603A /* SqliteDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF172163282890094603A /* SqliteDB.m */; };
+		0C6EF182163288230094603A /* sr4data_utf8.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF180163288230094603A /* sr4data_utf8.txt */; };
+		0C6EF183163288230094603A /* sr4gmterm.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF181163288230094603A /* sr4gmterm.sqlite */; };
+		0C6EF1891632882E0094603A /* DocumentReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1861632882E0094603A /* DocumentReader.m */; };
+		0C6EF18A1632882E0094603A /* SqliteDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1881632882E0094603A /* SqliteDB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,10 +62,12 @@
 		0C6EF15C1632809D0094603A /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
 		0C6EF15D1632809D0094603A /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
 		0C6EF165163281CA0094603A /* sqliteFTS.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = sqliteFTS.xcodeproj; path = CreateDatabaseForSR4GMTerm/sqliteFTS/sqliteFTS.xcodeproj; sourceTree = "<group>"; };
-		0C6EF16F163282890094603A /* DocumentReader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DocumentReader.h; sourceTree = "<group>"; };
-		0C6EF170163282890094603A /* DocumentReader.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DocumentReader.m; sourceTree = "<group>"; };
-		0C6EF171163282890094603A /* SqliteDB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SqliteDB.h; sourceTree = "<group>"; };
-		0C6EF172163282890094603A /* SqliteDB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SqliteDB.m; sourceTree = "<group>"; };
+		0C6EF180163288230094603A /* sr4data_utf8.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sr4data_utf8.txt; sourceTree = "<group>"; };
+		0C6EF181163288230094603A /* sr4gmterm.sqlite */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sr4gmterm.sqlite; sourceTree = "<group>"; };
+		0C6EF1851632882E0094603A /* DocumentReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DocumentReader.h; sourceTree = "<group>"; };
+		0C6EF1861632882E0094603A /* DocumentReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DocumentReader.m; sourceTree = "<group>"; };
+		0C6EF1871632882E0094603A /* SqliteDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SqliteDB.h; sourceTree = "<group>"; };
+		0C6EF1881632882E0094603A /* SqliteDB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SqliteDB.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,12 +116,9 @@
 		0C6EF133163280350094603A /* CreateDatabaseForSR4GMTerm */ = {
 			isa = PBXGroup;
 			children = (
+				0C6EF1841632882E0094603A /* util */,
 				0C6EF1571632809D0094603A /* fmdb */,
 				0C6EF1501632807F0094603A /* LineReader */,
-				0C6EF16F163282890094603A /* DocumentReader.h */,
-				0C6EF170163282890094603A /* DocumentReader.m */,
-				0C6EF171163282890094603A /* SqliteDB.h */,
-				0C6EF172163282890094603A /* SqliteDB.m */,
 				0C6EF13C163280350094603A /* AppDelegate.h */,
 				0C6EF13D163280350094603A /* AppDelegate.m */,
 				0C6EF145163280350094603A /* ViewController.h */,
@@ -131,6 +132,7 @@
 		0C6EF134163280350094603A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0C6EF17F163288230094603A /* data */,
 				0C6EF135163280350094603A /* CreateDatabaseForSR4GMTerm-Info.plist */,
 				0C6EF136163280350094603A /* InfoPlist.strings */,
 				0C6EF139163280350094603A /* main.m */,
@@ -169,6 +171,26 @@
 				0C6EF16D163281CB0094603A /* libsqliteFTS.a */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		0C6EF17F163288230094603A /* data */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF180163288230094603A /* sr4data_utf8.txt */,
+				0C6EF181163288230094603A /* sr4gmterm.sqlite */,
+			);
+			path = data;
+			sourceTree = "<group>";
+		};
+		0C6EF1841632882E0094603A /* util */ = {
+			isa = PBXGroup;
+			children = (
+				0C6EF1851632882E0094603A /* DocumentReader.h */,
+				0C6EF1861632882E0094603A /* DocumentReader.m */,
+				0C6EF1871632882E0094603A /* SqliteDB.h */,
+				0C6EF1881632882E0094603A /* SqliteDB.m */,
+			);
+			path = util;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,6 +262,8 @@
 			files = (
 				0C6EF138163280350094603A /* InfoPlist.strings in Resources */,
 				0C6EF14A163280350094603A /* ViewController.xib in Resources */,
+				0C6EF182163288230094603A /* sr4data_utf8.txt in Resources */,
+				0C6EF183163288230094603A /* sr4gmterm.sqlite in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,8 +274,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C6EF174163283C30094603A /* SqliteDB.m in Sources */,
-				0C6EF173163283BF0094603A /* DocumentReader.m in Sources */,
 				0C6EF13A163280350094603A /* main.m in Sources */,
 				0C6EF13E163280350094603A /* AppDelegate.m in Sources */,
 				0C6EF147163280350094603A /* ViewController.m in Sources */,
@@ -260,6 +282,8 @@
 				0C6EF15E1632809D0094603A /* FMDatabase.m in Sources */,
 				0C6EF15F1632809D0094603A /* FMDatabaseAdditions.m in Sources */,
 				0C6EF1601632809D0094603A /* FMResultSet.m in Sources */,
+				0C6EF1891632882E0094603A /* DocumentReader.m in Sources */,
+				0C6EF18A1632882E0094603A /* SqliteDB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

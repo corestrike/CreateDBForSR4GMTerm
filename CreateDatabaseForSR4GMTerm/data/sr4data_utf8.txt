@@ -1,0 +1,1353 @@
+0|Attribute-Only Tests|能力値 テスト [のうりょくちテスト] |4: p.54|4: p.59 / 4A: p.74|
+0|Long Shots|ロング ショット ・ テスト |4: p.55|4: p.59 / 4A: p.74|
+0|Target Number And Hits|ヒット |4: p.55|4: p.60 / 4A: p.75|
+0|Buying Hits|ヒット の 購入 [ヒットのこうにゅう] |4: p.55|4: p.60 / 4A: p.75|
+0|Glitches|グリッチ |4: p.55|4: p.60 / 4A: p.75|
+0|Critical Glitches|クリティカル ・ グリッチ |4: p.56|4: p.60 / 4A: p.75|
+0|Rule of Six|6 の ルール |4: p.56|4: p.61 / 4A: p.76|
+0|Success Tests|成功 テスト [せいこうテスト] |4: p.56|4: p.61 / 4A: p.76|
+0|Opposed Tests|対抗 テスト [たいこうテスト] |4: p.57|4: p.62 / 4A: p.76|
+5|Difficulty Table|難易度 表 [なんいどひょう] |4: p.56|4: p.62 / 4A: p.76|
+0|Opposed Test vs. a Group|集団 に対する 対抗 テスト [しゅうだんにたいするたいこうテスト] |4: p.57|4: p.62 / 4A: p.77|
+0|Extended Tests|継続 テスト [けいぞくテスト] |4: p.58|4: p.63 / 4A: p.77|
+0|Quick Extended Tests|即決 継続 テスト [そっけつけいぞくテスト] |4: p.59|4: p.63 / 4A: p.78|
+0|Extended Tests and Glitches|継続 テスト と グリッチ [けいぞくテストとグリッチ] |4: p.59|4: p.63 / 4A: p.78|
+5|Extended Test Difficulties|継続 テスト の 難易度 [けいぞくテストの難易度] |4: p.58|4: p.63 / 4A: p.78|
+5||継続 テスト の 単位 時間 [継続テストの単位時間] ||4A: p.78|
+0|Teamwork Test|チーム ワーク ・ テスト |4: p.59|4: p.64 / 4A: p.79|
+0|Trying Again|テスト の 再挑戦 [テストのさいちょうせん] |4: p.59|4: p.64 / 4A: p.79|
+0|Critical Success|クリティカル ・ サクセス |4: p.59|4: p.64 / 4A: p.79|
+0|Spending Edge|エッジ の 使用 [エッジのしよう] |4: p.67|4: p.73 / 4A: p.90|
+0|Regaining Edge|エッジ の 回復 [エッジのかいふく] |4: p.68|4: p.74 / 4A: p.92|
+0|Burning Edge|エッジ を 燃やす [エッジをもやす] |4: p.68|4: p.74 / 4A: p.92|
+5|Metatype Attribute Table|種族 能力値 表 [しゅぞくのうりょくちひょう] |4: p.73|4: p.79 / 4A: p.99|
+0|Choose Your Metatype|メタ タイプ の 選択 [メタタイプのせんたく] |4: p.72|4: p.79 / 4A: p.99|
+0||資質 の 選択 [ししつのせんたく] ||4A: p.100|
+0|Purchase Attributes|能力値 の 購入 [のうりょくちのこうにゅう] |4: p.73|4: p.79 / 4A: p.100|
+0|Acquire Skills|技能 の 獲得 [ぎのうのかくとく] |4: p.74|4: p.81 / 4A: p.102|
+0|Assigning Resources|資産 の 割り当て [しさんのわりあて] |4: p.84|4: p.91 / 4A: p.105|
+5|Lifestyle Cost Table|ライフ スタイル コスト 表 [ライフスタイルコストひょう] |4: p.85|4: p.92 / 4A: p.106|
+0|Magical Resources|魔法 の 資産 [まほうのしさん] |4: p.85|4: p.93 / 4A: p.106|
+0|Technomancer Resources|テクノマンサー の 資産 [テクノマンサーのしさん] |4: p.86|4: p.93 / 4A: p.107|
+0|Starting Nuyen|開始時 所持金 [かいしじしょじきん] |4: p.86|4: p.94 / 4A: p.108|
+5|Condition Monitor Boxes|コンディション ・ モニター の マス 数 [コンディション・モニターのマス数] |4: p.86|4: p.94 / 4A: p.108|
+5|Starting Money Table|開始時 所持金 表 [かいしじしょじきんひょう] |4: p.86|4: p.94 / 4A: p.108|
+0|Astral Chameleon (Quality)|アストラル ・ カメレオン ( 資質 ) |4: p.78|4: p.84 / 4A: p.110|
+0|Adept (Quality)|アデプト ( 資質 ) |4: p.77|4: p.84 / 4A: p.110|
+0|Murky Link (Quality)|おぼろな リンク ( 資質 ) |4: p.79|4: p.84 / 4A: p.110|
+0|Toughness (Quality)|頑強 ( 資質 ) [がんきょう] |4: p.80|4: p.84 / 4A: p.110|
+0|High Pain Tolerance (Quality)|苦痛 に 強い ( 資質 ) [くつうにつよい] |4: p.78|4: p.84 / 4A: p.110|
+0|Lucky (Quality)|幸運 ( 資質 ) [こううん] |4: p.79|4: p.84 / 4A: p.110|
+0|Quick Healer (Quality)|高速 回復 ( 資質 ) [こうそくかいふく] |4: p.80|4: p.84 / 4A: p.111|
+0|Codeslinger (Quality)|コード スリンガー ( 資質 ) |4: p.78|4: p.84 / 4A: p.111|
+0|Natural Immunity (Quality)|自然 免疫 ( 資質 ) [しぜんめんえき] |4: p.79|4: p.84 / 4A: p.111|
+0|Photographic Memory (Quality)|写真 記憶 ( 資質 ) [しゃしんきおく] |4: p.80|4: p.85 / 4A: p.111|
+0|Focused Concetration (Quality)|集中力 ( 資質 ) [しゅうちゅうりょく] |4: p.78|4: p.85 / 4A: p.111|
+0|Double Jointed (Quality)|柔軟 ( 資質 ) [じゅうなん] |4: p.78|4: p.85 / 4A: p.111|
+0|Natural Hardening (Quality)|生体 信号 耐性 ( 資質 ) [せいたいしんごうたいせい] |4: p.79|4: p.85 / 4A: p.111|
+0|Will to Live (Quality)|生への 執着 ( 資質 ) [せいへのしゅうちゃく] |4: p.80|4: p.85 / 4A: p.111|
+0|Sprit Affinity (Quality)|精霊 との 親和性 ( 資質 ) [せいれいとのしんわせい] |4: p.80|4: p.85 / 4A: p.111|
+0||存在 抹消 ( 資質 ) [そんざいまっしょう] ||4A: p.111|
+0|First Impression (Quality)|第一 印象 ( 資質 ) [だいいちいんしょう] |4: p.78|4: p.85 / 4A: p.112|
+0|Exceptional Attribute (Quality)|卓越した 能力値 ( 資質 ) [たくえつしたのうりょくち] |4: p.78|4: p.85 / 4A: p.112|
+0|Guts (Quality)|胆力 ( 資質 ) [たんりょく] |4: p.78|4: p.85 / 4A: p.112|
+0|Technomancer (Quality)|テクノマンサー ( 資質 ) |4: p.80|4: p.85 / 4A: p.112|
+0|Aptitude (Quality)|天賦 の 才 ( 資質 ) [てんぷのさい] |4: p.77|4: p.86 / 4A: p.112|
+0|Mentor Sprit (Quality)|導師 精霊 ( 資質 ) [どうしせいれい] |4: p.79|4: p.86 / 4A: p.112|
+0|Animal Empathy (Quality)|動物 共感 ( 資質 ) [どうぶつきょうかん] |4: p.77|4: p.86 / 4A: p.112|
+0|Human-Looking (Quality)|ヒューマン 風 の 外見 ( 資質 ) [ひゅーまんふうのがいけん] |4: p.78|4: p.86 / 4A: p.112|
+0|Resistance to Pathogens/Tosins (Quality)|病原体 や 毒素 に対する 抵抗力 ( 資質 ) [びょうげんたいやどくそにたいするていこうりょく] |4: p.80|4: p.86 / 4A: p.113|
+0|Blandness (Quality)|平凡 ( 資質 ) [へいぼん] |4: p.78|4: p.86 / 4A: p.113|
+0|Home Ground (Quality)|ホーム グラウンド ( 資質 ) |4: p.78|4: p.86 / 4A: p.113|
+0|Magician (Quality)|魔法 使い ( 資質 ) [まほうつかい] |4: p.79|4: p.87 / 4A: p.113|
+0|Magic Resistance (Quality)|魔法 抵抗 ( 資質 ) ( 資質 ) [まほうていこう] |4: p.79|4: p.87 / 4A: p.113|
+0|Mystic Adept (Quality)|ミスティック ・ アデプト ( 資質 ) |4: p.79|4: p.87 / 4A: p.113|
+0|Ambidextrous (Quality)|両手 利き ( 資質 ) [りょうてきき] |4: p.77|4: p.87 / 4A: p.114|
+0|Astral Beacon (Quality)|アストラル ・ ビーコン ( 資質 ) |4: p.81|4: p.87 / 4A: p.114|
+0|Allergy (Quality)|アレルギー ( 資質 ) |4: p.80|4: p.87 / 4A: p.114|
+0|Addiction (Quality)|依存症 ( 資質 ) [いぞんしょう] |4: p.80|4: p.87 / 4A: p.114|
+0|Elf Poser (Quality)|エルフ 気取り ( 資質 ) [エルフきどり] |4: p.81|4: p.88 / 4A: p.115|
+0|Ork Poser (Quality)|オーク 気取り ( 資質 ) [オークきどり] |4: p.83|4: p.88 / 4A: p.115|
+0|Sensitive Neural Structure (Quality)|過敏な 神経 構造 ( 資質 ) [かびんなしんけいこうぞう] |4: p.83|4: p.88 / 4A: p.115|
+0|Infirm (Quality)|虚弱 ( 資質 ) [きょじゃく] |4: p.82|4: p.88 / 4A: p.115|
+5|Allergy Table|アレルギー 表 [アレルギーひょう] |4: p.81|4: p.88 / 4A: p.116|
+0|Low Pain Tolerance (Quality)|苦痛 に 弱い ( 資質 ) [くつうによわい] |4: p.82|4: p.89 / 4A: p.116|
+0|Gremlins (Quality)|グレムリン ( 資質 ) |4: p.81|4: p.89 / 4A: p.116|
+0|Codeblock (Quality)|コード ブロック ( 資質 ) |4: p.81|4: p.89 / 4A: p.116|
+0|Scorched (Quality)|焦げつき ( 資質 ) [こげつき] |4: p.83|4: p.90 / 4A: p.116|
+0|Simsense Vertigo (Quality)|シムセンス 酔い ( 資質 ) [シムセンスよい] |4: p.83|4: p.90 / 4A: p.116|
+0|Uncouth (Quality)|社会 不適応 ( 資質 ) [しゃかいふてきおう] |4: p.83|4: p.90 / 4A: p.116|
+0|SINer (Quality)|SIN 持ち ( 資質 ) [シンもち] |4: p.83|4: p.90 / 4A: p.117|
+0|Sprit Bane (Quality)|精霊 との 反発性 ( 資質 ) [せいれいとのはんぱつせい] |4: p.83|4: p.90 / 4A: p.117|
+0|Combat Paralysis (Quality)|戦闘 硬直 ( 資質 ) [せんとうこうちょく] |4: p.81|4: p.90 / 4A: p.117|
+0|Incompetent (Quality)|苦手 ( 資質 ) [にがて] |4: p.82|4: p.90 / 4A: p.117|
+0|Bad Luck (Quality)|不運 ( 資質 ) [ふうん] |4: p.81|4: p.90 / 4A: p.117|
+0||平和 主義 ( 資質 ) [へいわしゅぎ] ||4A: p.117|
+0|Uneducated (Quality)|無教育 ( 資質 ) [むきょういく] |4: p.83|4: p.91 / 4A: p.118|
+0|Sensitive System (Quality)|免疫 過敏 ( 資質 ) [めんえきかびん] |4: p.83|4: p.91 / 4A: p.118|
+0|Weak Immune System (Quality)|弱い 免疫 系 ( 資質 ) [よわいめんえきけい] |4: p.84|4: p.91 / 4A: p.118|
+5|Build Point Cost Summary Table|消費 BP 早見 表 [しょうひビーピーはやみひょう] |4: p.88|4: p.96|
+5||キャラクター 作成 手順 まとめ [キャラクターさくせいてじゅんまとめ] ||4A: p.119|
+0|Bounty Hunter|バウンティ ・ ハンター |4: p.89|4: p.97 / 4A: p.120|
+0|Combat Mage|コンバット ・ メイジ |4: p.90|4: p.98 / 4A: p.121|
+0|Covert Ops Specialist|コバート ・ オペ ・ スペシャリスト |4: p.91|4: p.99 / 4A: p.122|
+0|Drone Rigger|ドローン ・ リガー |4: p.92|4: p.100 / 4A: p.123|
+0|Enforcer|エンフォーサー |4: p.93|4: p.101 / 4A: p.124|
+0|Face|フェイス |4: p.94|4: p.102 / 4A: p.125|
+0|Gunslinger Adept|ガンスリンガー ・ アデプト |4: p.95|4: p.103 / 4A: p.126|
+0|Hacker|ハッカー |4: p.96|4: p.104 / 4A: p.127|
+0|Occult Investigator|オカルト 探偵 [オカルトたんてい] |4: p.97|4: p.105 / 4A: p.128|
+0|Radical Eco-Shaman|ラディカル ・ エコ シャーマン |4: p.98|4: p.106 / 4A: p.129|
+0|Smuggler|スマグラー |4: p.99|4: p.107 / 4A: p.130|
+0|Sorawl Ganger|スプロール ・ ギャンガー |4: p.100|4: p.108 / 4A: p.131|
+0|Street Samurai|ストリート ・ サムライ |4: p.101|4: p.109 / 4A: p.132|
+0|Street Shaman|ストリート ・ シャーマン |4: p.102|4: p.110 / 4A: p.133|
+0|Technomancer|テクノマンサー |4: p.103|4: p.111 / 4A: p.134|
+0|Weapons Specialist|ウェポン ・ スペシャリスト |4: p.104|4: p.112 / 4A: p.135|
+5|Skill Groups|技能 グループ [ぎのうグループ] |4: p.106|4: p.118 / 4A: p.142|
+5|Skills and Linked Attributes|技能 と 関連 能力値 表 [ぎのうとかんれんのうりょくちひょう] |4: p.111|4: p.119 / 4A: p.142|
+0|Specializations|専門化 [せんもんか] |4: p.110|4: p.117 / 4A: p.143|
+0|Defaulting|デフォルティング [デフォルティング] |4: p.110|4: p.118 / 4A: p.144|
+0|Dodge (Reaction)|回避 (【 反応力 】) [かいひ(【はんのうりょく】)] |4: p.112|4: p.118 / 4A: p.144|
+0|Archery (Agility)|弓術 (【 敏捷力 】) [きゅうじゅつ(【びんしょうりょく】)]] |4: p.110|4: p.119 / 4A: p.144|
+0|Clubs (Agility)|棍棒 (【 敏捷力 】) [こんぼう(【びんしょうりょく】)]] |4: p.111|4: p.119 / 4A: p.144|
+0|Automatics (Agility)|自動 火器 (【 敏捷力 】) [じどうかき(【びんしょうりょく】)]] |4: p.111|4: p.119 / 4A: p.144|
+0|Heavy Weapons (Agility)|重火器 (【 敏捷力 】) [じゅうかき(【びんしょうりょく】)]] |4: p.112|4: p.119 / 4A: p.144|
+0|Unarmed Combat (Agility)|素手 戦闘 (【 敏捷力 】) [すでせんとう(【びんしょうりょく】)]] |4: p.113|4: p.119 / 4A: p.144|
+0|Longarms (Agility)|長銃 (【 敏捷力 】) [(ちょうじゅう【びんしょうりょく】)]] |4: p.112|4: p.119 / 4A: p.144|
+0|Blades (Agility)|刀剣 (【 敏捷力 】) [とうけん(【びんしょうりょく】)]] |4: p.111|4: p.120 / 4A: p.144|
+0|Throwing Weapons (Agility)|投擲 武器 (【 敏捷力 】) [とうてきぶき(【びんしょうりょく】)]] |4: p.113|4: p.120 / 4A: p.145|
+0|Exotic Melee Weapon (Agility)|特殊 近接 武器 (【 敏捷力 】) [とくしゅきんせつぶき(【びんしょうりょく】)]] |4: p.112|4: p.120 / 4A: p.145|
+0|Exotic Ranged Weapon (Agility)|特殊 射撃 武器 (【 敏捷力 】) [とくしゅしゃげきぶき(【びんしょうりょく】)]] |4: p.112|4: p.120 / 4A: p.145|
+0|Pistols (Agility)|ピストル (【 敏捷力 】) [ピストル(【びんしょうりょく】)]] |4: p.112|4: p.120 / 4A: p.145|
+0|Astral Combat (Willpower)|アストラル 戦闘 (【 意志力 】) [アストラルせんとう(【いしりょく】)]] |4: p.113|4: p.120 / 4A: p.145|
+0||アルカナ (【 論理力 】) [アルカナ(【ろんりりょく】)]] ||4A: p.146|
+0|Ritual Spellcasting (Magic)|儀式 呪文 行使 (【 魔力 】) [ぎしきじゅもんこうし(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0||呪付 (【 魔力 】) [じゅふ(【まりょく】)]] ||4A: p.146|
+0|Spellcasting (Magic)|呪文 行使 (【 魔力 】) [じゅもんこうし(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Counterspelling (Magic)|呪文 対抗 (【 魔力 】) [じゅもんたいこう(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Summoning (Magic)|召喚 (【 魔力 】) [しょうかん(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Binding (Magic)|束縛 (【 魔力 】) [そくばく(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Banishing (Magic)|放逐 (【 魔力 】) [ほうちく(【まりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Assensing (Intuition)|霊視 (【 直観力 】) [れいし(【ちょっかんりょく】)]] |4: p.113|4: p.121 / 4A: p.146|
+0|Navigation (Intuition)|航法 (【 直観力 】) [こうほう(【ちょっかんりょく】)]] |4: p.114|4: p.121 / 4A: p.146|
+0|Survival (Willpower)|サバイバル (【 意志力 】) [サバイバル(【ちょっかんりょく】)]] |4: p.114|4: p.121 / 4A: p.147|
+0|Swimming (Strength)|水泳 (【 筋力 】) [すいえい(【きんりょく】)]] |4: p.114|4: p.121 / 4A: p.147|
+0|Diving (Body)|潜水 (【 強靭力 】) [せんすい(【きょうじんりょく】)]] |4: p.114|4: p.121 / 4A: p.147|
+0|Infiltration (Agility)|潜入 (【 敏捷力 】) [せんにゅう(【びんしょうりょく】)]] |4: p.114|4: p.121 / 4A: p.147|
+0|Gymnastics (Agility)|体術 (【 敏捷力 】) [たいじゅつ(【びんしょうりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Escape Artist (Agility)|脱出 (【 敏捷力 】) [だっしゅつ(【びんしょうりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Perception (Intuition)|知覚 (【 直観力 】) [ちかく(【ちょっかんりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Climbing (Strength)|登攀 (【 筋力 】) [とうはん(【きんりょく】)]] |4: p.113|4: p.122 / 4A: p.147|
+0|Tracking (Intuition)|トラッキング (【 直観力 】) [トラッキング(【ちょっかんりょく】)]] |4: p.115|4: p.122 / 4A: p.147|
+0|Palming (Agility)|パーミング (【 敏捷力 】) [パーミング(【びんしょうりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Parachuting (Body)|パラシュート (【 強靭力 】) [パラシュート(【きょうじんりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Shadowing (Intuition)|尾行 (【 直観力 】) [びこう(【ちょっかんりょく】)]] |4: p.114|4: p.122 / 4A: p.147|
+0|Disguise (Intuition)|変装 (【 直観力 】) [へんそう(【ちょっかんりょく】)]] |4: p.114|4: p.122 / 4A: p.148|
+0|Running (Strength)|ランニング (【 筋力 】) [ランニング(【きんりょく】)]] |4: p.114|4: p.122 / 4A: p.148|
+0|Compiling (Resonance)|コンパイル (【 共振力 】) [コンパイル(【きょうしんりょく】)]] |4: p.119|4: p.127 / 4A: p.148|
+0|Decompiling (Resonance)|デコンパイル (【 共振力 】) [デコンパイル(【きょうしんりょく】)]] |4: p.119|4: p.127 / 4A: p.148|
+0|Registering (Resonance)|レジスター (【 共振力 】) [レジスター(【きょうしんりょく】)]] |4: p.119|4: p.127 / 4A: p.148|
+0|Etiquette (Charisma)|エチケット (【 魅力 】) [エチケット(【みりょく】)]] |4: p.120|4: p.127 / 4A: p.148|
+0|Intimidation (Charisma)|脅迫 (【 魅力 】) [きょうはく(【みりょく】)]] |4: p.120|4: p.127 / 4A: p.148|
+0|Con (Charisma)|虚言 (【 魅力 】) [きょげん(【みりょく】)]] |4: p.120|4: p.128 / 4A: p.149|
+0|Negotiation (Charisma)|交渉 (【 魅力 】) [こうしょう(【みりょく】)]] |4: p.120|4: p.128 / 4A: p.149|
+0|Instruction (Charisma)|指導 (【 魅力 】) [しどう(【みりょく】)]] |4: p.120|4: p.128 / 4A: p.149|
+0|Leadership (Charisma)|統率 (【 魅力 】) [とうそつ(【みりょく】)]] |4: p.120|4: p.128 / 4A: p.149|
+0||化学 (【 論理力 】) [かがく(【ろんりりょく】)]] ||4A: p.149|
+0|Medicine (Logic)|医術 (【 論理力 】) [いじゅつ(【ろんりりょく】)]] |4: p.124|4: p.131 / 4A: p.149|
+0|First Aid (Logic)|応急 処置 (【 論理力 】) [おうきゅうしょち(【ろんりりょく】)]] |4: p.124|4: p.131 / 4A: p.149|
+0|Forgery (Agility)|偽造 (【 敏捷力 】) [ぎぞう(【びんしょうりょく】)]] |4: p.124|4: p.131 / 4A: p.149|
+0|Industrial Mechanic (Logic)|工業 機器 整備 (【 論理力 】) [こうぎょうききせいび(【ろんりりょく】)]] |4: p.124|4: p.131 / 4A: p.149|
+0|Aeronautics Mechanic (Logic)|航空機 整備 (【 論理力 】) [こうくきせいび(【ろんりりょく】)]] |4: p.123|4: p.131 / 4A: p.149|
+0|Artisan (Intuition)|工芸 (【 直観力 】) [こうげい(【ちょっかんりょく】)]] |4: p.123|4: p.131 / 4A: p.149|
+0|Computer (Logic)|コンピュータ (【 論理力 】) [コンピュータ(【ろんりりょく】)]] |4: p.123|4: p.131 / 4A: p.150|
+0|Cybertechnology (Logic)|サイバー 技術 (【 論理力 】) [サイバーぎじゅつ(【ろんりりょく】)]] |4: p.123|4: p.131 / 4A: p.150|
+0|Cybercombat (Logic)|サイバー 戦闘 (【 論理力 】) [サイバーせんとう(【ろんりりょく】)]] |4: p.123|4: p.131 / 4A: p.150|
+0|Automotive Mechanic (Logic)|自動車 整備 (【 論理力 】) [じどうしゃせいび(【ろんりりょく】)]] |4: p.123|4: p.131 / 4A: p.150|
+0|Locksmith (Agility)|錠前 (【 敏捷力 】) [じょうまえ(【びんしょうりょく】)]] |4: p.124|4: p.131 / 4A: p.150|
+0|Nautical Mechanic (Logic)|船舶 整備 (【 論理力 】) [せんぱくせいび(【ろんりりょく】)]] |4: p.124|4: p.132 / 4A: p.150|
+0|Software (Logic)|ソフトウェア (【 論理力 】) [ソフトウェア(【ろんりりょく】)]] |4: p.124|4: p.132 / 4A: p.150|
+0|Data Search (Logic)|データ 検索 (【 論理力 】) [データけんさく(【ろんりりょく】)]] |4: p.123|4: p.132 / 4A: p.151|
+0|Electronic Warfare (Logic)|電子戦 (【 論理力 】) [でんしせん(【ろんりりょく】)]] |4: p.124|4: p.132 / 4A: p.151|
+0|Hardware (Logic)|ハードウェア (【 論理力 】) [ハードウェア(【ろんりりょく】)]] |4: p.124|4: p.132 / 4A: p.151|
+0|Demolitions (Logic)|爆破 (【 論理力 】) [ばくは(【ろんりりょく】)]] |4: p.123|4: p.132 / 4A: p.151|
+0|Hacking (Logic)|ハッキング (【 論理力 】) [ハッキング(【ろんりりょく】)]] |4: p.124|4: p.132 / 4A: p.151|
+0|Armorer (Logic)|武器 整備 (【 論理力 】) [ぶきせいび(【ろんりりょく】)]] |4: p.123|4: p.132 / 4A: p.151|
+0|Pilot Aerospace (Reaction)|宇宙船 操縦 (【 反応力 】) [うちゅうせんそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.133 / 4A: p.151|
+0|Pilot Aircraft (Reaction)|航空機 操縦 (【 反応力 】) [こうくうきそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.134 / 4A: p.151|
+0|Pilot Watercraft (Reaction)|船舶 操縦 (【 反応力 】) [せんぱくそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.134 / 4A: p.151|
+0|Pilot Ground Craft (Reaction)|地上機 操縦 (【 反応力 】) [ちじょうきそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.134 / 4A: p.151|
+0|Pilot Exotic Vehicle (Reaction)|特殊 ヴィークル 操縦 (【 反応力 】) [とくしゅヴィークルそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.134 / 4A: p.152|
+0|Gunnery (Agility)|砲術 (【 敏捷力 】) [ほうじゅつ(【びんしょうりょく】)]] |4: p.125|4: p.134 / 4A: p.152|
+0|Pilot Anthroform (Reaction)|歩行機 操縦 (【 反応力 】) [ほこうきそうじゅう(【はんのうりょく】)]] |4: p.126|4: p.134 / 4A: p.151|
+0|Choosing Knowledge Skills|知識 技能 の 選択 [ちしきぎのうのせんたく] |4: p.127|4: p.135 / 4A: p.152|
+0|Knowledge Skill Specializations|知識 技能 の 専門化 [ちしきぎのうのせんもんか] |4: p.127|4: p.136 / 4A: p.152|
+0|Street Knowledge|ストリート 知識 技能 [ストリートちしきぎのう] |4: p.127|4: p.136 / 4A: p.152|
+0|Academic Knowledge|学術 知識 技能 [がくじゅつちしきぎのう] |4: p.128|4: p.136 / 4A: p.153|
+0|Professional Knowledge|職業 知識 技能 [しょくぎょうちしきぎのう] |4: p.128|4: p.136 / 4A: p.153|
+0|Interests|趣味 知識 技能 [しゅみちしきぎのう] |4: p.128|4: p.136 / 4A: p.153|
+0|Language (Intuition)|言語 (【 直観力 】) [げんご(【ちょっかんりょく】)]] |4: p.129|4: p.137 / 4A: p.154|
+0|Lingos|リンゴー |4: p.129|4: p.137 / 4A: p.154|
+0|Charisma-Linked Skills and Language|【 魅力 】 関連 技能 と 言語 の 関係 [みりょくかんれんぎのうとげんごのかんけい] |4: p.130|4: p.137 / 4A: p.154|
+0|Using Etiquette|〈 エチケット 〉 の 使い方 [エチケットのつかいかた] |4: p.121|4: p.130 / 4A: p.154|
+0|Using Stealth Skills|隠密 系 技能 の 使い方 [おんみつけいぎのうのつかいかた] |4: p.118|4: p.125 / 4A: p.155|
+0||〈 化学 〉 の 使い方 [かがくのつかいかた] ||4A: p.155|
+5||ホーム ・ クッキング 表 [ホーム・クッキングひょう] ||4A: p.156|
+5||化学 工具 表 [かがくこうぐひょう] ||4A: p.156|
+0|Using Technical Skills to Build or Repair|技術 系 技能 を使った 製作 と 修理 [ぎじゅつけいぎのうをつかったせいさくとしゅうり] |4: p.125|4: p.133 / 4A: p.156|
+0|Using Forgery|〈 偽造 〉 の 使い方 [ぎぞうのつかいかた] |4: p.124|4: p.132 / 4A: p.156|
+0|Build/Repair Table|製作 ／ 修理 表 [せいさくしゅうりひょう] |4: p.125|4: p.133 / 4A: p.156|
+0|Using Language Skills|言語 技能 の 使い方 [げんごぎのうのつかいかた] |4: p.129|4: p.137 / 4A: p.157|
+5|Language Skill Table|言語 技能 表 [げんごぎのうひょう] |4: p.129|4: p.137 / 4A: p.157|
+0|Using Navigation|〈 航法 〉 の 使い方 [こうほうのつかいかた] |4: p.116|4: p.124 / 4A: p.157|
+0|Using Survival|〈 サバイバル 〉 の 使い方 [サバイバルのつかいかた] |4: p.118|4: p.126 / 4A: p.157|
+5|Survival Test Table|サバイバル テスト 表 [サバイバルテストひょう] |4: p.118|4: p.126 / 4A: p.158|
+0|Using Insruction|〈 指導 〉 の 使い方 [しどうのつかいかた] |4: p.123|4: p.130 / 4A: p.158|
+0|Using Locksmith|〈 錠前 〉 の 使い方 [じょうまえのつかいかた] |4: p.125|4: p.133 / 4A: p.158|
+0|Using Swimming|〈 水泳 〉 の 使い方 [すいえいのつかいかた] |4: p.118|4: p.126 / 4A: p.158|
+5|Treading Water Modifications Table|立ち泳ぎ 修正 表 [たちおよぎしゅうせいひょう] |4: p.119|4: p.127 / 4A: p.159|
+5|Swimming Rates|水泳 移動 距離 表 [すいえいいどうきょりひょう] |4: p.118|4: p.127 / 4A: p.159|
+0|Using Escape Artist|〈 脱出 〉 の 使い方 [だっしゅつのつかいかた] |4: p.115|4: p.123 / 4A: p.159|
+0|Using Perception|〈 知覚 〉 の 使い方 [ちかくのつかいかた] |4: p.117|4: p.124 / 4A: p.159|
+5|Escape Artist Table|脱出 表 [だっしゅつひょう] |4: p.115|4: p.123 / 4A: p.159|
+5|Perception Test Table|知覚 テスト 表 [ちかくテストひょう] |4: p.117|4: p.125 / 4A: p.160|
+0|Using Knowledge Skills|知識 技能 の 使い方 [ちしきぎのうのつかいかた] |4: p.128|4: p.136 / 4A: p.160|
+0|Knowledge Skill Table|知識 技能 表 [ちしきぎのうひょう] |4: p.129|4: p.136 / 4A: p.160|
+0|Jumping|跳躍 の 使い方 [ちょうやくのつかいかた] |4: p.116|4: p.123 / 4A: p.160|
+5|Jumping Table|跳躍 表 [ちょうやくひょう] |4: p.117|4A: p.161|
+0|Using Climbing|〈 登攀 〉 の 使い方 [とうはんのつかいかた] |4: p.115|4: p.122 / 4A: p.161|
+5|Climbing Table|登攀 表 [とうはんひょう] |4: p.115|4: p.123 / 4A: p.161|
+0|Using Tracking|〈 トラッキング 〉 の 使い方 [トラッキングのつかいかた] |4: p.119|4: p.127 / 4A: p.162|
+0|Using Disguise|〈 変装 〉 の 使い方 [へんそうのつかいかた] |4: p.118|4: p.125 / 4A: p.162|
+0|Using Charisma-linked Skills|【 魅力 】 の 関連 技能 使い方 [みりょくかんれんぎのうのつかいかた] |4: p.120|4: p.128 / 4A: p.162|
+0|Social Modifiers|社交 修正 [しゃこうしゅうせい] |4: p.120|4: p.128 / 4A: p.162|
+0|Using Con, Intimidation, Leadership, and Negotiation|〈 虚言 〉〈 脅迫 〉〈 統率 〉〈 交渉 〉 の 使い方 [きょげんきょうはくとうそつこうしょうのつかいかた] |4: p.120|4: p.128 / 4A: p.163|
+5|Charisma-Linked Opposed Tests|【 魅力 】 関連 対抗 テスト 表 [みりょくかんれんたいこうテストひょう] |4: p.121|4: p.128 / 4A: p.163|
+0|Using Running|〈 ランニング 〉 の 使い方 [ランニングのつかいかた] |4: p.117|4: p.125 / 4A: p.163|
+5|Social Modifiers Table|社交 修正 表 [しゃこうしゅうせいひょう] |4: p.122|4: p.129 / 4A: p.164|
+0|Composure (WIL + CHA)|冷静 (【 意志力 】＋【 魅力 】) [れいせい(【いしりょく】＋【みりょく】)]] |4: p.130|4: p.138 / 4A: p.164|
+0|Judge Intentions (INT + CHA)|意図 を はかる (【 直観力 】＋【 魅力 】) [いとをはかる(【ちょっかんりょく】＋【みりょく】)]] |4: p.130|4: p.138 / 4A: p.164|
+0|Lifting and Carrying (STR + BOD)|持ち上げ と 運搬 (【 筋力 】＋【 強靭力 】) [もちあげとうんぱん(【きんりょく】＋【きょうじんりょく】)]] |4: p.130|4: p.138 / 4A: p.165|
+0|Memory (LOG + WIL)|記憶 (【 論理力 】＋【 意志力 】) [きおく(【ろんりりょく】＋【いしりょく】)]] |4: p.130|4: p.138 / 4A: p.165|
+1|Combat Turn Sequence|戦闘 ターン 進行 [せんとうターンしんこう] |4: p.132|4: p.140 / 4A: p.170|
+1|Initiative Score|イニシアティブ ・ スコア |4: p.132|4: p.140 / 4A: p.171|
+1|Initiative Passes|イニシアティブ ・ パス |4: p.134|4: p.142 / 4A: p.171|
+1|Switching Initiative|イニシアティブ の 切り替え [イニシアティブのきりかえ] |4: p.134|4: p.142 / 4A: p.171|
+1|Initiative and Edge|イニシアティブ と エッジ |4: p.134|4: p.142 / 4A: p.172|
+1|Initiative Glitches|イニシアティブ での グリッチ |4: p.134|4: p.143 / 4A: p.172|
+1|Delayed Actions|行動 を 遅らせる [こうどうをおくらせる] |4: p.134|4: p.143 / 4A: p.172|
+1|Timed Items and Initiative|時限 式 の アイテム と イニシアティブ [じげんしきのアイテムとイニシアティブ] |4: p.135|4: p.143 / 4A: p.173|
+1|Free Actions|簡易 動作 [かんいどうさ] |4: p.135|4: p.144 / 4A: p.173|
+5|Combat Actions|戦闘 動作 [せんとうどうさ] |4: p.137|4: p.146 / 4A: p.173|
+1|Simple Actions|単純 動作 [たんじゅんどうさ] |4: p.136|4: p.145 / 4A: p.174|
+1|Complex Actions|複雑 動作 [ふくざつどうさ] |4: p.138|4: p.147 / 4A: p.176|
+1||割り込み 動作 [わりこみどうさ] ||4A: p.176|
+1|Movement|移動 [いどう] |4: p.138|4: p.147 / 4A: p.177|
+5|Movement Rate Table|移動 速度 表 [いどうそくどひょう] |4: p.138|4: p.148 / 4A: p.177|
+1|Resolving Comvat|戦闘 の 解決 [せんとうのかいけつ] |4: p.138|4: p.148 / 4A: p.177|
+1|Opposed Combat Test|対抗 戦闘 テスト [たいこうせんとうてすと] |4: p.138|4: p.148 / 4A: p.177|
+1|The Combat Sequence|戦闘 の 進行 [せんとうのしんこう] |4: p.139|4: p.148 / 4A: p.177|
+1|Ranged Attack Modifiers|射撃 戦闘 における 修正 [しゃげきせんとうにおけるしゅうせい] |4: p.140|4: p.148 / 4A: p.178|
+5|Ranged Combat Summary|射撃 戦闘 の まとめ [しゃげきせんとうのまとめ] |4: p.141|4: p.151 / 4A: p.178|
+5|Weaoin Range Table|射程 距離 表 [しゃていきょりひょう] |4: p.139|4: p.149 / 4A: p.179|
+5|Ranged Combat Modifiers Table|射撃 戦闘 修正 表 [しゃげきせんとうしゅうせいひょう] |4: p.140|4: p.150 / 4A: p.181|
+5|Visibility Table|視界 修正 表 [しかいしゅうせいひょう] |4: p.140|4: p.150 / 4A: p.181|
+1|Defending Against Ranged Combat|射撃 攻撃 に対する 防御 [しゃげきこうげきにたいするぼうぎょ] |4: p.142|4: p.152 / 4A: p.181|
+1|Single-Shot Mode|シングル ショット ・ モード ( SS ) |4: p.142|4: p.152 / 4A: p.182|
+1|Semi-Automatic Mode|セミ オート ・ モード ( SA ) |4: p.142|4: p.152 / 4A: p.182|
+1|Burst-Fire Mode|バースト ファイア ・ モード ( BF ) |4: p.142|4: p.152 / 4A: p.182|
+1|Narrow Bursts|狭い バースト ( ナロー ・ バースト ) [せまいバースト] |4: p.142|4: p.152 / 4A: p.183|
+1|Wide Bursts|広い バースト ( ワイド・バースト ) [ひろいバースト] |4: p.143|4: p.152 / 4A: p.183|
+1|Full-Auto Mode|フル オート ・ モード ( FA ) |4: p.143|4: p.153 / 4A: p.183|
+1|Long Bursts|長 バースト ( ロング ・ バースト ) [ちょうバースト] |4: p.143|4: p.153 / 4A: p.183|
+1|Full Bursts|フル バースト |4: p.144|4: p.154 / 4A: p.183|
+1|Suppressive Fire|制圧 射撃 [せいあつしゃげき] |4: p.144|4: p.154 / 4A: p.183|
+1|Ammunition|弾薬 [だんやく] |4: p.144|4: p.154 / 4A: p.184|
+1|Shotguns|ショットガン |4: p.144|4: p.154 / 4A: p.184|
+1|Narrow Spread|狭 拡散 ( 狭い 拡散 ) [きょうかくさん] |4: p.144|4: p.154 / 4A: p.184|
+1|Medium Spread|中 拡散 [ちゅうかくさん] |4: p.144|4: p.154 / 4A: p.184|
+1|Wide Spread|広 拡散 ( 広い 拡散 ) [こうかくさん] |4: p.144|4: p.154 / 4A: p.184|
+1|Grenades|手榴弾 [しゅうりゅうだん] |4: p.145|4: p.155 / 4A: p.184|
+5|Projectile Weapons Table|射出 武器 表 [しゃしゅつぶきひょう] |4: p.145|4: p.155 / 4A: p.185|
+5|Scatter Table|着弾 誤差 表 [ちゃくだんごさひょう] |4: p.145|4: p.155 / 4A: p.185|
+1|Determine Scatter|着弾 誤差 の 決定 [ちゃくだんごさのけってい] |4: p.145|4: p.155 / 4A: p.185|
+1|Blast Effects|爆発 効果 [ばくはつこうか] |4: p.145|4: p.156 / 4A: p.185|
+5|Grenade Damage Table|手榴弾 ダメージ 表 [しゅうだんダメージひょう] |4: p.146|4: p.156 / 4A: p.185|
+1|Blast Against Barriers|障壁 と 爆発 [しょうへきとばくはつ] |4: p.146|4: p.156 / 4A: p.186|
+1|Blast in a Confined Space|閉鎖 空間 での 爆発 [へいさくうかんでのばくはつ] |4: p.146|4: p.156 / 4A: p.186|
+1|Resolving Rocket and Missile Fire|ロケット と ミサイル による 攻撃 の 解決 [ロケットとミサイルによるこうげきのかいけつ] |4: p.146|4: p.156 / 4A: p.186|
+1|Rocket and Missile Scatter|ロケット と ミサイル の 着弾 誤差 [ロケットとミサイルのちゃくだんごさ] |4: p.146|4: p.157 / 4A: p.186|
+5|Rocket/Missile Table|ロケット ／ ミサイル 表 [ロケットミサイルひょう] |4: p.146|4: p.156 / 4A: p.186|
+5|Melee Combat Summary|近接 戦闘 の まとめ [きんせつせんとうのまとめ] |4: p.147|4: p.157 / 4A: p.187|
+1|Defending Against Melee Attacks|近接 戦闘 に対する 防御 [きんせつせんとうにたいするぼうぎょ] |4: p.147|4: p.157 / 4A: p.187|
+1|Melee Modifiers|近接 戦闘 における 修正 [きんせつせんとうにおけるしゅうせい] |4: p.147|4: p.158 / 4A: p.188|
+5|Melee Modifiers Table|近接 戦闘 修正 表 [きんせつせんとうしゅうせいひょう] |4: p.148|4: p.158 / 4A: p.188|
+5|Melee Weapons Table|近接 武器 表 [きんせつぶきひょう] |4: p.149|4: p.159 / 4A: p.189|
+1||戦闘 中 の 防御 [せんとうちゅうのぼうぎょ] ||4A: p.190|
+5|Defense Modifiers Table|防御 修正 表 [ぼうぎょしゅうせいひょう] |4: p.151|4: p.161 / 4A: p.190|
+1|Full Defense|全力 防御 [ぜんりょくぼうぎょ] |4: p.151|4: p.162 / 4A: p.191|
+1|Full Defense as an Interrupt Action|割り込み 動作 としての 全力 防御 [わりこみどうさとしてのぜんりょくぼうぎょ] |4: p.151|4: p.162 / 4A: p.191|
+1|Armor|装甲 値 [そうこうち] |4: p.148|4: p.159 / 4A: p.192|
+1|Called Shots|部位 狙い [ぶいねらい] |4: p.149|4: p.160 / 4A: p.192|
+1|Interception|移動 妨害 [いどうぼうがい] |4: p.151|4: p.162 / 4A: p.192|
+1|Knockdown|転倒 [てんとう] |4: p.151|4: p.162 / 4A: p.193|
+1|Subduing (Melee Only)|組み伏せ ( 近接 戦闘 のみ ) [くみふせ(きんせつせんとうのみ)] |4: p.152|4: p.162 / 4A: p.193|
+1|Damage|ダメージ |4: p.152|4: p.163 / 4A: p.193|
+1|Damage Codes|ダメージ コード |4: p.152|4: p.163 / 4A: p.194|
+1|Damage Resistance Tests|ダメージ 抵抗 テスト [ダメージていこうテスト] |4: p.153|4: p.163 / 4A: p.194|
+1|Applying Damage|ダメージ の 適用 [ダメージのてきよう] |4: p.153|4: p.164 / 4A: p.194|
+1|Wound Modifiers|負傷 修正 [ふしょうしゅうせい] |4: p.153|4: p.165 / 4A: p.195|
+1|Dead Man's Trigger|死者 の 引き金 [ししゃのひきがね] |4: p.154|4: p.165 / 4A: p.195|
+1|Special Types of Damage|特殊 な タイプ の ダメージ [とくしゅなタイプのダメージ] |4: p.154|4: p.165 / 4A: p.196|
+1|Acit Damage|強酸 ダメージ [きょうさんダメージ] |4: p.154|4: p.165 / 4A: p.196|
+1|Fire Damage|火炎 ダメージ [かえんダメージ] |4: p.155|4: p.166 / 4A: p.196|
+1|Cold Damage|冷気 ダメージ [れいきダメージ] |4: p.154|4: p.165 / 4A: p.196|
+1|Electricity Damage|電撃 ダメージ [でんげきダメージ] |4: p.154|4: p.165 / 4A: p.196|
+1|Falling Damage|落下 ダメージ [らっかダメージ] |4: p.154|4: p.166 / 4A: p.197|
+1|Fatigue Damage|疲労 ダメージ [ひろうダメージ] |4: p.155|4: p.166 / 4A: p.197|
+5|Falling Damage Table|落下 ダメージ 表 [らっかダメージひょう] |4: p.154|4: p.166 / 4A: p.197|
+1|Surprise|不意 打ち [ふいうち] |4: p.155|4: p.166 / 4A: p.198|
+1|Surprise and Perception|不意 打ち と 知覚 [ふいうちとちかく] |4: p.155|4: p.167 / 4A: p.198|
+1|Surprise Tests|不意 打ち テスト [ふいうちテスト] |4: p.155|4: p. 167/ 4A: p.198|
+1|Ambushing|待ち伏せ [まちぶせ] |4: p.156|4: p.167 / 4A: p.198|
+1|Effects of Surprise|不意 打ち の 効果 [ふいうちのこうか] |4: p.156|4: p.167 / 4A: p.199|
+1|Burriers|障壁 [しょうへき] |4: p.157|4: p.168 / 4A: p.199|
+1|Barrier Ratings|障壁 値 [しょうへきち] |4: p.157|4: p.168 / 4A: p.199|
+1|Shooting Through Barriers|障壁 を通しての 射撃 [しょうへきをとおしてのしゃげき] |4: p.157|4: p.169 / 4A: p.199|
+1|Destroying Barriers|障壁 の 破壊 [しょうへきのはかい] |4: p.157|4: p.169 / 4A: p.200|
+5|Barrier Rating Table|障壁 値 表 [しょうへきちひょう] |4: p.157|4: p.169 / 4A: p.200|
+5|Damage Barriers Table|障壁 攻撃 表 [しょうへきこうげきひょう] |4: p.158|4: p.169 / 4A: p.200|
+1|Vehicle Combat|ヴィークル 戦闘 [ヴィークルせんとう] |4: p.158|4: p.170 / 4A: p.200|
+1|Vehicle Tests|ヴィークル ・ テスト |4: p.159|4: p.170 / 4A: p.201|
+5|Handling Rating Table|操縦 値 表 [そうじゅうちひょう] |4: p.159|4: p.170 / 4A: p.201|
+5|Vehicle Test Threshold Table|ヴィークル ・ テスト 目標値 表 [ヴィークル・テストもくひょうちひょう] |4: p.159|4: p.171 / 4A: p.202|
+5|Terrain Table|地形 表 [ちけいひょう] |4: p.160|4: p.171 / 4A: p.203|
+1|Ramming|体当たり [たいあたり] |4: p.160|4: p.172 / 4A: p.203|
+5|Ramming Damage Table|体当たり ダメージ 表 [たいあたりダメージひょう] |4: p.160|4: p.172 / 4A: p.203|
+1|Chase Combat|チェイス |4: p.160|4: p.172 / 4A: p.204|
+1|Opposed Vehcle Test|対抗 ヴィークル ・ テスト [たいこうヴィークル・テスト] |4: p.161|4: p.173 / 4A: p.204|
+1|Attacks Against Vehicles|ヴィークル への 攻撃 [ヴィークルへのこうげき] |4: p.161|4: p.173 / 4A: p.205|
+1|Evasive Driving|回避 機動 [かいひきどう] |4: p.161|4: p.173 / 4A: p.205|
+1|Vehicle Damage|ヴィークル の ダメージ |4: p.161|4: p.174 / 4A: p.205|
+1|Crashing|クラッシュ |4: p.161|4: p.174 / 4A: p.205|
+1|Called Shots on Vehicles|ヴィークル の 部位 狙い [ヴィークルのぶいねらい] |4: p.162|4: p.174 / 4A: p.205|
+1|Damage and Passengers|ダメージ と 同乗者 [ダメージとどうじょうしゃ] |4: p.162|4: p.174 / 4A: p.206|
+1|Gunnery|砲術 [ほうじゅつ] |4: p.162|4: p.174 / 4A: p.206|
+1|Drones and Gunnery|ドローン と 砲術 [ドローンとほうじゅつ] |4: p.162|4: p.174 / 4A: p.206|
+1|Sensor Tests|センサー ・ テスト |4: p.162|4: p.174 / 4A: p.206|
+1|Sensor Targeting|センサー による 照準 [センサーによるしょうじゅん] |4: p.162|4: p.175 / 4A: p.206|
+1|Passive Targeting|受動 照準 [じゅどうしょうじゅん] |4: p.162|4: p.175 / 4A: p.206|
+1|Active Targeting|能動 照準 [のうどうしょうじゅん] |4: p.162|4: p.175 / 4A: p.206|
+5|Signature Table|シグネチャー 表 [シグネチャーひょう] |4: p.162|4: p.174 / 4A: p.206|
+2|Drain|ドレイン |4: p.167|4: p.180 / 4A: p.214|
+2|Magical Lodges|マジカル ・ ロッジ |4: p.167|4: p.181 / 4A: p.215|
+2|Noticing Magic|魔法 を 察知する [まほうをさっちする] |4: p.168|4: p.181 / 4A: p.215|
+2|Magic Actions|魔法 動作 [まほうどうさ] |4: p.168|4: p.181 / 4A: p.216|
+2|Traditions|様式 ( トラディショナル ) [ようしき] |4: p.169|4: p.182 / 4A: p.217|
+2|Overcasting|過負荷 呪文 [オーバーキャスティング] |4: p.172|4: p.186 / 4A: p.220|
+2|Learning Spells|呪文 を 学ぶ [じゅもんをまなぶ] |4: p.172|4: p.186 / 4A: p.220|
+5|Spell Formulae Costs|呪文 式 コスト 表 [じゅもんしきコストひょう] |4: p.172|4: p.186 / 4A: p.220|
+2|Limited Spells|制限 呪文 [せいげんじゅもん] |4: p.172|4: p.186 / 4A: p.220|
+2|Spellcasting (Rule)|呪文 行使 ( ルール ) [じゅもんこうし] |4: p.173|4: p.186 / 4A: p.220|
+5|Spellcasting by the Numbers|呪文 行使 の 手順 [じゅもんこうしのてじゅん] |4: p.175|4: p.189 / 4A: p.221|
+2|Area Spell|範囲 呪文 [はんいじゅもん] |4: p.173|4: p.187 / 4A: p.221|
+2|Casting Multiple Spells|複数 の 呪文 を 行使する [ふくすうのじゅもんをこうしする] |4: p.173|4: p.187 / 4A: p.221|
+5|Object Resistance Table|物体 抵抗 表 [ぶったいていこうひょう] |4: p.174|4: p.188 / 4A: p.222|
+2|Ritual Spellcasting (Rule)|儀式 呪文 行使 ( ルール ) [ぎしきじゅもんこうし] |4: p.174|4: p.189 / 4A: p.223|
+2|Ritual Targeting|儀式 照準 [ぎしきしょうじゅん] |4: p.175|4: p.189 / 4A: p.223|
+2|Team Leader|儀式 の リーダー [ぎしきのリーダー] |4: p.175|4: p.189 / 4A: p.224|
+2|Casting Ritual Spell|儀式 呪文 を 行使する [ぎしきじゅもんをこうしする] |4: p.175|4: p.189 / 4A: p.224|
+2|Noticing Ritual Spellcasting|儀式 呪文 を 察知する [ぎしきじゅもんをさっちする] |4: p.175|4: p.189 / 4A: p.224|
+2|Ritual Drain|儀式 呪文 の ドレイン [ぎしきじゅもんのドレイン] |4: p.175|4: p.190 / 4A: p.224|
+2|Counterspelling (Rule)|呪文 対抗 ( ルール ) [じゅもんたいこう] |4: p.175|4: p.190 / 4A: p.224|
+2|Spell Defense|呪文 防御 [じゅもんぼうぎょ] |4: p.175|4: p.190 / 4A: p.224|
+2|Dispelling Sustained Spell|呪文 解除 [じゅもんかいじょ] |4: p.176|4: p.190 / 4A: p.224|
+2|Spirits|精霊 [せいれい] |4: p.176|4: p.190 / 4A: p.225|
+2|Six Types|基本 の 精霊 6 種類 [きほんのせいれい6しゅるい] |4: p.176|4: p.191 / 4A: p.225|
+2|Spirit Forms|精霊 の 形態 [せいれいのけいたい] |4: p.176|4: p.191 / 4A: p.225|
+2|Spirit Combat|精霊 と 戦闘 [せいれいとせんとう] |4: p.177|4: p.191 / 4A: p.226|
+2|Spirit-Summoner Link|精霊 と 召喚者 の リンク [せいれいとしょうかんしゃのリンク] |4: p.177|4: p.192 / 4A: p.226|
+2|Spirit Services|精霊 の 助力 [せいれいのじょりょく] |4: p.177|4: p.192 / 4A: p.226|
+2|Bound Spirit Services|束縛 された 精霊 の 助力 [そくばくされたせいれいのじょりょく] |4: p.178|4: p.192 / 4A: p.226|
+2|Roleplaying Spirits and Services|精霊 の ロールプレイング と 助力 [せいれいのロールプレイングとじょりょく] |4: p.179|4: p.193 / 4A: p.227|
+2|Summoning (Rule)|召喚 ( ルール ) [しょうかん] |4: p.179|4: p.194 / 4A: p.228|
+5|Spirit Services|精霊 の 助力 [せいれいのじょりょく] |4: p.179|4: p.194 / 4A: p.228|
+2|Summoning Drain|召喚 時の ドレイン [しょうかんじのドレイン] |4: p.179|4: p.194 / 4A: p.228|
+2|Banishing|放逐 [ほうちく] |4: p.180|4: p.194 / 4A: p.228|
+2|Binding|束縛 [そくばく] |4: p.180|4: p.194 / 4A: p.229|
+2|Rebinding|再 束縛 [さいそくばく] |4: p.180|4: p.195 / 4A: p.229|
+2|Watcher Spirits|ウォッチャー |4: p.181|4: p.195 / 4A: p.229|
+2|Summoning Watchers|ウォッチャー を 召喚 する [ウォッチャーをしょうかんする] |4: p.181|4: p.196 / 4A: p.230|
+2|Watcher Tasks|ウォッチャー の 仕事 [ウォッチャーのしごと] |4: p.181|4: p.196 / 4A: p.230|
+2||呪付 [じゅふ] ||4A: p.230|
+2||収束具式 [しゅうそくぐしき] ||4A: p.230|
+2||テレスマ ||4A: p.231|
+2||収束具 の 作成 [しゅうそくぐのさくせい] ||4A: p.231|
+5||呪付 表 [じゅふひょう] ||4A: p.231|
+2|The Astral World|アストラル 界 [アストラルかい] |4: p.181|4: p.196 / 4A: p.232|
+2|Auras and Astral Forms|オーラ と アストラル 体 [オーラとアストラルたい] |4: p.181|4: p.196 / 4A: p.232|
+2|Astral Perception (Rule)|アストラル 知覚 ( ルール ) [アストラルちかく] |4: p.182|4: p.196 / 4A: p.232|
+5|Assensing Table|霊視 表 [れいしひょう] |4: p.183|4: p.197 / 4A: p.232|
+2|Astral Signatures|霊紋 [れいもん] |4: p.182|4: p.197 / 4A: p.233|
+2|Astral Projection|アストラル 投射 [アストラルとうしゃ] |4: p.183|4: p.198 / 4A: p.233|
+2|Astral Movement|アストラル 空間 での 移動 [アストラルくうかんでのいどう] |4: p.183|4: p.198 / 4A: p.233|
+5|Astral Attributes|アストラル 能力値 表 [アストラルのうりょくちひょう] |4: p.184|4: p.199 / 4A: p.233|
+5|Astral Tracking Modifiers|アストラル 追跡 修正 表 [アストラルついせきしゅうせいひょう] |4: p.184|4: p.199 / 4A: p.234|
+5|Astral Combat (Table)|アストラル 戦闘 表 [アストラルせんとうひょう] |4: p.184|4: p.199 / 4A: p.234|
+2|Astral Forms|アストラル 体 [アストラルたい] |4: p.183|4: p.198 / 4A: p.234|
+2|Astral Detection|アストラル 体 の 感知 [アストラルたいのかんち] |4: p.184|4: p.199 / 4A: p.234|
+2|Manifesting|顕現 [けんげん] |4: p.184|4: p.199 / 4A: p.235|
+2|Astral Combat (Rule)|アストラル 戦闘 ( ルール ) [アストラルせんとう] |4: p.184|4: p.199 / 4A: p.235|
+2|Astral Tracking|アストラル 追跡 [アストラルついせき] |4: p.185|4: p.200 / 4A: p.235|
+2|The Metaplanes|上位 次元界 ( メタ プレーン ) [じょういじげんかい] |4: p.185|4: p.200 / 4A: p.235|
+2|Mana Barriers|マナ 障壁 [マナしょうへき] |4: p.185|4: p.200 / 4A: p.235|
+2|Mana Lodges|マナ ・ ロッジ |4: p.185|4: p.200 / 4A: p.236|
+2|Wards|結界 ( ワード ) [けっかい] |4: p.185|4: p.200 / 4A: p.236|
+2|Passing Through Barriers|障壁 を 通過 する [しょうへきをつうかする] |4: p.185|4: p.201 / 4A: p.236|
+2||呪文 と マナ 障壁 [じゅもんとマナしょうへき] ||4A: p.236|
+2|Adepts (Rule)|アデプト ( ルール ) |4: p.186|4: p.202 / 4A: p.237|
+2|Mystic Adepts (Rule)|ミスティック ・ アデプト ( ルール ) |4: p.186|4: p.202 / 4A: p.237|
+2|Adept Powers|アデプト パワー |4: p.187|4: p.202 / 4A: p.237|
+2|Astral Perception (Adept Power)|アストラル 知覚 ( アデプト パワー ) [アストラルちかく] |4: p.187|4: p.202 / 4A: p.237|
+2|Improved Sense (Adept Power)|感覚 強化 ( アデプト パワー ) [かんかくきょうか] |4: p.188|4: p.202 / 4A: p.237|
+2|Kinesics (Adept Power)|キネシクス ( アデプト パワー ) |4: p.187|4: p.203 / 4A: p.238|
+2|Improved Ability (Adept Power)|技能 強化 ( アデプト パワー ) [ぎのうきょうか] |4: p.187|4: p.203 / 4A: p.238|
+2|Critical Strike (Adept Power)|強打 ( アデプト パワー ) [きょうだ] |4: p.187|4: p.203 / 4A: p.238|
+2|Pain Resistance (Adept Power)|苦痛 耐性 ( アデプト パワー ) [くつうたいせい] |4: p.188|4: p.203 / 4A: p.238|
+2|Rapid Healing (Adept Power)|高速 治癒 ( アデプト パワー ) [こうそくちゆ] |4: p.189|4: p.203 / 4A: p.238|
+2|Killing Hands (Adept Power)|殺戮 の 手 ( アデプト パワー ) [さつりくのて] |4: p.188|4: p.203 / 4A: p.238|
+2|Natural Immunity (Adept Power)|自然 耐性 ( アデプト パワー ) [しぜんたいせい] |4: p.188|4: p.203 / 4A: p.238|
+2|Spell Resistance (Adept Power)|呪文 耐性 ( アデプト パワー ) [じゅもんたいせい] |4: p.189|4: p.203 / 4A: p.238|
+2|Improved Physical Attribute (Adept Power)|身体 能力値 強化 ( アデプト パワー ) [しんたいのうりょくちきょうか] |4: p.187|4: p.203 / 4A: p.239|
+2|Voice Control (Adept Power)|声帯 制御 ( アデプト パワー ) [せいたいせいぎょ] |4: p.189|4: p.204 / 4A: p.239|
+2|Combat Sense (Adept Power)|戦闘 感覚 ( アデプト パワー ) [せんとうかんかく] |4: p.187|4: p.204 / 4A: p.239|
+2|Great Leap (Adept Power)|大 跳躍 ( アデプト パワー ) [だいちょうやく] |4: p.187|4: p.204 / 4A: p.239|
+2|Enhanced Perception (Adept Power)|知覚 強化 ( アデプト パワー ) [ちかくきょうか] |4: p.187|4: p.204 / 4A: p.239|
+2|Attribute Boost (Adept Power)|能力値 ブースト ( アデプト パワー ) [のうりょくちブースト] |4: p.187|4: p.204 / 4A: p.239|
+2|Improved Reflexes (Adept Power)|反射 強化 ( アデプト パワー ) [はんしゃきょうか] |4: p.188|4: p.204 / 4A: p.239|
+2|Mystic Armor (Adept Power)|魔力 装甲 ( アデプト パワー ) [まりょくそうこう] |4: p.188|4: p.204 / 4A: p.239|
+5|Improved Reflexes Cost|反射 強化 コスト [はんしゃきょうかコスト] |4: p.188|4: p.204 / 4A: p.239|
+2|Missile Parry (Adept Power)|矢 薙ぎ ( アデプト パワー ) [やなぎ] |4: p.188|4: p.204 / 4A: p.240|
+2|Initiation|イニシエーション ( 秘儀参入 の 儀式 ) [いにしえーしょん(ひぎさんにゅうのぎしき)] |4: p.189|4: p.205 / 4A: p.240|
+2|Initiate Powers|イニシエイト の パワー |4: p.189|4: p.205 / 4A: p.240|
+2|Increased Magic|魔力 の 増加 [まりょくのぞうか] |4: p.189|4: p.205 / 4A: p.241|
+2|Metaplanar Access|上位 次元 界 への アクセス [じょういじげんかいへのアクセス] |4: p.189|4: p.205 / 4A: p.241|
+2|Metamagic|メタ マジック ( 上位 魔法 ) [メタマジック(じょういまほう)] |4: p.189|4: p.205 / 4A: p.241|
+2|Foci|収束具 ( フォーカス ) [しゅうそくぐ(フォーカス)] |4: p.190|4: p.206 / 4A: p.242|
+2|Bonding|結合 [けつごう] |4: p.191|4: p.206 / 4A: p.242|
+5|Focus Bonding Table|収束具 結合 表 [しゅうそくぐけつごうひょう] |4: p.191|4: p.207 / 4A: p.242|
+2|Activation|活性化 [かっせいか] |4: p.191|4: p.207 / 4A: p.242|
+2|Spell Foci|呪文 収束具 ( スペル ・ フォーカス ) [じゅもんしゅうそくぐ] |4: p.191|4: p.207 / 4A: p.242|
+2|Spirit Foci|精霊 収束具 ( スピリット ・ フォーカス ) [せいれいしゅうそくぐ] |4: p.191|4: p.207 / 4A: p.243|
+2|Weapon Foci|武器 収束具 ( ウェポン ・ フォーカス ) [ぶきしゅうそくぐ] |4: p.191|4: p.208 / 4A: p.243|
+2|Power Foci|魔力 収束具 ( パワー ・ フォーカス ) [まりょくしゅうそくぐ] |4: p.192|4: p.208 / 4A: p.243|
+2|Mentor Spirits (Rule)|導師 精霊 ( ルール ) [どうしせいれい] |4: p.192|4: p.208 / 4A: p.243|
+2|Roleplaying a Mentor Spirit|導師 精霊 を ロールプレイする [どうしせいれいをロールプレイする] |4: p.192|4: p.208 / 4A: p.243|
+2|Mentor Spirit Modifiers|導師 精霊 修正 [どうしせいれいしゅうせい] |4: p.192|4: p.208 / 4A: p.244|
+2|Mentor Spirit Archetypes|導師 精霊 の アーキタイプ [どうしせいれいのアーキタイプ] |4: p.192|4: p.208 / 4A: p.244|
+2|Dog (Mentor Spirit)|犬 ( 導師 精霊 ) [いぬ] |4: p.193|4: p.209 / 4A: p.244|
+2|Sea (Mentor Spirit)|海 ( 導師 精霊 ) [うみ] |4: p.194|4: p.210 / 4A: p.244|
+2|Wolf (Mentor Spirit)|狼 ( 導師 精霊 ) [おおかみ] |4: p.194|4: p.211 / 4A: p.245|
+2|Wise Warrior (Mentor Spirit)|賢き 戦士 ( 導師 精霊 ) [かしこきせんし] |4: p.194|4: p.211 / 4A: p.245|
+2|Raven (Mentor Spirit)|鴉 ( 導師 精霊 ) [からす] |4: p.194|4: p.210 / 4A: p.245|
+2|Bear (Mentor Spirit)|熊 ( 導師 精霊 ) [くま] |4: p.192|4: p.209 / 4A: p.245|
+2|Shark (Mentor Spirit)|サメ ( 導師 精霊 ) [さめ] |4: p.194|4: p.210 / 4A: p.245|
+2|Thunderbird (Mentor Spirit)|サンダー バード ( 導師 精霊 ) [さんだーばーど] |4: p.194|4: p.211 / 4A: p.245|
+2|Moon Maiden (Mentor Spirit)|月 の 乙女 ( 導師 精霊 ) [つきのおとめ] |4: p.193|4: p.210 / 4A: p.245|
+2|Trickster (Mentor Spirit)|トリック スター ( 導師 精霊 ) |4: p.194|4: p.211 / 4A: p.246|
+2|Cat (Mentor Spirit)|猫 ( 導師 精霊 ) [ねこ] |4: p.192|4: p.209 / 4A: p.246|
+2|Rat (Mentor Spirit)|ネズミ ( 導師 精霊 ) [ねずみ] |4: p.193|4: p.210 / 4A: p.246|
+2|Fire-Bringer (Mentor Spirit)|火をもたらす者 ( 導師 精霊 ) [ひをもたらすもの ファイア ブリンガー ] |4: p.193|4: p.209 / 4A: p.246|
+2|Snake (Mentor Spirit)|蛇 ( 導師 精霊 ) [へび] |4: p.194|4: p.210 / 4A: p.246|
+2|Dark King (Mentor Spirit)|冥王 ( 導師 精霊 ) [めいおう] |4: p.193|4: p.209 / 4A: p.246|
+2|Mountain (Mentor Spirit)|山 ( 導師 精霊 ) [やま] |4: p.193|4: p.210 / 4A: p.246|
+2|Seductress (Mentor Spirit)|誘惑 する 女 ( 導師 精霊 ) [ゆうわくするおんな] |4: p.194|4: p.210 / 4A: p.246|
+2|Dragonslayer (Mentor Spirit)|龍 殺し の 英雄 ( 導師 精霊 ) [りゅうごろしのえいゆう ドラゴン スレイヤー ] |4: p.193|4: p.209 / 4A: p.247|
+2|Eagle (Mentor Spirit)|鷲 ( 導師 精霊 ) [わし] |4: p.193|4: p.209 / 4A: p.247|
+2|Street Grimoire|ストリート の 魔道書 [ストリートのまどうしょ] |4: p.195|4: p.211 / 4A: p.247|
+2|Spell Characteristics|呪文 の 特性 [じゅもんのとくせい] |4: p.195|4: p.211 / 4A: p.247|
+2|Combat Spells|戦闘 呪文 [せんとうじゅもん] |4: p.195|4: p.212 / 4A: p.248|
+5|Spell Codes|呪文 コード [じゅもんコード] |4: p.197|4: p.213 / 4A: p.248|
+2|Direct Combat Spells|直接 戦闘 呪文 [ちょくせつせんとうじゅもん] |4: p.195|4: p.212 / 4A: p.248|
+2|Indirect Combat Spells|間接 戦闘 呪文 [かんせつせんとうじゅもん] |4: p.196|4: p.213 / 4A: p.248|
+2|Elemental Effects|元素 属性 効果 [げんそぞくせいこうか] |4: p.196|4: p.213 / 4A: p.249|
+2|Acid Stream (Combat Spell)|酸 噴射 ／ アシッド ・ ストリーム ( 戦闘呪文 ) [さんふんしゃ] |4: p.197|4: p.213 / 4A: p.249|
+2|Toxic Wave (Combat Spell)|毒 の 波 ／ トキシック ・ ウェーブ ( 戦闘呪文 ) [どくのなみ] |4: p.197|4: p.213 / 4A: p.249|
+2|Punch (Combat Spell)|拳打 ／ パンチ ( 戦闘呪文 ) [けんだ] |4: p.197|4: p.214 / 4A: p.249|
+2|Clout (Combat Spell)|拳撃 ／ クラウト ( 戦闘呪文 ) [けんげき] |4: p.197|4: p.214 / 4A: p.249|
+2|Blast (Combat Spell)|爆発 ／ ブラスト ( 戦闘呪文 ) [ばくはつ] |4: p.197|4: p.214 / 4A: p.249|
+2|Death Touch (Combat Spell)|死神 の 手 ／ デス ・ タッチ ( 戦闘呪文 ) [しにがみのて] |4: p.197|4: p.214 / 4A: p.249|
+2|Manabolt (Combat Spell)|魔力 破 ／ マナ ボルト ( 戦闘呪文 ) [まりょくは] |4: p.197|4: p.214 / 4A: p.249|
+2|Manaball (Combat Spell)|魔力 球 ／ マナ ボール ( 戦闘呪文 ) [まりょくきゅう] |4: p.197|4: p.214 / 4A: p.249|
+2|Flamethrower (Combat Spell)|火炎 放射 ／ フレイム スローワー ( 戦闘呪文 ) [かえんほうしゃ] |4: p.197|4: p.214 / 4A: p.250|
+2|Fireball (Combat Spell)|火炎 球 ／ ファイア ボール ( 戦闘呪文 ) [かえんきゅう] |4: p.197|4: p.214 / 4A: p.250|
+2|Lightning Bolt (Combat Spell)|雷撃 ／ ライトニング ・ ボルト ( 戦闘呪文 ) [らいげき] |4: p.197|4: p.214 / 4A: p.250|
+2|Ball Lightning (Combat Spell)|雷球 ／ ボール ・ ライトニング ( 戦闘呪文 ) [らいきゅう] |4: p.197|4: p.214 / 4A: p.250|
+2|Sgatter (Combat Spell)|粉砕 ／ シャッター ( 戦闘呪文 ) [ふんさい] |4: p.197|4: p.214 / 4A: p.250|
+2|Powerbolt (Combat Spell)|理力 破 ／ パワー ボルト ( 戦闘呪文 ) [りりょくは] |4: p.197|4: p.214 / 4A: p.250|
+2|Powerball (Combat Spell)|理力 球 ／ パワー ボール ( 戦闘呪文 ) [りりょくきゅう] |4: p.197|4: p.214 / 4A: p.250|
+2|Knockout (Combat Spell)|昏倒 ／ ノック アウト ( 戦闘呪文 ) [こんとう] |4: p.197|4: p.214 / 4A: p.250|
+2|Stunbolt (Combat Spell)|喪神 破 ／ スタン ボルト ( 戦闘呪文 ) [そうしんは] |4: p.197|4: p.214 / 4A: p.250|
+2|Stanball (Combat Spell)|喪神 球 ／ スタン ボール ( 戦闘呪文 ) [そうしんきゅう] |4: p.197|4: p.214 / 4A: p.251|
+2|Detection Spells|探知 呪文 [たんちじゅもん] |4: p.197|4: p.214 / 4A: p.251|
+2|Active (Detection Spell)|能動 探知 呪文 [たんちじゅもん] |4: p.198|4: p.215 / 4A: p.251|
+2|Passive (Detection Spell)|受動 探知 呪文 [たんちじゅもん] |4: p.198|4: p.215 / 4A: p.251|
+2|Range (Detection Spell)|範囲 探知 呪文 [たんちじゅもん] |4: p.198|4: p.215 / 4A: p.251|
+2|Analyze Device (Detection Spell)|機器 分析 ／ アナライズ ・ デバイス ( 探知呪文 ) [ききぶんせき] |4: p.198|4: p.215 / 4A: p.251|
+2|Analyze Truth (Detection Spell)|真偽 分析 ／ アナライズ ・ トゥルース ( 探知呪文 ) [しんぎぶんせき] |4: p.198|4: p.215 / 4A: p.251|
+5|Detection Spell Result|探知 呪文 の 結果 表 [たんちじゅもんのけっかひょう] |4: p.198|4: p.215 / 4A: p.251|
+2|Clairaudience (Detection Spell)|地獄 耳 ／ クレア オーディエンス ( 探知呪文 ) [じごくみみ] |4: p.198|4: p.215 / 4A: p.252|
+2|Clairvoyance (Detection Spell)|千里 眼 ／ クレア ボヤンス ( 探知呪文 ) [せんりがん] |4: p.198|4: p.216 / 4A: p.252|
+2|Combat Sense (Detection Spell)|戦闘 感覚 ／ コンバット センス ( 探知呪文 ) [せんとうかんかく] |4: p.198|4: p.216 / 4A: p.252|
+2|Detect Enemies (Detection Spell)|敵 探知 ／ ディテクト ・ エネミー ( 探知呪文 ) [てきたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Enemies, Extended (Detection Spell)|広域 敵 探知 ／ エクステンデッド ・ ディテクト ・ エネミー ( 探知呪文 ) [こういきてきたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Individual (Detection Spell)|個人 探知 ／ ディテクト ・ インディヴィデュアル ( 探知呪文 ) [こじんたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Life (Detection Spell)|生命 探知 ／ ディテクト ・ ライフ ( 探知呪文 ) [せいめいたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Life, Extended (Detection Spell)|広域 生命 探知 ／ エクステンデッド ・ ディテクト ・ ライフ ( 探知呪文 ) [こういきせいめいたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect [Life Form] (Detection Spell)|［ 生命体 ］ 探知 ／ ディテクト ・ ［ ライフ フォーム ］ ( 探知呪文 ) [せいめいたいたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect [Life Form], Extended (Detection Spell)|広域 ［ 生命体 ］ 探知 ／ エクステンデッド ・ ディテクト ・ ［ ライフ フォーム ］ ( 探知呪文 ) [こういきせいめいたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Magic (Detection Spell)|魔力 探知 ／ ディテクト ・ マジック ( 探知呪文 ) [まりょくたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect Magic, Extended (Detection Spell)|広域 魔力 探知 ／ エクステンデッド ・ ディテクト ・ マジック ( 探知呪文 ) [こういきまりょくたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Detect [Object] (Detection Spell)|［ 物体 ］ 探知 ／ ディテクト ・ ［ オブジェクト ］ ( 探知呪文 ) [ぶったいたんち] |4: p.199|4: p.216 / 4A: p.252|
+2|Mindlink (Detection Spell)|精神 連結 ／ マインド リンク ( 探知呪文 ) [せいしんれんけつ] |4: p.199|4: p.216 / 4A: p.253|
+2|Mind Probe (Detection Spell)|精神 探査 ／ マインド ・ プロープ ( 探知呪文 ) [せいしんたんさ] |4: p.199|4: p.216 / 4A: p.253|
+5|Mind Probe Result|精神 探査 の 結果 表 [せいしんたんさのけっかひょう] |4: p.199|4: p.217 / 4A: p.253|
+2|Health Spells|身体 呪文 [しんたいじゅもん] |4: p.199|4: p.217 / 4A: p.253|
+2|Healing Characters with Implants|インプラント を持つ キャラクター に対する 治癒 [インプラントをもつキャラクターにたいするちゆ] |4: p.199|4: p.217 / 4A: p.253|
+2|Negative Health Spells|負の効果 を持つ 身体 呪文 [ふのこうかをもつしんたいじゅもん] |4: p.199|4: p.217 / 4A: p.253|
+2|Antidote (Health Spell)|消毒 ／ アンティ ドート ( 身体呪文 ) [しょうどく] |4: p.199|4: p.217 / 4A: p.253|
+2|Cure Disease (Health Spell)|病気 治療 ／ キュア ・ ディジーズ ( 身体呪文 ) [びょうきちゆ] |4: p.200|4: p.217 / 4A: p.253|
+2|Decrease [Attribute] (Health Spell)|［ 能力値 ］ 減退 ／ デクリース ・ ［ アトリビュート ］ ( 身体呪文 ) [のうりょくちげんたい] |4: p.200|4: p.217 / 4A: p.253|
+2|Detox (Health Spell)|解毒 ／ デトックス ( 身体呪文 ) [げどく] |4: p.200|4: p.217 / 4A: p.254|
+2|Heal (Health Spell)|治癒 ／ ヒール ( 身体呪文 ) [ちゆ] |4: p.200|4: p.217 / 4A: p.254|
+2|Hibernate (Health Spell)|冬眠 ／ ハイバネイト ( 身体呪文 ) [とうみん] |4: p.200|4: p.218 / 4A: p.254|
+2|Increase [Attribute] (Health Spell)|［ 能力値 ］ 増強 ／ インクリース ・ ［ アトリビュート ］ ( 身体呪文 ) [のうりょくちぞうきょう] |4: p.200|4: p.218 / 4A: p.254|
+2|Increase Reflexes (Health Spell)|反射 増強 ／ インクリース ・ リフレックス ( 身体呪文 ) [はんしゃぞうきょう] |4: p.200|4: p.218 / 4A: p.254|
+2|Oxygenate (Health Spell)|酸素 注入 ／ オキシジェネイト ( 身体呪文 ) [さんそちゅうにゅう] |4: p.200|4: p.218 / 4A: p.254|
+2|Prophylaxis (Health Spell)|予防 ／ プロフィラキシス ( 身体呪文 ) [よぼう] |4: p.200|4: p.218 / 4A: p.254|
+2|Resist Pain (Health Spell)|鎮痛 ／ レジスト ・ ペイン ( 身体呪文 ) [ちんつう] |4: p.200|4: p.218 / 4A: p.254|
+2|Stabilize (Health Spell)|安定化 ／ スタビライズ ( 身体呪文 ) [あんていか] |4: p.201|4: p.218 / 4A: p.255|
+2|Illusion Spells|幻影 呪文 [げんえいじゅもん] |4: p.201|4: p.219 / 4A: p.255|
+2|Mana Illusions|マナ 幻影 [マナげんえい] |4: p.201|4: p.219 / 4A: p.255|
+2|Physical Illusions|物理 幻影 [ぶつりげんえい] |4: p.201|4: p.219 / 4A: p.255|
+2|Confusion (Illusion Spell)|混乱 ／ コンフュージョン ( 幻影呪文 ) [こんらん] |4: p.201|4: p.219 / 4A: p.255|
+2|Mass Confusion (Illusion Spell)|集団 混乱 ／ マス ・ コンフュージョン ( 幻影呪文 ) [しゅうだんこんらん] |4: p.201|4: p.219 / 4A: p.255|
+2|Chaos (Illusion Spell)|混沌 ／ ケイオス ( 幻影呪文 ) [こんとん] |4: p.201|4: p.219 / 4A: p.255|
+2|Chaotic World (Illusion Spell)|集団 混沌 ／ ケイオティック ・ ワールド ( 幻影呪文 ) [しゅうだんこんとん] |4: p.201|4: p.219 / 4A: p.255|
+2|Entertainment (Illusion Spell)|見世物 ／ エンターテインメント ( 幻影呪文 ) [みせもの] |4: p.201|4: p.219 / 4A: p.255|
+2|Trid Entertainment (Illusion Spell)|立体 見世物 ／ トリッド ・ エンターテインメント ( 幻影呪文 ) [りったいみせもの] |4: p.201|4: p.219 / 4A: p.255|
+2|Invisibility (Illusion Spell)|透明化 ／ インヴィジビリティ ( 幻影呪文 ) [とうめいか] |4: p.201|4: p.219 / 4A: p.256|
+2|Improved Invisibility (Illusion Spell)|完全 透明化 ／ インプルーヴド ・ インヴィジビリティ ( 幻影呪文 ) [かんぜんとうめいか] |4: p.201|4: p.219 / 4A: p.256|
+2|Mask (Illusion Spell)|仮面 ／ マスク ( 幻影呪文 ) [かめん] |4: p.202|4: p.220 / 4A: p.256|
+2|Physical Mask (Illusion Spell)|物理 の 仮面 ／ フィジカル ・ マスク ( 幻影呪文 ) [ぶつりのかめん] |4: p.202|4: p.220 / 4A: p.256|
+2|Phantasm (Illusion Spell)|幻覚 ／ ファンタズム ( 幻影呪文 ) [げんかく] |4: p.202|4: p.220 / 4A: p.256|
+2|Trid Phantasm (Illusion Spell)|立体 幻覚 ／ トリッド ・ ファンタズム ( 幻影呪文 ) [りったいげんかく] |4: p.202|4: p.220 / 4A: p.256|
+2|Hush (Illusion Spell)|しじま ／ ハッシュ ( 幻影呪文 ) |4: p.202|4: p.220 / 4A: p.256|
+2|Silence (Illusion Spell)|静寂 ／ サイレンス ( 幻影呪文 ) [せいじゃく] |4: p.202|4: p.220 / 4A: p.256|
+2|Stealth (Illusion Spell)|隠密 ／ ステルス ( 幻影呪文 ) [おんみつ] |4: p.202|4: p.220 / 4A: p.256|
+2|Manipulation Spells|操作 呪文 [そうさじゅもん] |4: p.202|4: p.220 / 4A: p.257|
+2|Mental Manipulations|精神 操作 [せいしんそうさ] |4: p.202|4: p.220 / 4A: p.257|
+2|Armor (Manipulation Spell)|鎧 ／ アーマー ( 操作呪文 ) [よろい] |4: p.202|4: p.220 / 4A: p.257|
+2|Control Actions (Manipulation Spell)|行動 制御 ／ コントロール ・ アクション ( 操作呪文 ) [こうどうせいぎょ] |4: p.202|4: p.221 / 4A: p.257|
+2|Mob Control (Manipulation Spell)|集団 行動 制御 ／ コントロール ・ モブ ( 操作呪文 ) [しゅうだんこうどうせいぎょ] |4: p.202|4: p.221 / 4A: p.257|
+2|Control Emotions (Manipulation Spell)|感情 制御 ／ コントロール ・ エモーション ( 操作呪文 ) [かんじょうせいぎょ] |4: p.203|4: p.221 / 4A: p.257|
+2|Mob Mood (Manipulation Spell)|集団 感情 制御 ／ モブ ・ ムード ( 操作呪文 ) [しゅうだんかんじょうせいぎょ] |4: p.203|4: p.221 / 4A: p.257|
+2|Control Thoughts (Manipulation Spell)|思考 制御 ／ コントロール ・ ソート ( 操作呪文 ) [しこうせいぎょ] |4: p.203|4: p.221 / 4A: p.257|
+2|Mob Mind (Manipulation Spell)|集団 思考 制御 ／ モブ ・ マインド ( 操作呪文 ) [しゅうだんしこうせいぎょ] |4: p.203|4: p.221 / 4A: p.257|
+2|Fling (Manipulation Spell)|投擲 ／ フリング ( 操作呪文 ) [とうてき] |4: p.203|4: p.221 / 4A: p.257|
+2|Ice Sheet (Manipulation Spell)|氷膜 ／ アイス ・ シート ( 操作呪文 ) [ひょうまく] |4: p.203|4: p.221 / 4A: p.257|
+2|Ignite (Manipulation Spell)|発火 ／ イグナイト ( 操作呪文 ) [はっか] |4: p.203|4: p.221 / 4A: p.258|
+2|Influence (Manipulation Spell)|感化 ／ インフルエンス ( 操作呪文 ) [かんか] |4: p.203|4: p.221 / 4A: p.258|
+2|Levitate (Manipulation Spell)|空中 浮揚 ／ レヴィテイト ( 操作呪文 ) [くうちゅうふよう] |4: p.203|4: p.222 / 4A: p.258|
+2|Light (Manipulation Spell)|光 ／ ライト ( 操作呪文 ) [ひかり] |4: p.203|4: p.222 / 4A: p.258|
+2|Magic Fingers (Manipulation Spell)|魔法 の 指 ／ マジック ・ フィンガー ( 操作呪文 ) [まほうのゆび] |4: p.203|4: p.222 / 4A: p.258|
+2|Mana Barrier (Manipulation Spell)|マナ 障壁 ／ マナ ・ バリアー ( 操作呪文 ) [マナしょうへき] |4: p.204|4: p.222 / 4A: p.258|
+2|Petrify (Manipulation Spell)|石化 ／ ペトリファイ ( 操作呪文 ) [せきか] |4: p.204|4: p.222 / 4A: p.259|
+2|Physical Barrier (Manipulation Spell)|物理 障壁 ／ フィジカル ・ バリアー ( 操作呪文 ) [ぶつりしょうへき] |4: p.204|4: p.222 / 4A: p.259|
+2|Poltergeist (Manipulation Spell)|騒霊 ／ ポルターガイスト ( 操作呪文 ) [そうれい] |4: p.204|4: p.223 / 4A: p.259|
+2|Shadow (Manipulation Spell)|影 ／ シャドウ ( 操作呪文 ) [かげ] |4: p.204|4: p.223 / 4A: p.259|
+2|Shapechange (Manipulation Spell)|変身 ／ シェイプチェンジ ( 操作呪文 ) [へんしん] |4: p.204|4: p.223 / 4A: p.259|
+2|[Critter] Form (Manipulation Spell)|［ クリッター ］ 変化 ／ ［ クリッター ］ フォーム ( 操作呪文 ) [クリッターへんげ] |4: p.204|4: p.223 / 4A: p.259|
+2|Turn to Goo (Manipulation Spell)|ドロドロになれ ／ ターン ・ トゥ ・ グー ( 操作呪文 ) |4: p.204|4: p.223 / 4A: p.259|
+3|Zones|ゾーン |4: p.209|4: p.229 / 4A: p.270|
+5||雑音 ゾーン と デッド ・ ゾーン [ざつおんゾーンとデッドゾーン] ||4A: p.270|
+3|Matrix Attributes|マトリックス 能力値 [マトリックスのうりょくち] |4: p.212|4: p.231 / 4A: p.272|
+3|Firewall|ファイア ウォール |4: p.213|4: p.232 / 4A: p.272|
+3|Response|レスポンス |4: p.212|4: p.231 / 4A: p.272|
+3|Signal|シグナル |4: p.212|4: p.232 / 4A: p.272|
+3|System|システム |4: p.213|4: p.232 / 4A: p.272|
+3|Device Rating|機器 レーティング [ききレーティング] |4: p.213|4: p.233 / 4A: p.272|
+5|Signal Rating Table|シグナル 表 |4: p.212|4: p.232 / 4A: p.272|
+5|Sample Devices|サンプル 機器 表 [サンプルききひょう] |4: p.214|4: p.234 / 4A: p.272|
+5||ハードウェア ・ アップグレード ・ コスト 表 ||4A: p.272|
+5|Hardware Upgrade Costs|ハードウェア ・ アップグレード 表 |4: p.240|4: p. 263|
+3||機器 の アップグレード [ききのアップグレード] ||4A: p.273|
+3||プロセッサ 上限 [プロセッサじょうげん] ||4A: p.273|
+3||機器 の モード [ききのモード] ||4A: p.273|
+3|PAN Modes|PAN の モード |4: p.211|4: p.230|
+3|Persona|ペルソナ ・ プログラム |4: p.211|4: p.231 / 4A: p.274|
+3||アクセス ID [アクセスアイディー] ||4A: p.274|
+3|Commcodes|コム コード |4: p.214|4: p.233 / 4A: p.274|
+3|Icon|アイコン |4: p.211|4: p.231 / 4A: p.275|
+3||ノード ||4A: p.275|
+3||ノード の スカルプティング||4A: p.275|
+3||ノード への アクセス ||4A: p.275|
+3||連携 登録 [れんけいとうろく] ||4A: p.275|
+3||複数 同時 の 連携 登録 [ふくすうどうじのれんけいとうろく] ||4A: p.276|
+3|Linking and Subscribing|リンク と 登録 [リンクととうろく] |4: p.212|4: p.231|
+3|Accessing Multiple Nodes|複数 ノード への アクセス [ふくすうノードへのアクセス] |4: p.218|4: p.237|
+3||アクセス ・ アカウント ||4A: p.276|
+3||権限 付与 と 認証 [けんげんふよとにんしょう] ||4A: p.276|
+3|Authorized Access|認証 アクセス [にんしょうアクセス] |4: p.215|4: p.234|
+3|Passcodes|パス コード |4: p.215|4: p.234|
+3|Account Priviledges|アカウント 権限 [アカウントけんげん] |4: p.216|4: p.234|
+3||強化 現実 と 仮想 現実 を 利用する [きょうかげんじつとかそうげんじつをりようする] ||4A: p.277|
+3|Cold Sim|コールド ・ シム |4: p.229|4: p.249 / 4A: p.277|
+3|Hot Sim|ホット ・ シム |4: p.229|4: p.249 / 4A: p.277|
+3||マトリックス での 能力値 [マトリックスでののうりょくち] ||4A: p.278|
+3|Using the Matrix|マトリックス を 使う [マトリックスをつかう] |4: p.217|4: p.227 / 4A: p.279|
+3|Using Computer Skill|〈 コンピュータ 〉 の 使い方 [コンピュータのつかいかた] |4: p.218|4: p.237 / 4A: p.279|
+3||〈 サイバー 戦闘 〉 の 使い方 [サイバーせんとうのつかいかた] ||4A: p.279|
+3|Using Data Search Skill|〈 データ 検索 〉 の 使い方 [データけんさくのつかいかた] |4: p.219|4: p.239 / 4A: p.279|
+3|Using Electronic Warefare Skill|〈 電子戦 〉 の 使い方 [でんしせんのつかいかた] |4: p.225|4: p.244 / 4A: p.279|
+3|Using Hacking Skill|〈 ハッキング 〉 の 使い方 [ハッキングのつかいかた] |4: p.223|4: p.242 / 4A: p.280|
+3||〈 ハードウェア 〉 の 使い方  [ハードウェアのつかいかた] ||4A: p.280|
+3||〈 ソフトウェア 〉 の 使い方 [ソフトウェアのつかいかた] ||4A: p.280|
+3||共振力 系 技能 の 使い方 [きょうしんりょくけいぎのうのつかいかた] ||4A: p.280|
+5||ハードウェア 作成 表 [ハードウェアさくせいひょう] ||4A: p.280|
+5|Build Hardware Table|ハードウェア 製作 表 [ハードウェアせいさくひょう] |4: p.240|4: p.263|
+5||ソフトウェア ・ コーディング 表 ||4A: p.280|
+5|Coding Software Table|ソフトウェア ・ プログラミング 表 |4: p.240|4: p.263|
+3|Matrix Perception|マトリックス 知覚 [マトリックスちかく] |4: p.217|4: p.235 / 4A: p.280|
+3|Matrix Actions|マトリックス 動作 [マトリックスどうさ] |4: p.219|4: p.238 / 4A: p.281|
+5|Search Table|データ 検索 表 [データ 検索 表] |4: p.220|4: p.239 / 4A: p.283|
+5|Track Modifiers Table|追跡 表 [ついせきひょう] |4: p.220|4: p.239 / 4A: p.285|
+3|Programs|プログラム |4: p.225|4: p.245 / 4A: p.286|
+3||一般用 プログラム ・ スイート [いっぱんようプログラムスイート] ||4A: p.286|
+3|Common Use Programs|一般用 プログラム [いっぱんようプログラム] |4: p.226|4: p.245 / 4A: p.286|
+3|Analyze (Program)|分析 ( プログラム ) [ぶんせき] |4: p.226|4: p.245 / 4A: p.286|
+3|Browse (Program)|検索 ( プログラム ) [けんさく] |4: p.226|4: p.245 / 4A: p.287|
+3|Command (Program)|命令 ( プログラム ) [めいれい] |4: p.226|4: p.246 / 4A: p.287|
+3|Edit (Program)|編集 ( プログラム ) [へんしゅう] |4: p.226|4: p.246 / 4A: p.287|
+3|Encrypt (Program)|暗号化 ( プログラム ) [あんごうか] |4: p.226|4: p.246 / 4A: p.287|
+3|Reality Filter (Program)|仮想 現実 フィルター ( プログラム ) [かそうげんじつフィルター] |4: p.226|4: p.246 / 4A: p.287|
+3|Scan (Program)|走査 ( プログラム ) [そうさ] |4: p.226|4: p.246 / 4A: p.287|
+3|Hacking Programs|ハッキング用 プログラム [ハッキングようプログラム] |4: p.226|4: p.246 / 4A: p.287|
+3|Armor (Program)|装甲 ( プログラム ) [そうこう] |4: p.226|4: p.246 / 4A: p.287|
+3|Attack (Program)|攻撃 ( プログラム ) [こうげき] |4: p.226|4: p.246 / 4A: p.287|
+3|Biofeedback Filters (Program)|生体 信号 フィルター ( プログラム ) [せいたいしんごうフィルター] |4: p.226|4: p.246 / 4A: p.287|
+3|Black Hammer (Program)|ブラック ハンマー ( プログラム ) |4: p.226|4: p.246 / 4A: p.287|
+3|Blackout (Program)|ブラック アウト ( プログラム ) |4: p.226|4: p.246 / 4A: p.288|
+3|Data Bomb (Program)|データ 爆弾 ( プログラム ) [データばくだん] |4: p.226|4: p.246 / 4A: p.288|
+3|Decrypt (Program)|暗号 解読 ( プログラム ) [あんごうかいどく] |4: p.227|4: p.247 / 4A: p.288|
+3|Defuse (Program)|解除 ( プログラム ) [かいじょ] |4: p.227|4: p.247 / 4A: p.288|
+3|ECCM (Program)|ECCM ( プログラム ) [イーシーシーエム] |4: p.227|4: p.247 / 4A: p.288|
+3|Exploit (Program)|侵入 ( プログラム ) [しんにゅう] |4: p.227|4: p.247 / 4A: p.288|
+3|Medic (Program)|修復 ( プログラム ) [しゅうふく] |4: p.227|4: p.247 / 4A: p.288|
+3|Sniffer (Program)|傍受 ( プログラム ) [ぼうじゅ] |4: p.227|4: p.247 / 4A: p.288|
+3|Spoof (Program)|偽装 ( プログラム ) [ぎそう] |4: p.227|4: p.247 / 4A: p.288|
+3|Stealth (Program)|隠密 ( プログラム ) [おんみつ] |4: p.227|4: p.247 / 4A: p.288|
+3|Track (Program)|追跡 ( プログラム ) [ついせき] |4: p.227|4: p.247 / 4A: p.288|
+3||エージェント と IC [エージェントとアイス] ||4A: p.289|
+3|Using Agents|エージェント の 使い方 [エージェントのつかいかた] |4: p.227|4: p.248 / 4A: p.289|
+3|Payload|積載 量 [せきさいりょう] |4: p.228|4: p.248 / 4A: p.290|
+3|Intrusion Countermeasures|侵入 対策 ( IC ) [しんにゅうたいさく] |4: p.228|4: p.248 / 4A: p.290|
+3|Hacking the Matrix|マトリックス の ハッキング |4: p.208|4: p.227 / 4A: p.291|
+3|Hacking (Rule)|ハッキング ( ルール ) |4: p.221|4: p.240 / 4A: p.291|
+3|Hacking on the Fly|即興 ハッキング [そっきょうハッキング] |4: p.221|4: p.240 / 4A: p.291|
+3|Probing the Target|脆弱 性 の 探査 [ぜいじゃくせいのたんさ] |4: p.221|4: p.241 / 4A: p.291|
+3||なりすまし ||4A: p.292|
+3|Cybercombet (Rule)|サイバー 戦闘 ( ルール ) [サイバーせんとう] |4: p.230|4: p.250 / 4A: p.292|
+3|Matrix Initiative|マトリックス ・ イニシアティブ |4: p.230|4: p.251 / 4A: p.292|
+3|Augmented Initiative|強化 現実 の イニシアティブ [きょうかげんじつのイニシアティブ] |4: p.230|4: p.251 / 4A: p.292|
+3|Virtual Initiative|仮想 現実 の イニシアティブ [かそうげんじつのイニシアティブ] |4: p.230|4: p.251 / 4A: p.292|
+3|Agent, IC, and Sprite Initiative|エージェント 、IC 、 スプライト の イニシアティブ |4: p.230|4: p.251 / 4A: p.293|
+3|Matrix Attacks|マトリックス 攻撃 [マトリックスこうげき] |4: p.230|4: p.251 / 4A: p.293|
+3|Matrix Full Defense|マトリックス 全力 防御 [マトリックスぜんりょくぼうぎょ] |4: p.231|4: p.251 / 4A: p.293|
+3|Matrix Damage|マトリックス ・ ダメージ |4: p.231|4: p.251 / 4A: p.293|
+3|Matrix Condition Monitor|マトリックス ・ コンディション ・ モニター |4: p.231|4: p.251 / 4A: p.293|
+3|Dumpshock|ダンプ ショック |4: p.231|4: p.251 / 4A: p.293|
+3|Black IC Attacks|ブラック IC による 攻撃 |4: p.231|4: p.252 / 4A: p.293|
+5|Matrix Combat Summary|マトリックス 戦闘 の まとめ |4: p.232|4: p.252 / 4A: p.293|
+3|Simultaneous Combat in Multiple Nodes|複数 ノード での 同時 戦闘 [ふくすうノードでのどうじせんとう] |4: p.232|4: p.252 / 4A: p.294|
+3||ノード の セキュリティ ||4A: p.294|
+3|Intruder Alerts|警報 [けいほう] |4: p.222|4: p.242 / 4A: p.295|
+3||警報 の 種類 [けいほうのしゅるい] ||4A: p.295|
+3||警報 への 対応 [けいほうへのたいおう] ||4A: p.295|
+3|Launch IC Program|IC プログラム を 起動 する [ICプログラムをきどうする] |4: p.223|4: p.242 / 4A: p.295|
+3||コネクション を 切る [コネクションをきる] ||4A: p.295|
+3|Terminate Connection|接続 を 遮断 する [せつぞくをしゃだんする] |4: p.223|4: p.242|
+5|Random Alert Response|ランダム 警戒 対応 表 [ランダムけいかいたいおうひょう] |4: p.223|4: p.242|
+5||ランダム 警報 対応 表 [ランダムけいほうたいおうひょう] ||4A: p.295|
+3|System Reset|システム ・ リセット |4: p.223|4: p. 242|
+3||システム を 再起動 する [システムをさいきどうする] ||4A: p.296|
+3|Implants and Resonance|埋め込み と 共振力 [うめこみときょうしんりょく] |4: p.232|4: p.253 / 4A: p.296|
+3|The Living Persona|生体 ペルソナ [せいたいペルソナ] |4: p.233|4: p.253 / 4A: p.296|
+5|Living Persona Table|生体 ペルソナ 表 [せいたいペルソナひょう] |4: p.233|4: p.254 / 4A: p.296|
+3|Technomancers and Condition Monitors|テクノマンサー と コンディション ・ モニター |4: p.233|4: p.253 / 4A: p.296|
+3|Technomancer Skills|テクノマンサー の 技能 [テクノマンサーのぎのう] |4: p.233|4: p.254 / 4A: p.296|
+3|Complex Forms|複合体 [ふくごうたい] |4: p.233|4: p.254 / 4A: p.297|
+3|Complex Form Ratings|複合体 の レーティング [ふくごうたいのレーティング] |4: p.233|4: p.254 / 4A: p.297|
+3|Learning Complex Forms|複合体 を 学ぶ [ふくごうたいをまなぶ] |4: p.233|4: p.254 / 4A: p.297|
+3|Threading|スレッド 編成 [スレッドへんせい] |4: p.234|4: p.254 / 4A: p.298|
+3|Sprites|スプライト |4: p.234|4: p.255 / 4A: p.298|
+3|Compiling Sprites|スプライト の コンパイル |4: p.234|4: p.255 / 4A: p.298|
+3|Sprite Tasks|スプライト の タスク |4: p.235|4: p.256 / 4A: p.298|
+3|Remote Tasks|遠隔 タスク [えんかくタスク] |4: p.235|4: p.256 / 4A: p.299|
+3|Sprite-Technomancer Link|スプライト と テクノマンサー の リンク |4: p.235|4: p.256 / 4A: p.299|
+3|Registering Sprites|スプライト の レジスター |4: p.235|4: p.256 / 4A: p.299|
+3|Re-registering|再 レジスター [さいレジスター] |4: p.235|4: p.257 / 4A: p.299|
+3|Decompiling Sprites|スプライト の デコンパイル |4: p.236|4: p.257 / 4A: p.300|
+3|Type of Sprites|スプライト の タイプ |4: p.236|4: p.257 / 4A: p.300|
+3|Sprite Powers|スプライト の パワー |4: p.236|4: p.258 / 4A: p.300|
+3|Cookie (Sprite Power)|クッキー ( スプライト パワー ) |4: p.236|4: p.258 / 4A: p.300|
+3|Diagnostics (Sprite Power)|診断 ( スプライト パワー ) [しんだん] |4: p.237|4: p.258 / 4A: p.301|
+3|Electron Storm (Sprite Power)|電子嵐 ( スプライト パワー ) [でんしあらし] |4: p.237|4: p.258 / 4A: p.301|
+3|Gremlins (Sprite Power)|グレムリン ( スプライト パワー ) |4: p.237|4: p.258 / 4A: p.301|
+3|Hash (Sprite Power)|ハッシュ ( スプライト パワー ) |4: p.237|4: p.258 / 4A: p.301|
+3|Steganography (Sprite Power)|ステガノグラフィー ( スプライト パワー ) |4: p.237|4: p.258 / 4A: p.301|
+3|Stability (Sprite Power)|安定性 ( スプライト パワー ) [あんていせい] |4: p.237|4: p.258 / 4A: p.301|
+3|Suppression (Sprite Power)|警報 抑制 ( スプライト パワー ) [けいほうよくせい] |4: p.237|4: p.259 / 4A: p.301|
+3|Watermark (Sprite Power)|ウォーター マーク ( スプライト パワー ) |4: p.237|4: p.259 / 4A: p.301|
+3|Matrix Signatures|電紋 ( マトリックス ・ シグネチャー ) [でんもん] |4: p.237|4: p.259 / 4A: p.301|
+3|Fading|フェイディング |4: p.237|4: p.259 / 4A: p.302|
+3|Submersion|サブマージョン |4: p.238|4: p.259 / 4A: p.302|
+3|Increased Resonance|共振力 上限 の 増加 [きょうしんりょくじょうげんのぞうか] |4: p.238|4: p.259 / 4A: p.303|
+3|Access to the Resonance Realms|共振 領域 への アクセス [きょうしんりょういきへのアクセス] |4: p.238|4: p.259 / 4A: p.303|
+3|Echoes|エコー |4: p.238|4: p.259 / 4A: p.303|
+3|Rigging and Drones|リギング |4: p.238|4: p.260 / 4A: p.303|
+3|Drones|ドローン |4: p.238|4: p.260 / 4A: p.303|
+3|Pilot Programs|パイロット ・ プログラム |4: p.213|4: p.233 / 4A: p.303|
+3||ドローン の 知覚 [ドローンのちかく] ||4A: p.304|
+3|Drones and Sensors|ドローン と センサー |4: p.239|4: p.261|
+3|Drone Initiative|ドローン の イニシアティブ |4: p.239|4: p.261 / 4A: p.304|
+3|Controlling Drones|ドローン の 制御 [ドローンのせいぎょ] |4: p.238|4: p.260 / 4A: p.304|
+3|Issuing Commands|命令 を 与える [めいれいをあたえる] |4: p.221|4: p.240 / 4A: p.304|
+3||遠隔 操縦 [えんかくそうじゅう] ||4A: p.304|
+3||ジャンプ ・ イン ||4A: p.305|
+3|Jumping into Drones|ドローン に 飛び乗る [ドローンにとびのる] |4: p.239|4: p.260|
+3||セキュリティ ・ システム や その他の 機器 の リギング [セキュリティシステムやそのたのききのリギング] ||4A: p.305|
+3|Rigginh Security Systems|警備 システム を リギング する [けいびシステムをリギングする] |4: p.239|4: p.260|
+3|Autosoft Programs|オート ソフト ・ プログラム |4: p.239|4: p.261 / 4A: p.305|
+3|Clearsight (Autosoft)|鮮明化 ( オート ソフト ) [せんめいか] |4: p.239|4: p.261 / 4A: p.305|
+3|Defence (Autosoft)|防御 ( オート ソフト ) [ぼうぎょ] |4: p.239|4: p.261 / 4A: p.305|
+3|Electronic Warfare (Autosoft)|電子戦 ( オート ソフト ) [でんしせん] |4: p.240|4: p.261 / 4A: p.305|
+3|Maneuver (Autosoft)|機動 ( オート ソフト ) [きどう] |4: p.240|4: p.261 / 4A: p.305|
+3|Targeting (Autosoft)|照準 ( オート ソフト ) [しょうじゅん] |4: p.240|4: p.261 / 4A: p.305|
+3||電子戦 ( ルール ) [でんしせん] ||4A: p.306|
+3||シグナル の 到達 距離 [シグナルのとうたつきょり] ||4A: p.306|
+3||走査 と 傍受 [そうさとぼうじゅ] ||4A: p.306|
+3||ECM と ECCM ||4A: p.306|
+3||暗号化 ( ルール ) [あんごうか] ||4A: p.306|
+3||ハッキング と なりすまし ||4A: p.306|
+5||リガー ／ ドローン ・ テスト まとめ ||4A: p.307|
+0|Healing|回復 [かいふく] |4: p.242|4: p.266 / 4A: p.312|
+0|Stun Damage (Healing)|精神 ダメージ ( 回復 ) [せいしんダメージ] |4: p.242|4: p.266 / 4A: p.312|
+0|Physical Damage (Healing)|身体 ダメージ ( 回復 ) [しんたいダメージ] |4: p.242|4: p.266 / 4A: p.312|
+0|Using First Aid|応急 処置 ( ルール ) [おうきゅうしょち] |4: p.242|4: p.266 / 4A: p.312|
+5|Healing Modifiers|回復 修正 表 [かいふくしゅうせいひょう] |4: p.244|4: p.267 / 4A: p.313|
+0|Using Medicine|〈 医術 〉 の 使い方 [いじゅつのつかいかた] |4: p.242|4: p.267 / 4A: p.313|
+0|Medkits and Autodocs|医療 キット と オート ドク [いりょうキットとオートドク] |4: p.244|4: p.267 / 4A: p.313|
+0|Magical Healing|魔法 治療 [まほうちりょう] |4: p.244|4: p.267 / 4A: p.314|
+0|Physical Damage Overflow|身体 ダメージ の オーバーフロー [しんたいダメージのオーバーフロー] |4: p.244|4: p.267 / 4A: p.314|
+0|Stabilization|容態 を 安定 させる [ようたいをあんていさせる] |4: p.244|4: p.267 / 4A: p.314|
+0|Toxins|毒物 [どくぶつ] |4: p.244|4: p.268 / 4A: p.314|
+5|Toxin Protection|毒 に対する 防護 手段 [どくにたいするぼうごしゅだん] |4: p.245|4: p.268 / 4A: p.314|
+0|Using Toxic Substances|毒物 の 使用 [どくぶつのしよう] |4: p.245|4: p.269 / 4A: p.315|
+0|Toxin Resistance Test|毒物 抵抗 テスト [どくぶつていこうテスト] |4: p.245|4: p.269 / 4A: p.315|
+0|Concentration|濃縮 [のうしゅく] |4: p.245|4: p.269 / 4A: p.315|
+0|Antidotes|解毒 剤 [げどくざい] |4: p.246|4: p.269 / 4A: p.315|
+0|CS/Tear Gas|CS／催涙ガス [クロロベンジリデンマロノニトリル／さいるいガス] |4: p.246|4: p.269 / 4A: p.315|
+0|Gamma-Scopolamine|γ - スコポラミン [ガンマスコポラミン] |4: p.246|4: p.269 / 4A: p.316|
+0|Narcoject|ナルコ ジェクト |4: p.246|4: p.269 / 4A: p.316|
+0|Nausea Gas|催吐 ガス [さいとガス] |4: p.246|4: p.269 / 4A: p.316|
+0|Neuro-Stun|ニューロ ・ スタン |4: p.246|4: p.270 / 4A: p.316|
+0|Pepper Punch|ペッパー パンチ |4: p.246|4: p.270 / 4A: p.316|
+0|Seven-7|セブン - 7 |4: p.246|4: p.270 / 4A: p.316|
+0||睡眠 不足 [すいみんぶそく] ||4A: p.316|
+0|Substance Abuse|依存 と 乱用 [いぞんとらんよう]|4: p.247|4: p.270 / 4A: p.317|
+0|Addiction Tests|依存 症 テスト [いぞんしょうテスト] |4: p.247|4: p.270 / 4A: p.317|
+5|Addiction Threshold|依存 症 目標値 表 [いぞんしょうもくひょうちひょう] |4: p.248|4: p.272 / 4A: p.318|
+0||摂取 [せっしゅ] ||4A: p.318|
+0|Getting a Fix|服用 [ふくよう] |4: p.248|4: p.272|
+0||離脱 状態 と 再 摂取 [りだつじょうたいとさいせっしゅ] ||4A: p.318|
+0|Withdrawal and Staying Clean|離脱 状態 と 再 服用 [りだつじょうたいとさいふくよう] |4: p.248|4: p.272|
+0|Overdosing|過剰 摂取 [かじょうせっしゅ オーバードース] |4: p.248|4: p.272 / 4A: p.318|
+0|Drugs|ドラッグ |4: p.248|4: p.272 / 4A: p.318|
+0|Bliss|ブリス |4: p.248|4: p.272 / 4A: p.318|
+0|Cram|クラム |4: p.249|4: p.272 / 4A: p.318|
+0|Deepweed|ディープ ウィード |4: p.249|4: p.272 / 4A: p.319|
+0|Jazz|ジャズ |4: p.249|4: p.273 / 4A: p.319|
+0|Kamikaze|カミカゼ |4: p.249|4: p.273 / 4A: p.319|
+0|Long Haul|ロング ホール |4: p.249|4: p.273 / 4A: p.319|
+0|Nitro|ニトロ |4: p.249|4: p.273 / 4A: p.319|
+0|Novacoke|ノヴァ コーク |4: p.249|4: p.273 / 4A: p.319|
+0|Psyche|プシュケ |4: p.250|4: p.273 / 4A: p.320|
+0|Zen|ゼン |4: p.250|4: p.273 / 4A: p.320|
+0|BTL Chips|BTL チップ [ビーティーエルチップ] |4: p.250|4: p.274 / 4A: p.320|
+0|BTL Downloads|BTL ダウンロード [ビーティーエルダウンロード] |4: p.250|4: p.274 / 4A: p.321|
+0|Dreamchips|ドリーム チップ |4: p.250|4: p.274 / 4A: p.321|
+0|Moodchips|ムード チップ |4: p.250|4: p.274 / 4A: p.321|
+0|Personafix|ペルソナ フィックス |4: p.250|4: p.274 / 4A: p.321|
+0|Tripchips|トリップ チップ |4: p.251|4: p.274 / 4A: p.321|
+0|Security Systems|セキュリティ ・ システム |4: p.251|4: p.274 / 4A: p.321|
+0|Landscaping (Security)|ランド スケーピング ( セキュリティ ) |4: p.251|4: p.275 / 4A: p.321|
+0|Barriers (Security)|防壁 ( セキュリティ ) [ぼうへき] |4: p.252|4: p.275 / 4A: p.322|
+0|Wires (Security)|ワイア ( セキュリティ ) |4: p.252|4: p.276 / 4A: p.322|
+0|Lighting (Security)|照明 ( セキュリティ ) [しょうめい] |4: p.252|4: p.276 / 4A: p.322|
+0|Doors and Windows (Security)|扉 と 窓 ( セキュリティ ) [とびらとまど] |4: p.252|4: p.276 / 4A: p.322|
+5|Fencing Table|フェンス 表 [セキュリティ] |4: p.252|4: p.275 / 4A: p.322|
+0|HVAC (Security)|HVAC ( セキュリティ ) |4: p.252|4: p.276 / 4A: p.323|
+0|Personnel (Security)|人員 ( セキュリティ ) [じんいん] |4: p.252|4: p.277 / 4A: p.323|
+0|Alerms (Security)|警報 装置 ( セキュリティ ) [けいほうそうち] |4: p.253|4: p.277 / 4A: p.323|
+0|Trip Beams (Security)|遮光 センサー ( セキュリティ ) [しゃこうセンサー] |4: p.253|4: p.277 / 4A: p.324|
+0|Pressure Pads (Security)|感圧パッド ( セキュリティ ) [かんあつパッド] |4: p.253|4: p.278 / 4A: p.324|
+0|Sensors (Security)|センサー ( セキュリティ ) |4: p.254|4: p.278 / 4A: p.324|
+0|Scanners (Security)|スキャナー ( セキュリティ ) |4: p.254|4: p.278 / 4A: p.325|
+0|Locks (Security)|錠 ( セキュリティ ) [じょう] |4: p.255|4: p.279 / 4A: p.325|
+5|Chemical Detection Modifiers|化学 検知 修正 表 [かがくけんちしゅうせいひょう セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+5|Pheromone Scanner Table|フェロモン ・ スキャナー 表 [セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+5|Cyberware Scanner Table|サイバーウェア ・ スキャナー 表 [セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+0|Maglocks (Security)|マグロック ( セキュリティ ) |4: p.255|4: p.279 / 4A: p.326|
+0|Biometrics (Security)|生体 認証 ( セキュリティ ) [せいたいにんしょう] |4: p.255|4: p.280 / 4A: p.327|
+0|Automated Systems|自動 化 システム ( セキュリティ ) [じどうかシステム] |4: p.256|4: p.280 / 4A: p.327|
+0|Biofiber|バイオ ファイバー ( セキュリティ ) |4: p.256|4: p.281 / 4A: p.328|
+0|Wi-Fi Negation|ワイアレス ・ ネットワーク の 遮断 ( セキュリティ ) [ワイアレスネットワークのしゃだん] |4: p.256|4: p.281 / 4A: p.328|
+0|Wi-Fi Detection|ワイアレス ・ ネットワーク の 探知 ( セキュリティ ) [ワイアレスネットワークのたんち] |4: p.256|4: p.281 / 4A: p.328|
+0|Reputation|名声 [めいせい] |4: p.257|4: p.281 / 4A: p.328|
+0|Street Cred|ストリート の 評判 [ストリートのひょうばん] |4: p.257|4: p.281 / 4A: p.328|
+0|Streed Cred Uses|評判 の 使い方 [ひょうばんのつかいかた] |4: p.257|4: p.282 / 4A: p.328|
+0|Notoriety|悪名 [あくみょう] |4: p.257|4: p.282 / 4A: p.329|
+0|Gaining Notoriety|悪名 を 上げる [あくみょうをあげる] |4: p.258|4: p.282 / 4A: p.329|
+0|Notoriety Applications|悪名 の 適用 [あくみょうのてきよう] |4: p.258|4: p.283 / 4A: p.329|
+0|Public Awareness|公的 認知 度 [こうてきにんちど] |4: p.258|4: p.283 / 4A: p.329|
+0|Public Awareness Application|公的 認知 度 の 使い方 [こうてきにんちどのつかいかた] |4: p.258|4: p.283 / 4A: p.329|
+5|Certified Credstic Table|支払い 保証 済み クレッド スティック 表 [しはらいほしょうずみクレッドスティックひょう] |4: p.260|4: p.284 / 4A: p.331|
+0|Using Forged ID|偽造 ID の 使い方 [ぎぞうアイディーのつかいかた] |4: p.260|4: p.285 / 4A: p.332|
+0|Luxury (Lifestyle)|贅沢 ( ライフ スタイル ) [ぜいたく] |4: p.261|4: p.286 / 4A: p.332|
+0|High (Lifestyle)|上流 ( ライフ スタイル ) [じょうりゅう] |4: p.261|4: p.286 / 4A: p.332|
+0|Middle (Lifestyle)|中流 ( ライフ スタイル ) [ちゅうりゅう] |4: p.261|4: p.286 / 4A: p.332|
+0|Low (Lifestyle)|下流 ( ライフ スタイル ) [かりゅう] |4: p.261|4: p.286 / 4A: p.332|
+0|Squatter (Lifestyle)|不法 居住 ( ライフ スタイル ) [ふほうきょじゅう] |4: p.261|4: p.286 / 4A: p.333|
+0|Street (Lifestyle)|路上 生活 ( ライフ スタイル ) [ろじょうせいかつ] |4: p.261|4: p.286 / 4A: p.333|
+0|Hospitalized (Lifestyle)|入院 ( ライフ スタイル ) [にゅういん] |4: p.261|4: p.287 / 4A: p.333|
+0|Keeping Up the Payments|支払い を 続ける [しはらいをつづける] |4: p. 262|4: p.287 / 4A: p.333|
+0|Buying a Lifestyle|ライフ スタイル を 買う [ライフスタイルをかう] |4: p.262|4: p.287 / 4A: p.333|
+0|Team Lifestyles|チーム ・ ライフ スタイル |4: p.262|4: p.288 / 4A: p.334|
+0|Awarding Karma|カルマ を 与える [カルマをあたえる] |4: p.263|4: p.288 / 4A: p.334|
+5|Karma Awards|カルマ 褒賞 表 [カルマほうしょうひょう] |4: p.263|4: p.288 / 4A: p.335|
+0|Character Improvement|キャラクター の 成長 [キャラクターのせいちょう] |4: p.263|4: p.289 / 4A: p.335|
+0|Improving Skills and Skill Groups|技能 や 技能 グループ の 成長 [ぎのうやぎのうグループのせいちょう] |4: p.264|4: p.289 / 4A: p.335|
+0|Improving Attributes|能力値 の 成長 [のうりょくちのせいちょう] |4: p.264|4: p.289 / 4A: p.336|
+0|Other Improvements|その他 の 成長 [そのたのせいちょう] |4: p.264|4: p.289 / 4A: p.336|
+5|Character Improvement|キャラクター の 成長 表 [キャラクターのせいちょう] |4: p.264|4: p.290 / 4A: p.336|
+0|Grunts|グラント ( 集団 の 一員 ) [グラントしゅうだんのいちいん] |4: p.272|4: p.300 / 4A: p.348|
+0|Professional Rating|プロ 意識 [プロいしき] |4: p.272|4: p.300 / 4A: p.349|
+0|Lieutenants|ルテナント ( 隊長 ) [ルテナントたいちょう] |4: p.274|4: p.301 / 4A: p.349|
+0|Corporate Security Unit|企業 警備 ユニット [きぎょうけいびユニット] |4: p.274|4: p.302 / 4A: p.350|
+0|Triad Posse|三合会 の 兵隊 [トライアドのへいたい] |4: p.275|4: p.303 / 4A: p.350|
+0|Halloweeners Street Gang|ハロウィーナー ・ ストリート ・ ギャング |4: p.274|4: p.302 / 4A: p.351|
+0|Humanis Policlub Goon Squad|ヒューマニス ・ ポリクラブ の チンピラ |4: p.275|4: p.301 / 4A: p.351|
+0|Red Samurai Detachment|レッド ・ サムライ 分遣隊 |4: p.276|4: p.303 / 4A: p.351|
+0|Lone Star Police Squad|ローン スター 警官隊 [ローンスターけいかんたい] |4: p.274|4: p.303 / 4A: p.352|
+0|Tir Ghosts|ティル の ゴースト |4: p.275|4: p.303 / 4A: p.352|
+0|Prime Runners|プライム ・ ランナー |4: p.276|4: p.304 / 4A: p.353|
+5|Prime Runner Creation and Advancement Table|プライム ・ ランナー 作成 ／ 成長表 |4: p.277|4: p.305 / 4A: p.354|
+0|Contacts|コンタクト |4: p.278|4: p.305 / 4A: p.354|
+0|Connection Rating|コネ 値 [コネち] |4: p.278|4: p.305 / 4A: p.355|
+0|Loyalty Rating|忠実 値 [ちゅうじつち] |4: p.278|4: p.306 / 4A: p.355|
+5|Connection Rating Table|コネ 値 表 [コネちひょう] |4: p.278|4: p.305 / 4A: p.355|
+5|Loyalty Rating Table|忠実 値 表 [ちゅうじつちひょう] |4: p.279|4: p.306 / 4A: p.355|
+0|Using Contacts|コンタクト の 使い方 [コンタクトのつかいかた] |4: p.279|4: p.306 / 4A: p.355|
+5|Tavor Rating Table|手助け 表 [てだすけひょう] |4: p.281|4: p.308 / 4A: p.358|
+0|Beat Cop (Contact)|巡回 警官 ( コンタクト ) [じゅんかいけいかん] |4: p.282|4: p.310 / 4A: p.358|
+0|Street Doc (Contact)|ストリート ・ ドク ( コンタクト ) |4: p.284|4: p.312 / 4A: p.359|
+0|Talismonger (Contact)|タリス モンガー ( コンタクト ) |4: p.285|4: p.312 / 4A: p.359|
+0|Bartender (Contact)|バーテンダー ( コンタクト ) |4: p.282|4: p.309 / 4A: p.360|
+0|Fixer (Contact)|フィクサー ( コンタクト ) |4: p.283|4: p.310 / 4A: p.360|
+0|Blogger (Contact)|ブロガー ( コンタクト ) |4: p.282|4: p.310 / 4A: p.361|
+0|Mafia Consiglieri (Contact)|マフィア ・ コンシリエーリ ( コンタクト ) |4: p.283|4: p.311 / 4A: p.361|
+0|Mr.Johnson (Contact)|ミスター ・ ジョンソン ( コンタクト ) |4: p.284|4: p.311 / 4A: p.362|
+0|Mechanic (Contact)|メカニック ( コンタクト ) |4: p.284|4: p.311 / 4A: p.362|
+0|Critters|クリッター |4: p.285|4: p.313 / 4A: p.363|
+0|Powers|パワー |4: p.286|4: p.313 / 4A: p.363|
+0|Mystic Armor (Critter Power)|アストラル 装甲 ( クリッター パワー ) [アストラルそうこう] |4: p.289|4: p.317 / 4A: p.364|
+0|Astral Form (Critter Power)|アストラル 体 ( クリッター パワー ) [アストラルたい] |4: p.287|4: p.314 / 4A: p.364|
+0|Movement (Critter Power)|移動 ( クリッター パワー ) [いどう] |4: p.289|4: p.317 / 4A: p.364|
+0|Concealment (Critter Power)|隠蔽 ( クリッター パワー ) [いんぺい] |4: p.287|4: p.315 / 4A: p.364|
+0|Essence Drain (Critter Power)|エッセンス 吸収 ( クリッター パワー ) [エッセンスきゅうしゅう] |4: p.288|4: p.316 / 4A: p.364|
+0|Energy Aura (Critter Power)|エネルギー ・ オーラ ( クリッター パワー ) |4: p.287|4: p.315 / 4A: p.365|
+0|Mimicry (Critter Power)|音 真似 ( クリッター パワー ) [おとまね] |4: p.289|4: p.317 / 4A: p.365|
+0|Infection (Critter Power)|感化 ( クリッター パワー ) [かんか] |4: p.289|4: p.317 / 4A: p.365|
+0|Influence (Critter Power)|感染 ( クリッター パワー ) [かんせん] |4: p.289|4: p.317 / 4A: p.365|
+0|Weather Control (Critter Power)|気候 制御 ( クリッター パワー ) [きこうせいぎょ] |4: p.290|4: p.319 / 4A: p.365|
+0|Enhanced Senses (Critter Power)|強化 感覚 ( クリッター パワー ) [きょうかかんかく] |4: p.288|4: p.316 / 4A: p.365|
+0|Compulsion (Critter Power)|強制 ( クリッター パワー ) [きょうせい] |4: p.287|4: p.314 / 4A: p.365|
+0|Fear (Critter Power)|恐怖 ( クリッター パワー ) [きょうふ] |4: p.288|4: p.316 / 4A: p.366|
+0|Elemental Attack (Critter Power)|元素 属性 攻撃 ( クリッター パワー ) [げんそぞくせいこうげき] |4: p.287|4: p.315 / 4A: p.366|
+0|Hardened Armor (Critter Power)|硬化 装甲 ( クリッター パワー ) [こうかそうこう] |4: p.288|4: p.316 / 4A: p.366|
+0|Confusion (Critter Power)|混乱 ( クリッター パワー ) [こんらん] |4: p.287|4: p.315 / 4A: p.366|
+0|Regeneration (Critter Power)|再生 ( クリッター パワー ) [さいせい] |4: p.290|4: p.318 / 4A: p.366|
+0|Accident (Critter Power)|事故 ( クリッター パワー ) [じこ] |4: p.286|4: p.314 / 4A: p.366|
+0|Guard (Critter Power)|守護 ( クリッター パワー ) [しゅご] |4: p.288|4: p.316 / 4A: p.366|
+0|Natural Weapon (Critter Power)|身体 武器 ( クリッター パワー ) [しんたいぶき] |4: p.289|4: p.317 / 4A: p.367|
+0|Innate Spell (Critter Power)|生得 呪文 ( クリッター パワー ) [せいとくじゅもん] |4: p.289|4: p.317 / 4A: p.367|
+0|Binding (Critter Power)|接着 ( クリッター パワー ) [せっちゃく] |4: p.287|4: p.314 / 4A: p.367|
+0|Armor (Critter Power)|装甲 ( クリッター パワー ) [そうこう] |4: p.286|4: p.314 / 4A: p.367|
+5|Search Modifiers Table|捜索 修正 表 [そうさくしゅうせいひょう] |4: p.290|4: p.318 / 4A: p.368|
+0|Search (Critter Power)|捜索 ( クリッター パワー ) [そうさく] |4: p.290|4: p.318 / 4A: p.368|
+0|Immunity (Critter Power)|耐性 ( クリッター パワー ) [たいせい] |4: p.288|4: p.316 / 4A: p.368|
+0|Sapience (Critter Power)|知性 ( クリッター パワー ) [ちせい] |4: p.290|4: p.318 / 4A: p.368|
+0|Engulf (Critter Power)|包み込み ( クリッター パワー ) [つつみこみ] |4: p.287|4: p.315 / 4A: p.368|
+0|Animal Control (Critter Power)|動物 制御 ( クリッター パワー ) [どうぶつせいぎょ] |4: p.286|4: p.314 / 4A: p.368|
+0|Venom (Critter Power)|毒 ( クリッター パワー ) [どく] |4: p.290|4: p.319 / 4A: p.369|
+0|Noxious Breath (Critter Power)|毒 の 吐息 ( クリッター パワー ) [どくのといき] |4: p.289|4: p.318 / 4A: p.369|
+0|Dual Natured (Critter Power)|二元 生物 ( クリッター パワー ) [にげんせいぶつ] |4: p.287|4: p.315 / 4A: p.369|
+0|Psychokinesis (Critter Power)|念動 ( クリッター パワー ) [ねんどう] |4: p.290|4: p.318 / 4A: p.369|
+0|Corrosive Spit (Critter Power)|腐食 性の 唾液 ( クリッター パワー ) [ふしょくせいのだえき] |4: p.287|4: p.315 / 4A: p.369|
+0|Materialization (Critter Power)|物質 化 ( クリッター パワー ) [ぶっしつか] |4: p.289|4: p.317 / 4A: p.370|
+0|Paralyzing Howl (Critter Power)|麻痺 咆哮 ( クリッター パワー ) [まひほうこう] |4: p.289|4: p.318 / 4A: p.370|
+0|Mist Form (Critter Power)|霧 化 ( クリッター パワー ) [むか] |4: p.289|4: p.317 / 4A: p.370|
+0|Weaknesses|弱点 [じゃくてん] |4: p.290|4: p.319 / 4A: p.370|
+0|Allergy (Critter Weakness)|アレルギー ( クリッター 弱点 ) |4: p.290|4: p.319 / 4A: p.370|
+0|Essence Loss (Critter Weakness)|エッセンス 喪失 ( クリッター 弱点 ) [エッセンスそうしつ] |4: p.291|4: p.319 / 4A: p.370|
+0|Reduced Senses (Critter Weakness)|感覚 減退 ( クリッター 弱点 ) [かんかくげんたい] |4: p.291|4: p.319 / 4A: p.370|
+0|Dietary Requirement (Critter Weakness)|必須 食物 ( クリッター 弱点 ) [ひっすしょくもつ] |4: p.290|4: p.319 / 4A: p.370|
+0|Uneducated (Critter Weakness)|無 教育 ( クリッター 弱点 ) [むきょういく] |4: p.291|4: p.319 / 4A: p.370|
+0|Critter Combat|クリッター の 戦闘 [クリッターのせんとう] |4: p.291|4: p.319 / 4A: p.371|
+0|Dog (Ordinary Critter)|犬 ( 通常 の 生物 ) [いぬ] |4: p. 291|4: p.319 / 4A: p.371|
+0|Great Cat (Ordinary Critter)|大型ネコ ( 通常 の 生物 ) [おおがたネコ] |4: p.291|4: p.320 / 4A: p.371|
+0|Horse (Ordinary Critter)|馬 ( 通常 の 生物 ) [うま] |4: p.291|4: p.320 / 4A: p.371|
+0|Shark (Ordinary Critter)|鮫 ( 通常 の 生物 ) [さめ] |4: p.291|4: p.320 / 4A: p.371|
+0|Wolf (Ordinary Critter)|狼 ( 通常 の 生物 ) [おおかみ] |4: p.291|4: p.320 / 4A: p.372|
+0|Vampire (Paracritter)|ヴァンパイア ( 覚醒 生物 ) |4: p.294|4: p.322 / 4A: p.372|
+0|Wendigo (Paracritter)|ウェンディゴ ( 覚醒 生物 ) |4: p.294|4: p.322 / 4A: p.372|
+0|Ghoul (Paracritter)|グール ( 覚醒 生物 ) |4: p.292|4: p.320 / 4A: p.372|
+0|Sasquatch (Paracritter)|サスカッチ ( 覚醒 生物 ) |4: p.293|4: p.322 / 4A: p.373|
+0|Thunderbird (Paracritter)|サンダー バード ( 覚醒 生物 ) |4: p.293|4: p.322 / 4A: p.373|
+0|Devil Rat (Paracritter)|デビル ラット ( 覚醒 生物 ) |4: p.292|4: p.320 / 4A: p.373|
+0|Naga (Paracritter)|ナーガ ( 覚醒 生物 ) |4: p.293|4: p.321 / 4A: p.374|
+0|Barghest (Paracritter)|バーゲスト ( 覚醒 生物 ) |4: p.292|4: p.320 / 4A: p.374|
+0|Hell Hound (Paracritter)|ヘル ハウンド ( 覚醒 生物 ) |4: p.292|4: p.321 / 4A: p.374|
+0|Merrow (Paracritter)|メロウ ( 覚醒 生物 ) |4: p.293|4: p.321 / 4A: p.374|
+0|Spirits of Beasts (Spirit)|獣 の 精霊 ( 精霊 ) [けもののせいれい] |4: p.295|4: p.323 / 4A: p.375|
+0|Spirits of Air (Spirit)|大気 の 精霊 ( 精霊 ) [たいきのせいれい] |4: p.294|4: p.323 / 4A: p.375|
+0|Spirits of Earth (Spirit)|大地 の 精霊 ( 精霊 ) [だいちのせいれい] |4: p.295|4: p.323 / 4A: p.375|
+0|Spirits of Man (Spirit)|人 の 精霊 ( 精霊 ) [ひとのせいれい] |4: p.295|4: p.323 / 4A: p.376|
+0|Spirits of Fire (Spirit)|火 の 精霊 ( 精霊 ) [ひのせいれい] |4: p.295|4: p.323 / 4A: p.376|
+0|Spirits of Water (Spirit)|水 の 精霊 ( 精霊 ) [みずのせいれい] |4: p.295|4: p.323 / 4A: p.376|
+0|Watcher Spirits (Spirit)|ウォッチャー ( 精霊 ) |4: p.295|4: p.324 / 4A: p.376|
+0|Eastern Dragons (Dracoforms)|イースタン ・ ドラゴン ( ドラコ フォーム ) |4: p.296|4: p.324 / 4A: p.376|
+0|Western Dragons (Dracoforms)|ウエスタン ・ ドラゴン ( ドラコ フォーム ) |4: p.297|4: p.325 / 4A: p.377|
+0|Feathered Serpents (Dracoforms)|フェザード ・ サーペント ( ドラコ フォーム ) |4: p.296|4: p.324 / 4A: p.377|
+0|Leviathans (Dracoforms)|リヴァイアサン ( ドラコ フォーム ) |4: p.296|4: p.325 / 4A: p.377|
+0|Great Dragons (Dracoforms)|グレート ・ ドラゴン ( ドラコ フォーム ) |4: p.297|4: p.325 / 4A: p.377|
+4|Carrying Gear|装備 を 持ち運ぶ [そうびをもちはこぶ] |4: p.300|4: p.328 / 4A: p.384|
+4|Carrying Capacity|運搬 能力 [うんぱんのうりょく] |4: p.300|4: p.328 / 4A: p.384|
+4|Encumbrance|重荷 [おもに] |4: p.300|4: p.328 / 4A: p.384|
+4|Size Customization|サイズ 調整 [サイズちょうせい] |4: p.300|4: p.328 / 4A: p.385|
+4|Using Unadapted Gear|サイズ の 合わない 装備 を 使う [サイズのあわないそうびをつかう] |4: p.301|4: p.328 / 4A: p.385|
+4|Concealing Gear|装備 を 隠す [そうびをかくす] |4: p.301|4: p.328 / 4A: p.385|
+4|Physical Searches|身体 検査 [しんたいけんさ] |4: p.301|4: p.328 / 4A: p.385|
+5|Concealability Table|隠蔽 表 [いんぺいひょう] |4: p.302|4: p.331 / 4A: p.385|
+4|Availability and Buying Gear|入手 値 と 装備 の 購入 [にゅうしゅちとそうびのこうにゅう] |4: p.301|4: p.331 / 4A: p.386|
+4|Standard Goods|一般 流通 品 [いっぱんりゅうつうひん] |4: p.301|4: p.331 / 4A: p.386|
+5|Availability Interval|入手 単位 時間 表 [にゅうしゅたんいじかんひょう] |4: p.303|4: p.332 / 4A: p.386|
+5|Street Costs|ストリート 価格 表 [ストリートかかくひょう] |4: p.303|4: p.332 / 4A: p.386|
+4|Black Market Goods|ブラック マーケット の 商品 [ブラックマーケットのしょうひん] |4: p.302|4: p.331 / 4A: p.386|
+4|The Availability Test|入手 テスト [にゅうしゅテスト] |4: p.302|4: p.331 / 4A: p.386|
+4|Fixers and Availability|フィクサー と 入手 値 [フィクサーとにゅうしゅち] |4: p.302|4: p.331 / 4A: p.386|
+4|Street Values|ストリート 価格 [ストリートかかく] |4: p.302|4: p.331 / 4A: p.387|
+4|Fencing Gear|装備 を 売り さばく [そうびをうりさばく] |4: p.303|4: p.332 / 4A: p.387|
+4|Legality|合法 性 [ごうほうせい] |4: p.303|4: p.332 / 4A: p.387|
+4|Jurisdiction|法 域 [ほういき] |4: p.303|4: p.332 / 4A: p.387|
+4|Cyberware and Bioware Grades|サイバー ウェア と バイオ ウェア の 等級 [サイバーウェアとバイオウェアのとうきゅう] |4: p.303|4: p.332 / 4A: p.387|
+5|Implant Grades|インプラント 等級 表 [インプラントとうきゅうひょう] |4: p.303|4: p.332 / 4A: p.387|
+4|Wireless Connectivity|ワイアレス 接続 機能 [ワイアレスせつぞくきのう] |4: p.304|4: p.333 / 4A: p.388|
+5|Common Costs|一般的 な 価格 [いっぱんてきなかかく] |4: p.304|4: p.333 / 4A: p.388|
+4|Combat Axe|コンバット ・ アックス |4: p.305|4: p.334 / 4A: p.389|
+4|Forearm A ap-Blades|フォア アーム ・ スナップ ブレード |4: p.305|4: p.334 / 4A: p.389|
+4|Katana|カタナ [刀] |4: p.305|4: p.334 / 4A: p.389|
+4|Knife|ナイフ |4: p.305|4: p.334 / 4A: p.389|
+4|Monofilament Sword|モノフィラメント ・ ソード [単分子 剣] |4: p.305|4: p.334 / 4A: p.389|
+4|Survival Knife|サバイバル ・ ナイフ |4: p.305|4: p.334 / 4A: p.389|
+4|Sword|ソード |4: p.305|4: p.334 / 4A: p.389|
+4|Clubs|クラブ [棒] |4: p.305|4: p.335 / 4A: p.389|
+4|Extendable Baton|エクステンダブル ・ バトン [伸縮式 警棒] |4: p.305|4: p.335 / 4A: p.389|
+4|Sap|サップ |4: p.305|4: p.335 / 4A: p.389|
+4|Staff|杖 [つえ] |4: p.305|4: p.335 / 4A: p.389|
+4|Stan Baton|スタン バトン |4: p.305|4: p.335 / 4A: p.389|
+4|Monofilament Whip|モノフィラメント ・ ウィップ [単分子 鞭] |4: p.305|4: p.335 / 4A: p.390|
+4|Pole Arm|ポール アーム [長柄 の 武器] |4: p.306|4: p.335 / 4A: p.390|
+4|Shock Gloves|ショック グローブ |4: p.306|4: p.335 / 4A: p.390|
+4|Bows|弓 [ゆみ] |4: p.306|4: p.335 / 4A: p.390|
+4|Crossbows|クロス ボウ |4: p.306|4: p.335 / 4A: p.390|
+4|Injection Arrows/Bolts|注入 筒 [ちゅうにゅうとう] |4: p.306|4: p.335 / 4A: p.390|
+4|Shuriken|シュリケン [手裏剣] |4: p.306|4: p.335 / 4A: p.390|
+4|Throwing knife|スローイング ・ ナイフ [投げ ナイフ] |4: p.306|4: p.336 / 4A: p.391|
+4|Defiance EX Shocker|ディファイアンス EX ショッカー |4: p.306|4: p.336 / 4A: p.391|
+4|Yamaha Pulsar|ヤマハ ・ パルサー |4: p.306|4: p.336 / 4A: p.391|
+4|Raccor Sting|リーカー ・ スティング |4: p.307|4: p.336 / 4A: p.391|
+4|Streetline Special|ストリート ライン ・ スペシャル |4: p.307|4: p.336 / 4A: p.392|
+4|Colt America L36|コルト ・ アメリカ L36 |4: p.307|4: p.336 / 4A: p.392|
+4|Fichetti Security 600|フィチェッティ ・ セキュリティ 600 |4: p.307|4: p.336 / 4A: p.392|
+4|Hammerli 620S|ヘンメリー 620S |4: p.307|4: p.336 / 4A: p.392|
+4|Yamaha Sakura Fubuki|ヤマハ ・ サクラフブキ |4: p.307|4: p.336 / 4A: p.392|
+4|Ares Predetor IV|アレス ・ プレデター Ⅳ |4: p.307|4: p.337 / 4A: p.392|
+4|Ares Viper Slivergun|アレス ・ バイパー ・ スライバー ガン |4: p.307|4: p.337 / 4A: p.392|
+4|Colt Manhunter|コルト ・ マンハンター |4: p.307|4: p.337 / 4A: p.392|
+4|Remington Roomsweeper|レミントン ・ ルーム スイーパー |4: p.307|4: p.337 / 4A: p.392|
+4|Ruger Super Warhawk|ルガー ・ スーパー ・ ウォーホーク |4: p.307|4: p.337 / 4A: p.393|
+4|Ceska Black Scorpion|セスカ ・ ブラック スコーピオン |4: p.307|4: p.337 / 4A: p.393|
+4|Steyr TMP|ステアー TMP |4: p.307|4: p.337 / 4A: p.393|
+4|AK-97 Carbine|AK - 97 カービン |4: p.307|4: p.337 / 4A: p.393|
+4|HK 227X|HK 227 - X |4: p.308|4: p.337 / 4A: p.393|
+4|HK MP-5 TX|HK MP - 5 TX |4: p.308|4: p.337 / 4A: p.393|
+4|Ingram Smartgun X|イングラム ・ スマートガン X |4: p.308|4: p.337 / 4A: p.394|
+4|Uzi IV|ウージー Ⅳ |4: p.308|4: p.337 / 4A: p.394|
+4|AK-97|AK - 97 |4: p.308|4: p.338 / 4A: p.394|
+4|Ares Alpha|アレス ・ アルファ |4: p.308|4: p.338 / 4A: p.394|
+4|FN HAR|FN HAR |4: p.308|4: p.338 / 4A: p.394|
+4|HK XM30|HK XM 30 |4: p.308|4: p.338 / 4A: p.394|
+4|Ruger 100|ルガー 100 |4: p.308|4: p.338 / 4A: p.394|
+4|PJSS Elephant Rifle|PJSS エレファント ・ ライフル |4: p.308|4: p.338 / 4A: p.394|
+4|Ranger Arms SM-4|レンジャー ・ アームズ SM - 4 |4: p.309|4: p.338 / 4A: p.394|
+4|Walther MA-2100|ワルサー MA - 2100 |4: p.309|4: p.339 / 4A: p.395|
+4|Mossberg AM-CMDT|モスバーグ AM - CMDT |4: p.309|4: p.339 / 4A: p.395|
+4|Remington 990|レミントン 990 |4: p.309|4: p.339 / 4A: p.395|
+4|Ares S-III Super Squirt|アレス S-Ⅲ スーパー スクァート |4: p.309|4: p.339 / 4A: p.395|
+4|Fichetti Pain Inducer|フィチェッティ ・ ペイン ・ インデューサー |4: p.309|4: p.339 / 4A: p.395|
+4||パラシールド ・ ダート ・ ピストル ||4A: p.395|
+4||パラシールド ・ ダート ・ ライフル ||4A: p.395|
+4|Ingram White Knight|イングラム ・ ホワイト ナイト |4: p.310|4: p.340 / 4A: p.395|
+4|Stoner-Ares M202|ストナー - アレス M202 |4: p.310|4: p.340 / 4A: p.396|
+4|Ultimaz-HMG-2|アルティ マックス HMG - 2 |4: p.310|4: p.340 / 4A: p.396|
+4|Panther XXL|パンサー XXL |4: p.310|4: p.340 / 4A: p.396|
+4|Ares Antioch-2|アレス ・ アンティオック - 2 |4: p.310|4: p.340 / 4A: p.396|
+4|ArmTech MGL-12|アーム テック MGL - 12 |4: p.310|4: p.340 / 4A: p.396|
+4|Mitsubishi Yakusoku MRL|ミツビシ ・ ヤクソク MRL |4: p.310|4: p.340 / 4A: p.396|
+4|Aztechnology Striker|アズテクノロジー ・ ストライカー |4: p.310|4: p.340 / 4A: p.396|
+4|Airburst Link|エア バースト ・ リンク |4: p.310|4: p.340 / 4A: p.398|
+4|Concealable Holster|隠蔽 ホルスター [いんぺいホルスター] |4: p.311|4: p.341 / 4A: p.398|
+4|Gas-Vent System|ガス ベント ・ システム |4: p.311|4: p.341 / 4A: p.398|
+4|Gyro Stabilization|ジャイロ ・ スタビライザー |4: p.311|4: p.341 / 4A: p.398|
+4|Hidden Arm Slide|アーム スライド |4: p.311|4: p.341 / 4A: p.398|
+4|Imaging Scope (Firearm Accessory)|映像 スコープ ( 銃器 アクセサリー ) [えいぞうスコープ] |4: p.311|4: p.341 / 4A: p.398|
+4|Laser Sight|レーザー サイト |4: p.311|4: p.341 / 4A: p.398|
+4|Periscope (Firearm Accessory)|ペリ スコープ ( 銃器 アクセサリー ) |4: p.311|4: p.341 / 4A: p.398|
+4|Quick-Draw Holster|クイック ドロー ホルスター |4: p.311|4: p.341 / 4A: p.398|
+4|Shock Pad|衝撃 パッド [しょうげきパッド] |4: p.311|4: p.341 / 4A: p.398|
+4|Silencer|消音 器 [サイレンサー] |4: p.311|4: p.341 / 4A: p.398|
+4|Smart Firing Platform|自動 銃座 [じどうじゅうざ] |4: p.311|4: p.341 / 4A: p.398|
+4|Smartgun System|スマートガン ・ システム |4: p.311|4: p.341 / 4A: p.398|
+4|Sound Suppressor|抑音 器 [サウンド ・ サプレッサー] |4: p.312|4: p.341 / 4A: p.399|
+4|Spare Clips|予備 クリップ [予備 弾倉] |4: p.312|4: p.341 / 4A: p.399|
+4|Speed Loader|スピード ローダー |4: p.312|4: p.341 / 4A: p.399|
+4|Bipod|二脚 [にきゃく] |4: p.310|4: p.341 / 4A: p.399|
+4|Tripod|三脚 [さんきゃく] |4: p.312|4: p.341 / 4A: p.399|
+4|Regular Ammo|通常 弾 [つうじょうだん] |4: p.313|4: p.342 / 4A: p.399|
+4|APDS Rounds|APDS 弾 [エーピーディーエスだん] |4: p.312|4: p.342 / 4A: p.400|
+4|Explosive Rounds|炸裂 弾 [さくれつだん] |4: p.312|4: p.342 / 4A: p.400|
+4|EX Explosive Rounds|強化 炸裂 弾 [きょうかさくれつだん] |4: p.312|4: p.342 / 4A: p.400|
+4|Flechette Rounds|フレシェット 弾 [フレシェットだん] |4: p.313|4: p.342 / 4A: p.400|
+4|Gel Rounds|ゲル 弾 [ゲルだん] |4: p.313|4: p.342 / 4A: p.400|
+4||注入 ダート [ちゅうにゅうダート] ||4A: p.400|
+4|Stick-n-Shock|スティックン ・ ショック |4: p.313|4: p.342 / 4A: p.400|
+4|Tracer Rounds|曳光 弾 [えいこうだん] |4: p.313|4: p.342 / 4A: p.400|
+4|Assault Cannon Rounds|アサルト キャノン 弾 [アサルトキャノンだん] |4: p.312|4: p.342 / 4A: p.400|
+4|Taser Dart|テイザー ・ ダート |4: p.313|4: p.342 / 4A: p.400|
+5|Reloading Firearms|弾薬 装填 表 [だんやくそうてんひょう] |4: p.312|4: p.342 / 4A: p.400|
+4|Flash-Bang Grenades|閃光 手榴弾 [せんこうしゅりゅうだん] |4: p.313|4: p.343 / 4A: p.401|
+4|Flash-Pak|フラッシュ パック |4: p.313|4: p.343 / 4A: p.401|
+4|Fragmentation Grenades|破片 手榴弾 [はへんしゅりゅうだん] |4: p.313|4: p.343 / 4A: p.401|
+4|High Explosive Grenades|炸裂 手榴弾 [さくれつしゅりゅうだん] |4: p.313|4: p.343 / 4A: p.401|
+4|Gas Grenades|ガス 弾 [ガスだん] |4: p.313|4: p.343 / 4A: p.401|
+4|Smoke|煙幕 弾 [えんまくだん] |4: p.313|4: p.343 / 4A: p.401|
+4|Thermal Smoke|熱 煙幕 弾 [ねつえんまくだん] |4: p.314|4: p.343 / 4A: p.401|
+4|Anti-Vehicle|対 車両 弾 [AVM/AVR] |4: p.314|4: p.343 / 4A: p.401|
+4|Fragmentation|対人 榴散 弾 [たいじんりゅうさんだん] |4: p.314|4: p.343 / 4A: p.401|
+4|High-Explosive|HE 榴弾 [エイチイーりゅうだん] |4: p.314|4: p.343 / 4A: p.401|
+4|Commercial Explosives|業務 用 爆薬 [ぎょうむようばくやく] |4: p.315|4: p.344 / 4A: p.402|
+4|Plastic Explosives|プラスティック 爆薬 [プラスティックばくやく] |4: p.315|4: p.344 / 4A: p.402|
+4|Explosive Foam|泡状 爆薬 [あわじょうばくやく] |4: p.315|4: p.344 / 4A: p.402|
+4|Detonator Cap|雷管 [らいかん] |4: p.315|4: p.344 / 4A: p.402|
+4|Feedback Clothing|フィードバック ・ クロージング |4: p.315|4: p.345 / 4A: p.402|
+4||レザー ジャケット ||4: p.345 / 4A: p.402|
+4||ダスター コート ||4A: p.402|
+4|Actioneer Business Clothes|アクショニア ・ ビジネス ・ クロース |4: p.315|4: p.345 / 4A: p.403|
+4|Armor Clothing|アーマー ・ クロージング |4: p.315|4: p.345 / 4A: p.403|
+4|Armor Jacket|アーマー ・ ジャケット |4: p.315|4: p.345 / 4A: p.403|
+4|Armor Vest|アーマー ・ ベスト |4: p.315|4: p.345 / 4A: p.403|
+4|Camouflage Suit|カモフラージュ ・ スーツ |4: p.315|4: p.345 / 4A: p.403|
+4|Chameleon Suit|カメレオン ・ スーツ |4: p.316|4: p.345 / 4A: p.403|
+4|Full Body Armor|フル ボディ アーマー |4: p.316|4: p.345 / 4A: p.403|
+4|Lined Coat|ラインド ・ コート |4: p.316|4: p.345 / 4A: p.403|
+4|Urban Explorer Jumpsuit|アーバン ・ エクスプローラー ・ ジャンプ スーツ |4: p.316|4: p.345 / 4A: p.403|
+4|Chemical Protection|化学 防護 [かがくぼうご] |4: p.317|4: p.346 / 4A: p.403|
+4|Chemical Seal|化学 遮断 [かがくしゃだん] |4: p.317|4: p.346 / 4A: p.403|
+4|Fire Resistance|耐火 [たいか] |4: p.317|4: p.346 / 4A: p.403|
+4|Insulation|断熱 [だんねつ] |4: p.317|4: p.346 / 4A: p.404|
+4|Nonconductivity|絶縁 [ぜつえん] |4: p.317|4: p.346 / 4A: p.404|
+4|Shock Frills|ショック ・ フリル |4: p.317|4: p.347 / 4A: p.404|
+4|Thermal Damping|熱 減衰 [ねつげんすい] |4: p.317|4: p.347 / 4A: p.404|
+4|Helmet|ヘルメット |4: p.317|4: p.347 / 4A: p.404|
+4|Ballistic Shield|バリスティック ・ シールド [防護 盾] |4: p.317|4: p.347 / 4A: p.404|
+4|Riot Shield|ライオット ・ シールド [暴徒 鎮圧用 盾] |4: p.317|4: p.347 / 4A: p.404|
+4|Taser Shield|テイザー ・ シールド [電撃 盾] |4: p.317|4: p.347 / 4A: p.404|
+4|Commlink|コムリンク |4: p.317|4: p.347 / 4A: p.404|
+4|Sim Module (Electronics)|シム ・ モジュール ( 電子 機器 ) |4: p.318|4: p.347 / 4A: p.405|
+4|AR Gloves|AR グローブ |4: p.318|4: p.347 / 4A: p.405|
+4|Biometric Reader|バイオメトリック ・ リーダー [生体 認証 機] |4: p.318|4: p.348 / 4A: p.405|
+4|Nanopaste Trodes|ナノ ペースト ・ トロード |4: p.318|4: p.348 / 4A: p.405|
+4|Printer|プリンター |4: p.318|4: p.348 / 4A: p.405|
+4|Satellite Link|衛星 リンク [えいせいリンク] |4: p.318|4: p.348 / 4A: p.406|
+4|Simrig (Electronics)|シム リグ ( 電子 機器 ) |4: p.318|4: p.348 / 4A: p.406|
+4|Skinlink|スキン リンク |4: p.318|4: p.348 / 4A: p.406|
+4|Subvocal Microphone|サブ ボーカル ・ マイク |4: p.318|4: p.348 / 4A: p.406|
+4|Trodes|トロード |4: p.318|4: p.348 / 4A: p.406|
+4|Electronic Paper|電子 ペーパー [でんしペーパー] |4: p.318|4: p.348 / 4A: p.406|
+4|Holo Projector|ホロ ・ プロジェクター |4: p.318|4: p.348 / 4A: p.406|
+4|RFID Tags|RFID タグ [アールエフアイディータグ] |4: p.318|4: p.348 / 4A: p.406|
+4|Security Tags|セキュリティ ・ タグ |4: p.319|4: p.348 / 4A: p.406|
+4|Sensor Tags|センサー ・ タグ |4: p.319|4: p.349 / 4A: p.407|
+4|Stealth Tags|ステルス ・ タグ |4: p.319|4: p.349 / 4A: p.407|
+4|Headjammer|ヘッド ジャマー |4: p.320|4: p.349 / 4A: p.407|
+4|Jammer|ジャマー |4: p.320|4: p.349 / 4A: p.407|
+4|Micro-Transceiver|マイクロ ・ トランシーバー |4: p.320|4: p.350 / 4A: p.407|
+4|Tag Eraser|タグ ・ イレーサー |4: p.320|4: p.350 / 4A: p.407|
+4|White Noise Generator|ホワイト ノイズ ・ ジェネレーター |4: p.320|4: p.350 / 4A: p.407|
+4|Datachip|データ チップ |4: p.320|4: p.350 / 4A: p.407|
+4|Datasoft|データ ソフト |4: p.320|4: p.350 / 4A: p.407|
+4|Mapsoft|マップ ソフト |4: p.320|4: p.350 / 4A: p.407|
+4||マトリックス ・ プログラム ||4A: p.407|
+4|Tutorsofts|チューター ソフト |4: p.320|4: p.350 / 4A: p.407|
+4|Skillsofts|スキル ソフト |4: p.320|4: p.350 / 4A: p.408|
+4|Activesofts|能動 ソフト [のうどうソフト] |4: p.320|4: p.350 / 4A: p.408|
+4|Knowsofts|知識 ソフト [ちしきソフト] |4: p.320|4: p.350 / 4A: p.408|
+4|Linguasofts|言語 ソフト [げんごソフト] |4: p.321|4: p.350 / 4A: p.408|
+4|Simsense|シム センス |4: p.321|4: p.351 / 4A: p.408|
+4|BTL Recordings|BTL レコーディング [ビーティーエルレコーディング] |4: p.321|4: p.351 / 4A: p.408|
+4|Virtual Reality Gaming|仮想 現実 ゲーム [かそうげんじつゲーム] |4: p.321|4: p.351 / 4A: p.408|
+4|ARE Software|ARE ソフト ウェア [エーアールイーソフトウェア] |4: p.321|4: p.352 / 4A: p.409|
+4|Virtual Surround Music|バーチャル ・ サラウンド ・ ミュージック |4: p.322|4: p.352 / 4A: p.409|
+4|Wall Space|ウォール ・ スペース |4: p.322|4: p.352 / 4A: p.409|
+4|Virtual Pet|バーチャル ・ ペット |4: p.322|4: p.352 / 4A: p.409|
+4|Virtual Person|バーチャル ・ パーソン |4: p.322|4: p.352 / 4A: p.409|
+4|Virtual Weather|バーチャル ・ ウェザー |4: p.322|4: p.352 / 4A: p.409|
+4|Miracle Shooter™|ミラクル ・ シューター ™ |4: p.322|4: p.352 / 4A: p.409|
+4|Certified Credstick|支払い 保証 済み クレッド スティック [しはらいほしょうずみクレッドスティック] |4: p.322|4: p.352 / 4A: p.410|
+4|Credit Account|クレジット 口座 [クレジットこうざ] |4: p.322|4: p.352 / 4A: p.410|
+4|Fake License|偽造 免許 [ライセンス] |4: p.323|4: p.352 / 4A: p.410|
+4|Fake System Identification Number (SIN)|偽造 システム 登録 番号 [偽造 SIN] |4: p.323|4: p.353 / 4A: p.410|
+4|Tools|工具 [こうぐ] |4: p.323|4: p.353 / 4A: p.410|
+4|Binoculars|双眼鏡 [そうがんきょう] |4: p.324|4: p.354 / 4A: p.411|
+4|Camera|カメラ |4: p.325|4: p.355 / 4A: p.411|
+4|Contact Lenses|コンタクト レンズ |4: p.324|4: p.354 / 4A: p.411|
+4|Goggles|ゴーグル |4: p.324|4: p.354 / 4A: p.411|
+4|Glasses|眼鏡 [メガネ] |4: p.324|4: p.354 / 4A: p.411|
+4|Monocle|片 眼鏡 [モノクル] |4: p.324|4: p.354 / 4A: p.411|
+4||映像 スコープ ( 光学 機器 ) [えいぞうスコープ] ||4A: p.411|
+4|Endoscope|内視鏡 [ないしきょう] |4: p.324|4: p.354 / 4A: p.411|
+4|Mage Sight Goggles|メイジ サイト ・ ゴーグル |4: p.324|4: p.354 / 4A: p.411|
+4|Periscope (Optical Devices)|ペリ スコープ ( 光学 機器 ) |4: p.324|4: p.354 / 4A: p.411|
+4|Flare Compensation (Vision Enhancer)|大 光量 補正 ( 視覚 強化 機能 ) [だいこうりょうほせい] |4: p.323|4: p.353 / 4A: p.411|
+4|Image Link (Vision Enhancer)|映像 リンク ( 視覚 強化 機能 ) |4: p.323|4: p.353 / 4A: p.411|
+4|Low-Light Vision (Vision Enhancer)|低 光量 補正 ( 視覚 強化 機能 ) [ていこうりょうほせい] |4: p.323|4: p.353 / 4A: p.411|
+4|Smartlink (Vision Enhancer)|スマート リンク ( 視覚 強化 機能 ) |4: p.323|4: p.353 / 4A: p.412|
+4|Thermographic Vision (Vision Enhancer)|熱 映像 補正 ( 視覚 強化 機能 ) [ねつえいぞうほせい] |4: p.324|4: p.353 / 4A: p.412|
+4|Ultrasound (Vision Enhancer)|超音波 ( 視覚 強化 機能 ) [ちょうおんぱ] |4: p.324|4: p.354 / 4A: p.412|
+4|Vision Enhancement (Vision Enhancer)|視覚 強化 ( 視覚 強化 機能 ) [しかくきょうか] |4: p.324|4: p.354 / 4A: p.412|
+4|Vision Magnification (Vision Enhancer)|映像 拡大 ( 視覚 強化 機能 ) [えいぞうかくだい] |4: p.324|4: p.354 / 4A: p.412|
+4|Earbuds|イヤホン |4: p.325|4: p.355 / 4A: p.412|
+4|Headphones|ヘッドホン |4: p.325|4: p.355 / 4A: p.412|
+4|Microphone|マイク |4: p.326|4: p.356 / 4A: p.412|
+4|Audio Enhancement (Audio Enhancer)|聴力 強化 ( 聴覚 強化 機能 ) [ちょうりょくきょうか] |4: p.324|4: p.354 / 4A: p.412|
+4|Select Sound Filter (Audio Enhancer)|音声 選別 フィルター ( 聴覚 強化 機能 ) [おんせいせんべつふぃるたー] |4: p.324|4: p.354 / 4A: p.412|
+4|Spatial Recognizer (Audio Enhancer)|音源 探知 ( 聴覚 強化 機能 ) [おんげんたんち] |4: p.325|4: p.355 / 4A: p.412|
+4|Atmosphere Sensor|大気 センサー [たいきセンサー] |4: p.325|4: p.355 / 4A: p.413|
+4|Cyberware Scanner|サイバー ウェア ・ スキャナー |4: p.325|4: p.355 / 4A: p.414|
+4|Directional Microphone|指向性 マイク [しこうせいマイク] |4: p.325|4: p.355 / 4A: p.414|
+4|Geiger Counter|ガイガー ・ カウンター |4: p.325|4: p.355 / 4A: p.414|
+4|Laser Microphone|レーザー ・ マイク |4: p.325|4: p.355 / 4A: p.414|
+4|Laser Range Finder|レーザー 測距 器 [レーザーそっきょき] |4: p.326|4: p.356 / 4A: p.414|
+4|MAD Scanner|MAD スキャナー [エムエーディースキャナー] |4: p.326|4: p.356 / 4A: p.414|
+4|Motion Sensor|動体 センサー [どうたいセンサー] |4: p.326|4: p.356 / 4A: p.414|
+4|Olfactory Scanner|嗅覚 スキャナー [きゅうかくスキャナー] |4: p.326|4: p.356 / 4A: p.414|
+4|Radio Signal Scanner|電波 信号 スキャナー [でんぱしんごうスキャナー] |4: p.326|4: p.356 / 4A: p.414|
+4|Key Lock|錠 [じょう] |4: p.326|4: p.356 / 4A: p.414|
+4|Maglock|マグ ロック |4: p.326|4: p.356 / 4A: p.414|
+4|Restraints|拘束 具 [こうそくぐ] |4: p.326|4: p.356 / 4A: p.414|
+4|Autopicker|オート ピッカー |4: p.326|4: p.356 / 4A: p.414|
+4|Cellular Glove Molder|細胞 手袋 成型 機 [さいぼうてぶくろせいけいき] |4: p.326|4: p.356 / 4A: p.415|
+4|Chisel|破砕 具 [はさいぐ] |4: p.326|4: p.356 / 4A: p.415|
+4|Keycard Copier|キー カード 複製 機 [キーカードふくせいき] |4: p.326|4: p.356 / 4A: p.415|
+4|Lockpick Set|錠 前 セット [じょうまえセット] |4: p.326|4: p.356 / 4A: p.415|
+4|Maglock Passkey|マグ ロック ・ パス キー |4: p.326|4: p.356 / 4A: p.415|
+4|Maglock Sequencer|マグ ロック ・ シーケンサー |4: p.326|4: p.356 / 4A: p.415|
+4|Miniwelder|小型 溶接機 [こがたようせつき] |4: p.326|4: p.356 / 4A: p.415|
+4|Monofilament Chainsaw|モノフィラメント ・ チェーンソー |4: p.327|4: p.357 / 4A: p.415|
+4|Wire Clippers|ワイア カッター |4: p.327|4: p.357 / 4A: p.415|
+4|Glue Sprayer|スプレー 式 接着 剤 [スプレーしきせっちゃくざい] |4: p.327|4: p.357 / 4A: p.415|
+4|Thermite Burning Bar|テルミット 燃焼 剤 [テルミットねんしょうざい] |4: p.327|4: p.357 / 4A: p.415|
+4|Chemsuit|ケム スーツ |4: p.327|4: p.357 / 4A: p.416|
+4|Climbing Gear|登攀 具 [とうはんぐ] |4: p.327|4: p.357 / 4A: p.416|
+4|Diving Gear|潜水 具 [せんすいぐ] |4: p.327|4: p.357 / 4A: p.416|
+4|Gas Mask|ガス マスク |4: p.327|4: p.357 / 4A: p.416|
+4|Gecko Tape Gloves|ゲッコー ・ テープ ・ グローブ |4: p.327|4: p.357 / 4A: p.416|
+4|GPS|GPS [全 地球 測位 システム] |4: p.327|4: p.357 / 4A: p.416|
+4|Hazmat Suit|Haz Mat スーツ [対 危険物 防護 服] |4: p.328|4: p.357 / 4A: p.416|
+4|Flashlight|フラッシュ ライト |4: p.327|4: p.357 / 4A: p.416|
+4|Light Stick|蛍光 スティック [けいこうスティック] |4: p.328|4: p.357 / 4A: p.416|
+4|Magnesium Torch|マグネシウム ・ トーチ |4: p.328|4: p.357 / 4A: p.416|
+4|Micro Flare Launcher|照明弾 ピストル [しょうめいだんピストル] |4: p.328|4: p.357 / 4A: p.416|
+4|Rappeling Gloves|ラペリング ・ グローブ |4: p.328|4: p.357 / 4A: p.416|
+4|Respirator|レスピレーター |4: p.328|4: p.357 / 4A: p.416|
+4|Survival Kit|サバイバル ・ キット |4: p.328|4: p.357 / 4A: p.416|
+4|Grapple Gun (Survival Gear)|グラップル ・ ガン ( サバイバル 用品 ) |4: p.328|4: p.357 / 4A: p.416|
+4|Microwire|マイクロ ワイア |4: p.329|4: p.358 / 4A: p.417|
+4|Myomeric Rope|筋節 ロープ [きんせつロープ] |4: p.329|4: p.358 / 4A: p.417|
+4|Stealth Rope|ステルス ロープ |4: p.329|4: p.358 / 4A: p.417|
+4|Catalyst Stick|触媒 スティック [しょくばいスティック] |4: p.329|4: p.358 / 4A: p.417|
+4|Biomonitor|バイオ モニター |4: p.329|4: p.358 / 4A: p.417|
+4|Disposable|使い捨て 注射器 |4: p.329|4: p.358 / 4A: p.417|
+4|Medkit|医療 キット |4: p.329|4: p.358 / 4A: p.417|
+4|DocWagon™ Contact|ドクワゴン ™ 契約 |4: p.329|4: p.359 / 4A: p.417|
+4|Antidote Patch|解毒 パッチ [げどくパッチ スラップ パッチ] |4: p.330|4: p.359 / 4A: p.418|
+4|Stimulant Patch|覚醒 パッチ [かくせいパッチ スラップ パッチ] |4: p.330|4: p.359 / 4A: p.418|
+4|Tranq Patch|鎮静 パッチ [ちんせいパッチ スラップ パッチ] |4: p.330|4: p.359 / 4A: p.418|
+4|Trauma Patch|蘇生 パッチ [そせいパッチ スラップ パッチ] |4: p.330|4: p.359 / 4A: p.418|
+4|Latex Face Mask|ラテックス ・ ファイス マスク |4: p.330|4: p.359 / 4A: p.418|
+4|Nanopaste Diguise|ナノ ペースト 変装 [ナノペーストへんそう] |4: p.330|4: p.359 / 4A: p.418|
+4|Commlink (Headware)|コム リンク ( ヘッド ウェア ) |4: p.330|4: p.361 / 4A: p.419|
+4|Control Rig|制御 リグ [せいぎょリグ] |4: p.331|4: p.361 / 4A: p.419|
+4|Cranial Bombs|頭蓋 爆弾 [ずがいばくだん] |4: p.331|4: p.361 / 4A: p.419|
+4|Datajack|データ ジャック |4: p.331|4: p.361 / 4A: p.419|
+4|Data Lock|データ ロック |4: p.331|4: p.361 / 4A: p.419|
+4|Sim Module (Headware)|シム ・ モジュール ( ヘッド ウェア ) |4: p.331|4: p.361 / 4A: p.420|
+4|Olfactory Booster|嗅覚 増幅 器 [きゅうかくぞうふくき] |4: p.331|4: p.361 / 4A: p.420|
+4|Taste Booster|味覚 増幅 器 [みかくぞうふくき] |4: p.331|4: p.361 / 4A: p.420|
+4|Tooth Compartment|歯内 容器 [はないようき] |4: p.331|4: p.362 / 4A: p.420|
+4|Ultrasound Sensor|超音波 センサー ( ヘッド ウェア ) [ちょうおんぱセンサー] |4: p.331|4: p.362 / 4A: p.420|
+4|Voice Modulator|声紋 変調 器 [せいもんへんちょうき] |4: p.331|4: p.362 / 4A: p.420|
+4|Cybereyes|サイバー アイ |4: p.332|4: p.362 / 4A: p.421|
+4|Eye Recording Unit|録画 ユニット [ろくがユニット] |4: p.332|4: p.362 / 4A: p.421|
+4|Flare Compensation (Eyeware)|大 光量 補正 ( アイ ウェア ) [だいこうりょうほせい] |4: p.332|4: p.362 / 4A: p.421|
+4|Image Link (Eyeware)|映像 リンク ( アイ ウェア ) [えいぞうリンク] |4: p.332|4: p.362 / 4A: p.421|
+4|Low-Light Vision (Eyeware)|低 光量 補正 ( アイ ウェア ) [ていこうりょうほせい] |4: p.332|4: p.362 / 4A: p.421|
+4|Ocular Drone|眼球 ドローン [がんきゅうドローン] |4: p.332|4: p.362 / 4A: p.421|
+4|Protective Covers|保護 カバー [ほごカバー] |4: p.332|4: p.362 / 4A: p.421|
+4|Retinal Duplication|網膜 複製 [もうまくふくせお] |4: p.333|4: p.363 / 4A: p.421|
+4|Smartlink (Eyeware)|スマート リンク ( アイ ウェア ) |4: p.333|4: p.363 / 4A: p.421|
+4|Thermographic Vision (Eyeware)|熱 映像 視野 ( アイ ウェア ) [ねつえいぞうしや] |4: p.333|4: p.363 / 4A: p.421|
+4|Vision Enhancement (Eyeware)|視覚 強化 ( アイ ウェア ) [しかくきょうか] |4: p.333|4: p.363 / 4A: p.421|
+4|Vision Magnification (Eyeware)|映像 拡大 ( アイ ウェア ) [えいぞうかくだい] |4: p.333|4: p.363 / 4A: p.421|
+4|Cyberears|サイバー イア |4: p.333|4: p.363 / 4A: p.421|
+4|Audio Enhancement (Eyeware)|聴覚 強化 ( イア ウェア ) [ちょうかくきょうか] |4: p.333|4: p.363 / 4A: p.422|
+4|Balance Augmenter|平衡 強化 [へいこうきょうか] |4: p.333|4: p.363 / 4A: p.422|
+4|Damper|ダンパー |4: p.333|4: p.363 / 4A: p.422|
+4|Ear Recording Unit|録音 ユニット [ろくおんユニット] |4: p.333|4: p.363 / 4A: p.422|
+4|Select Sound Filter (Eyeware)|音声 選別 フィルター ( イア ウェア ) [おんせいせんべつフィルター] |4: p.333|4: p.363 / 4A: p.422|
+4|Sound Link|音声 リンク [おんせいリンク] |4: p.333|4: p.363 / 4A: p.422|
+4|Spatial Recognizer (Eyeware)|音源 探知 ( イア ウェア ) [おんげんたんち] |4: p.333|4: p.363 / 4A: p.422|
+4|Bone Lacing|骨格 補綴 [ボーン レイシング] |4: p.333|4: p.363 / 4A: p.422|
+4|Cosmetic Modification|美容 外科 整形 [びようげかせいけい] |4: p.333|4: p.363 / 4A: p.422|
+4|Dermal Plating|皮膚 装甲 [ダーマル ・ プレーティング] |4: p.333|4: p.363 / 4A: p.422|
+4|Fingertip Compartment|指先 容器 [ゆびさきようき] |4: p.334|4: p.364 / 4A: p.422|
+4|Grapple Gun (Bodyware)|グラップル ・ ガン ( ボディ ウェア ) |4: p.334|4: p.364 / 4A: p.422|
+4|Internal Air Tank|内蔵 空気 タンク [ないぞうくうきタンク] |4: p.334|4: p.364 / 4A: p.422|
+4|Muscle Replacement|人工 筋肉 [マッスル ・ リプレイスメント] |4: p.334|4: p.364 / 4A: p.423|
+4|Reaction Enhancers|反応力 強化 [リアクション ・ エンハンサー] |4: p.334|4: p.364 / 4A: p.423|
+4|Simrig (Bodyware)|シム リグ ( ボディ ウェア ) |4: p.334|4: p.364 / 4A: p.423|
+4|Skillwires|スキル ワイア |4: p.335|4: p.364 / 4A: p.423|
+4|Smuggling Compartment|密輸 用 容器 [みつゆようようき] |4: p.335|4: p.364 / 4A: p.423|
+4|Touch Link|タッチ リンク [触覚 リンク] |4: p.335|4: p.364 / 4A: p.423|
+4|Wired Reflexes|強化 反射 神経 [ワイアード ・ リフレックス] |4: p.335|4: p.364 / 4A: p.423|
+4|Cyberlimbs|サイバー リム |4: p.335|4: p.365 / 4A: p.423|
+4||標準 モデル ( サイバー リム ) ||4: p.365 / 4A: p.424|
+4||特注 モデル ( サイバー リム ) ||4: p.365 / 4A: p.424|
+4|Obvious Cyberlimbs|非 偽装 型 サイバー リム |4: p.335|4: p.365 / 4A: p.425|
+4|Synthetic Cyberlimbs|偽装 型 サイバー リム |4: p.335|4: p.365 / 4A: p.425|
+4|Cyberlimb Enhancements|サイバー リム 強化 |4: p.335|4: p.365 / 4A: p.425|
+4|Cyberarm Gyromount|サイバー リム ・ ジャイロ マウント |4: p.335|4: p.365 / 4A: p.425|
+4|Cyberarm Slide|サイバー リム ・ スライド |4: p.335|4: p.365 / 4A: p.425|
+4|Cyber Holster|サイバー ・ ホルスター |4: p.335|4: p.365 / 4A: p.425|
+4|Hydraulic Jacks|油圧 ジャッキ [ゆあつジョッキ] |4: p.335|4: p.365 / 4A: p.426|
+4|Large Smuggling Compartment|密輸 用 大容量 容器 [みつゆようだいようりょうようき] |4: p.336|4: p.366 / 4A: p.426|
+4|Cyberguns|サイバー ガン |4: p.336|4: p.366 / 4A: p.426|
+4|Cyber Melee Weapons|サイバー 近接 武器 |4: p.336|4: p.366 / 4A: p.426|
+4||ハンド レイザー ||4: p.366 / 4A: p.426|
+4||ショック ハンド ||4: p.366 / 4A: p.426|
+4|Adrenaline Pump|アドレナリン ・ ポンプ |4: p.338|4: p.367 / 4A: p.427|
+4|Bone Density Augmentation|骨密度 強化 [こつみつどきょうか] |4: p.338|4: p.368 / 4A: p.427|
+4|Cat's Eyes|猫 目 [猫 眼] |4: p.338|4: p.368 / 4A: p.427|
+4|Digestive Expansion|消化力 強化 [しょうかりょくきょうか] |4: p.338|4: p.368 / 4A: p.427|
+4|Enhanced Articulation|関節 強化 [かんせつきょうか] |4: p.338|4: p.368 / 4A: p.427|
+4|Muscle Augmentation|筋肉 強化 [きんにくきょうか] |4: p.339|4: p.368 / 4A: p.427|
+4|Muscle Toner|筋肉 調律 [きんにくちょうりつ] |4: p.339|4: p.368 / 4A: p.427|
+4|Orthoskin|オルソ スキン |4: p.339|4: p.368 / 4A: p.427|
+4|Pathogenic Defense|免疫 強化 [めんえききょうか] |4: p.339|4: p.368 / 4A: p.427|
+4|Platelet Factories|血小板 工場 [けっしょうばんこうじょう] |4: p.339|4: p.368 / 4A: p.427|
+4|Skin Pocket|皮下 ポケット [ひかポケット] |4: p.339|4: p.368 / 4A: p.427|
+4|Suprathyroid Gland|超 甲状腺 [ちょうこうじょうせん] |4: p.339|4: p.368 / 4A: p.427|
+4|Symbiotes|共生体 [きょうせいたい] |4: p.339|4: p.368 / 4A: p.427|
+4|Synthacardium|合成 心筋 [ごうせいしんきん] |4: p.339|4: p.368 / 4A: p.428|
+4|Tailored Pheromones|テイラード ・ フェロモン |4: p.339|4: p.368 / 4A: p.428|
+4|Toxin Extractor|毒 物 抽出 [どくぶつちゅうしゅつ] |4: p.339|4: p.368 / 4A: p.428|
+4|Tracheal Filter|気管 フィルター [きかんフィルター] |4: p.339|4: p.368 / 4A: p.428|
+4|Cerebral Booster|大脳 強化 [だいのうきょうか] |4: p.339|4: p.368 / 4A: p.428|
+4|Damage Compensator|ダメージ 補正 器 [ダメージほせいき] |4: p.340|4: p.368 / 4A: p.428|
+4|Mnemonic Enhancer|記憶力 増強 [きおくりょくぞうきょう] |4: p.340|4: p.368 / 4A: p.428|
+4|Pain Editor|痛覚 遮断 [つうかくしゃだん] |4: p.340|4: p.369 / 4A: p.428|
+4|Reflex Recorder|反射 記録 器 [はんしゃきろくき] |4: p.340|4: p.369 / 4A: p.429|
+4|Sleep Regulator|制眠 器 [せいみんき] |4: p.340|4: p.369 / 4A: p.429|
+4|Synaptic Booster|神経 増速 [しんけいぞうそく] |4: p.340|4: p.369 / 4A: p.429|
+4|Spellcasting Focus|呪文 行使 収束 具 [じゅもんこうししゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Counterspelling Focus|呪文 対抗 収束 具 [じゅもんたいこうしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Sustaining Focus|呪文 維持 収束 具 [じゅもんいじしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Summoning Focus|召喚 収束 具 [しょうかんしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Banishing Focus|放逐 収束 具 [ほうちくしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Binding Focus|束縛 収束 具 [そくばくしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Weapon Focus|武器 収束 具 [ぶきしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Power Focus|魔力 収束 具 [まりょくしゅうそくぐ] |4: p.340|4: p.370 / 4A: p.430|
+4|Magical Supplies|魔法 素材 [まほうそざい] |4: p.340|4: p.370 / 4A: p.430|
+4|Fetishes|呪物 [じゅぶつ] |4: p.340|4: p.370 / 4A: p.430|
+4|Rigger Adaptation|リガー 対応 [リガーたいおう] |4: p.341|4: p.369 / 4A: p.430|
+4|Weapon Mounts|武器 マウント [銃座] |4: p.341|4: p.369 / 4A: p.430|
+4|Dodge Scoot|ダッジ ・ スクート |4: p.341|4: p.370 / 4A: p.430|
+4|Harley-Davidson Scorpion|ハーレー ダビッドソン ・ スコーピオン |4: p.341|4: p.370 / 4A: p.430|
+4|Yamaha Growler|ヤマハ ・ グロウラー |4: p.341|4: p.370 / 4A: p.430|
+4|Suzuki Mirage|スズキ ・ ミラージュ |4: p.341|4: p.370 / 4A: p.430|
+4|Honda Spirit|ホンダ ・ スピリット |4: p.341|4: p.370 / 4A: p.430|
+4||フォード ・ スパイラル 115Ti ||4A: p.430|
+4|Mercury Comet|マーキュリー ・ コメット |4: p.341|4: p.370 / 4A: p.430|
+4||トヨタ ・ ゴーファー ||4A: p.430|
+4|Mitshbishi Nightsky|ミツビシ ・ ナイト スカイ |4: p.341|4: p.370 / 4A: p.431|
+4|Eurocar Westwind 3000|ユーロカー ・ ウェストウィンド 3000 |4: p.341|4: p.370 / 4A: p.431|
+4|GMC Bulldog Step-van|GMC ブルドック ・ ステップ バン |4: p.341|4: p.370 / 4A: p.431|
+4|GMC Everglades|GMC エバー グレーズ |4: p.341|4: p.370 / 4A: p.431|
+4|Chrysler-Nissan Patrol-1|クライスラー - ニッサン ・ パトロール 1 |4: p.341|4: p.370 / 4A: p.431|
+4|GMC Beachcraft|GMC ビーチ クラフト |4: p.341|4: p.370 / 4A: p.431|
+4|Ares Citymaster|アレス ・ シティマスター |4: p.341|4: p.370 / 4A: p.431|
+4|Samuvani Criscraft Otter|サミュバーニ ・ クリスクラフト ・ オッター |4: p.341|4: p.371 / 4A: p.431|
+4|Marine Tech Sea Nymph|マリンテック ・ シーニンフ |4: p.341|4: p.371 / 4A: p.431|
+4||モーガン ・ カトラス ||4A: p.431|
+4|Vulkan Electronaut|バルカン ・ エレクトロ ノート |4: p.341|4: p.371 / 4A: p.431|
+4|Cessna C750|セスナ C750 |4: p.341|4: p.371 / 4A: p.431|
+4|Ares Dragon|アレス ・ ドラゴン |4: p.341|4: p.371 / 4A: p.431|
+4|Hughes Stallion|ヒューズ ・ スタリオン |4: p.341|4: p.371 / 4A: p.431|
+4|Northrup Wasp|ノースロップ ・ ワスプ |4: p.341|4: p.371 / 4A: p.431|
+4|GMC Banshee|GMC バンシー |4: p.341|4: p.371 / 4A: p.432|
+4|Federated Boing Commuter|フェデレーテッド ・ ボーイング ・ コミューター |4: p.341|4: p.371 / 4A: p.432|
+4|Shiawase Kanmushi|シアワセ ・ カンムシ |4: p.341|4: p.371 / 4A: p.432|
+4|Sikorsky-Bell Microskimmer|シコルスキー ・ ベル ・ マイクロ スキマー |4: p.341|4: p.371 / 4A: p.432|
+4|Lone Star iBall|ローン スター iボール |4: p.341|4: p.371 / 4A: p.432|
+4|MCT Fly-Spy|MCT フライ スパイ |4: p.341|4: p.371 / 4A: p.432|
+4|Aztechnology Crawler|アズテクノロジー ・ クロウラー |4: p.341|4: p.371 / 4A: p.432|
+4|Lockheed Optic-X|ロッキード ・ オプティック - X |4: p.341|4: p.371 / 4A: p.432|
+4|GM-Nissan Dobelman|GM - ニッサン ・ ドーベルマン |4: p.341|4: p.371 / 4A: p.432|
+4|MCT-Nissan Roto-Drone|MCT - ニッサン ・ ロト ドローン |4: p.341|4: p.371 / 4A: p.432|
+4|Renraku Stormcloud|レンラク ・ ストーム クラウド |4: p.341|4: p.371 / 4A: p.432|
+4|Cyberspace Designs Dalmatian|サイバー スペース ・ デザイン ・ ダルメシアン |4: p.341|4: p.371 / 4A: p.432|
+4|CrashCart AutoDoc|クラッシュ カート ・ オート ドグ |4: p.341|4: p.371 / 4A: p.432|
+4|Steel Lynx Combat Drone|スティール ・ リンクス ・ コンバット ドローン |4: p.341|4: p.371 / 4A: p.432|
