@@ -11,5 +11,6 @@ https://itunes.apple.com/us/app/sr4-gamemaster-terminal/id427580466?mt=8
 CreateDatabaseForSR4GMTerm/data/*.txt
 
 ## Thanks
-ccgus/fmdb https://github.com/ccgus/fmdb
-Tonny/sqliteFTS https://github.com/TonnyXu/sqliteFTS
+* ccgus/fmdb https://github.com/ccgus/fmdb
+* Tonny/sqliteFTS https://github.com/TonnyXu/sqliteFTS
+* johnjohndoe/LineReader https://github.com/johnjohndoe/LineReader
