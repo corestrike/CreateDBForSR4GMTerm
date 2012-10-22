@@ -10,6 +10,7 @@
 #import "FMDatabase.h"
 #import "SqliteDB.h"
 #import "FileReader.h"
+#import "Node.h"
 
 @implementation DocumentReader
 + (void)insertInitialData
@@ -35,6 +36,7 @@
         [db commit];
     }
 
+    Mecab* mecab = [[Mecab new] autorelease];
     FMResultSet *existRecords = [db executeQuery:@"SELECT * FROM reference WHERE rowid = 1;"];
     if (NO == [existRecords next]) {
         [db beginTransaction];
@@ -59,6 +61,7 @@
                 NSString *jword = [arr objectAtIndex:2];
                 NSString *page = [arr objectAtIndex:3];
                 NSString *jpage = [arr objectAtIndex:4];
+                NSLog(@"%@", [self parseJapaneseWord:mecab :jword]);
 //                NSLog(@"%@, %@, %@, %@, %@", category, word, jword, page, jpage);
                 [db executeUpdate:@"INSERT INTO reference(category, word, jword, page, jpage) VALUES(?, ?, ?, ?, ?);", category, word, jword, page, jpage];
                 if (readLines % 100 == 0) {
@@ -74,5 +77,18 @@
         NSLog(@"Already has %d records.", [numberOfRecords intForColumnIndex:0]);
         [db close];
     }
+}
+
++ (NSString*)parseJapaneseWord:(Mecab *)mecab :(NSString *)str
+{
+    NSArray *arr = [mecab parseToNodeWithString:str];
+    NSMutableString* returnStr = [NSMutableString stringWithString:str];
+    [returnStr appendString:@" ["];
+    for(Node* node in arr){
+        [returnStr appendString:node.surface];
+        [returnStr appendString:@" "];
+    }
+    [returnStr appendString:@"]"];
+    return returnStr;
 }
 @end

@@ -1,16 +1,16 @@
-0|Attribute-Only Tests|能力値 テスト [のうりょくちテスト] |4: p.54|4: p.59 / 4A: p.74|
-0|Long Shots|ロング ショット ・ テスト |4: p.55|4: p.59 / 4A: p.74|
+0|Attribute-Only Tests|能力値テスト [能力 値 テスト] |4: p.54|4: p.59 / 4A: p.74|
+0|Long Shots|ロングショット・テスト [ロング ショット ・ テスト] |4: p.55|4: p.59 / 4A: p.74|
 0|Target Number And Hits|ヒット |4: p.55|4: p.60 / 4A: p.75|
-0|Buying Hits|ヒット の 購入 [ヒットのこうにゅう] |4: p.55|4: p.60 / 4A: p.75|
-0|Glitches|グリッチ |4: p.55|4: p.60 / 4A: p.75|
-0|Critical Glitches|クリティカル ・ グリッチ |4: p.56|4: p.60 / 4A: p.75|
-0|Rule of Six|6 の ルール |4: p.56|4: p.61 / 4A: p.76|
-0|Success Tests|成功 テスト [せいこうテスト] |4: p.56|4: p.61 / 4A: p.76|
-0|Opposed Tests|対抗 テスト [たいこうテスト] |4: p.57|4: p.62 / 4A: p.76|
-5|Difficulty Table|難易度 表 [なんいどひょう] |4: p.56|4: p.62 / 4A: p.76|
-0|Opposed Test vs. a Group|集団 に対する 対抗 テスト [しゅうだんにたいするたいこうテスト] |4: p.57|4: p.62 / 4A: p.77|
-0|Extended Tests|継続 テスト [けいぞくテスト] |4: p.58|4: p.63 / 4A: p.77|
-0|Quick Extended Tests|即決 継続 テスト [そっけつけいぞくテスト] |4: p.59|4: p.63 / 4A: p.78|
+0|Buying Hits|ヒット の 購入 [ヒット の 購入] |4: p.55|4: p.60 / 4A: p.75|
+0|Glitches|グリッチ [グリッチ] |4: p.55|4: p.60 / 4A: p.75|
+0|Critical Glitches|クリティカル・グリッチ [クリティカル ・ グリッチ] |4: p.56|4: p.60 / 4A: p.75|
+0|Rule of Six|6のルール [6 の ルール] |4: p.56|4: p.61 / 4A: p.76|
+0|Success Tests|成功テスト [成功 テスト] |4: p.56|4: p.61 / 4A: p.76|
+0|Opposed Tests|対抗テスト [対抗 テスト] |4: p.57|4: p.62 / 4A: p.76|
+5|Difficulty Table|難易度表 [難易 度 表] |4: p.56|4: p.62 / 4A: p.76|
+0|Opposed Test vs. a Group|集団 に対する 対抗 テスト [集団 に対する 対抗 テスト] |4: p.57|4: p.62 / 4A: p.77|
+0|Extended Tests|継続テスト [継続 テスト] |4: p.58|4: p.63 / 4A: p.77|
+0|Quick Extended Tests|即決継続テスト [即決 継続 テスト] |4: p.59|4: p.63 / 4A: p.78|
 0|Extended Tests and Glitches|継続 テスト と グリッチ [けいぞくテストとグリッチ] |4: p.59|4: p.63 / 4A: p.78|
 5|Extended Test Difficulties|継続 テスト の 難易度 [けいぞくテストの難易度] |4: p.58|4: p.63 / 4A: p.78|
 5||継続 テスト の 単位 時間 [継続テストの単位時間] ||4A: p.78|

@@ -7,7 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Mecab.h"
+
+@class Mecab;
 
 @interface DocumentReader : NSObject
 + (void)insertInitialData;
++ (NSString*)parseJapaneseWord:(Mecab*)mecab:(NSString*)str;
 @end
