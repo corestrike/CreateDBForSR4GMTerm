@@ -26,6 +26,20 @@
 		0C6EF1891632882E0094603A /* DocumentReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1861632882E0094603A /* DocumentReader.m */; };
 		0C6EF18A1632882E0094603A /* SqliteDB.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C6EF1881632882E0094603A /* SqliteDB.m */; };
 		0C6EF19616328CFE0094603A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0C6EF19516328CFE0094603A /* README.md */; };
+		0CBA408F16355D69007A8CD7 /* Mecab.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CBA408C16355D69007A8CD7 /* Mecab.m */; };
+		0CBA409016355D69007A8CD7 /* Node.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CBA408E16355D69007A8CD7 /* Node.m */; };
+		0CBA409B16355D99007A8CD7 /* char.bin in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409216355D99007A8CD7 /* char.bin */; };
+		0CBA409C16355D99007A8CD7 /* dicrc in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409316355D99007A8CD7 /* dicrc */; };
+		0CBA409D16355D99007A8CD7 /* left-id.def in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409416355D99007A8CD7 /* left-id.def */; };
+		0CBA409E16355D99007A8CD7 /* matrix.bin in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409516355D99007A8CD7 /* matrix.bin */; };
+		0CBA409F16355D99007A8CD7 /* pos-id.def in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409616355D99007A8CD7 /* pos-id.def */; };
+		0CBA40A016355D99007A8CD7 /* rewrite.def in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409716355D99007A8CD7 /* rewrite.def */; };
+		0CBA40A116355D99007A8CD7 /* right-id.def in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409816355D99007A8CD7 /* right-id.def */; };
+		0CBA40A216355D99007A8CD7 /* sys.dic in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409916355D99007A8CD7 /* sys.dic */; };
+		0CBA40A316355D99007A8CD7 /* unk.dic in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA409A16355D99007A8CD7 /* unk.dic */; };
+		0CBA40A516355DAD007A8CD7 /* mecabrc in Resources */ = {isa = PBXBuildFile; fileRef = 0CBA40A416355DAD007A8CD7 /* mecabrc */; };
+		0CBA40BA16355E2A007A8CD7 /* libiconv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CBA40B916355E2A007A8CD7 /* libiconv.dylib */; };
+		0CBA40BC16355E38007A8CD7 /* libstdc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CBA40BB16355E38007A8CD7 /* libstdc++.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +49,13 @@
 			proxyType = 2;
 			remoteGlobalIDString = CEFDFE2114948AE50030D63F;
 			remoteInfo = sqliteFTS;
+		};
+		0CBA413716356021007A8CD7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0CBA413316356021007A8CD7 /* mecab.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = D2AAC07E0554694100DB518D;
+			remoteInfo = mecab;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -70,6 +91,23 @@
 		0C6EF1871632882E0094603A /* SqliteDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SqliteDB.h; sourceTree = "<group>"; };
 		0C6EF1881632882E0094603A /* SqliteDB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SqliteDB.m; sourceTree = "<group>"; };
 		0C6EF19516328CFE0094603A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = SOURCE_ROOT; };
+		0CBA408B16355D69007A8CD7 /* Mecab.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mecab.h; sourceTree = "<group>"; };
+		0CBA408C16355D69007A8CD7 /* Mecab.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mecab.m; sourceTree = "<group>"; };
+		0CBA408D16355D69007A8CD7 /* Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
+		0CBA408E16355D69007A8CD7 /* Node.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Node.m; sourceTree = "<group>"; };
+		0CBA409216355D99007A8CD7 /* char.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = char.bin; sourceTree = "<group>"; };
+		0CBA409316355D99007A8CD7 /* dicrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dicrc; sourceTree = "<group>"; };
+		0CBA409416355D99007A8CD7 /* left-id.def */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "left-id.def"; sourceTree = "<group>"; };
+		0CBA409516355D99007A8CD7 /* matrix.bin */ = {isa = PBXFileReference; lastKnownFileType = archive.macbinary; path = matrix.bin; sourceTree = "<group>"; };
+		0CBA409616355D99007A8CD7 /* pos-id.def */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "pos-id.def"; sourceTree = "<group>"; };
+		0CBA409716355D99007A8CD7 /* rewrite.def */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = rewrite.def; sourceTree = "<group>"; };
+		0CBA409816355D99007A8CD7 /* right-id.def */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "right-id.def"; sourceTree = "<group>"; };
+		0CBA409916355D99007A8CD7 /* sys.dic */ = {isa = PBXFileReference; lastKnownFileType = file; path = sys.dic; sourceTree = "<group>"; };
+		0CBA409A16355D99007A8CD7 /* unk.dic */ = {isa = PBXFileReference; lastKnownFileType = file; path = unk.dic; sourceTree = "<group>"; };
+		0CBA40A416355DAD007A8CD7 /* mecabrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = mecabrc; sourceTree = "<group>"; };
+		0CBA40B916355E2A007A8CD7 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
+		0CBA40BB16355E38007A8CD7 /* libstdc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.dylib"; path = "usr/lib/libstdc++.dylib"; sourceTree = SDKROOT; };
+		0CBA413316356021007A8CD7 /* mecab.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = mecab.xcodeproj; path = mecab/mecab.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +115,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CBA40BC16355E38007A8CD7 /* libstdc++.dylib in Frameworks */,
+				0CBA40BA16355E2A007A8CD7 /* libiconv.dylib in Frameworks */,
 				0C6EF16E163281F10094603A /* libsqliteFTS.a in Frameworks */,
 				0C6EF12E163280350094603A /* UIKit.framework in Frameworks */,
 				0C6EF130163280350094603A /* Foundation.framework in Frameworks */,
@@ -90,6 +130,7 @@
 		0C6EF11E163280350094603A = {
 			isa = PBXGroup;
 			children = (
+				0CBA413316356021007A8CD7 /* mecab.xcodeproj */,
 				0C6EF165163281CA0094603A /* sqliteFTS.xcodeproj */,
 				0C6EF133163280350094603A /* CreateDatabaseForSR4GMTerm */,
 				0C6EF12C163280350094603A /* Frameworks */,
@@ -108,6 +149,8 @@
 		0C6EF12C163280350094603A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0CBA40BB16355E38007A8CD7 /* libstdc++.dylib */,
+				0CBA40B916355E2A007A8CD7 /* libiconv.dylib */,
 				0C6EF12D163280350094603A /* UIKit.framework */,
 				0C6EF12F163280350094603A /* Foundation.framework */,
 				0C6EF131163280350094603A /* CoreGraphics.framework */,
@@ -118,6 +161,7 @@
 		0C6EF133163280350094603A /* CreateDatabaseForSR4GMTerm */ = {
 			isa = PBXGroup;
 			children = (
+				0CBA409116355D99007A8CD7 /* ipadic */,
 				0C6EF1841632882E0094603A /* util */,
 				0C6EF1571632809D0094603A /* fmdb */,
 				0C6EF1501632807F0094603A /* LineReader */,
@@ -134,6 +178,7 @@
 		0C6EF134163280350094603A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0CBA40A416355DAD007A8CD7 /* mecabrc */,
 				0C6EF19516328CFE0094603A /* README.md */,
 				0C6EF17F163288230094603A /* data */,
 				0C6EF135163280350094603A /* CreateDatabaseForSR4GMTerm-Info.plist */,
@@ -188,12 +233,40 @@
 		0C6EF1841632882E0094603A /* util */ = {
 			isa = PBXGroup;
 			children = (
+				0CBA408B16355D69007A8CD7 /* Mecab.h */,
+				0CBA408C16355D69007A8CD7 /* Mecab.m */,
+				0CBA408D16355D69007A8CD7 /* Node.h */,
+				0CBA408E16355D69007A8CD7 /* Node.m */,
 				0C6EF1851632882E0094603A /* DocumentReader.h */,
 				0C6EF1861632882E0094603A /* DocumentReader.m */,
 				0C6EF1871632882E0094603A /* SqliteDB.h */,
 				0C6EF1881632882E0094603A /* SqliteDB.m */,
 			);
 			path = util;
+			sourceTree = "<group>";
+		};
+		0CBA409116355D99007A8CD7 /* ipadic */ = {
+			isa = PBXGroup;
+			children = (
+				0CBA409216355D99007A8CD7 /* char.bin */,
+				0CBA409316355D99007A8CD7 /* dicrc */,
+				0CBA409416355D99007A8CD7 /* left-id.def */,
+				0CBA409516355D99007A8CD7 /* matrix.bin */,
+				0CBA409616355D99007A8CD7 /* pos-id.def */,
+				0CBA409716355D99007A8CD7 /* rewrite.def */,
+				0CBA409816355D99007A8CD7 /* right-id.def */,
+				0CBA409916355D99007A8CD7 /* sys.dic */,
+				0CBA409A16355D99007A8CD7 /* unk.dic */,
+			);
+			path = ipadic;
+			sourceTree = "<group>";
+		};
+		0CBA413416356021007A8CD7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0CBA413816356021007A8CD7 /* libmecab.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +310,10 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
+					ProductGroup = 0CBA413416356021007A8CD7 /* Products */;
+					ProjectRef = 0CBA413316356021007A8CD7 /* mecab.xcodeproj */;
+				},
+				{
 					ProductGroup = 0C6EF166163281CA0094603A /* Products */;
 					ProjectRef = 0C6EF165163281CA0094603A /* sqliteFTS.xcodeproj */;
 				},
@@ -256,6 +333,13 @@
 			remoteRef = 0C6EF16C163281CB0094603A /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
+		0CBA413816356021007A8CD7 /* libmecab.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libmecab.a;
+			remoteRef = 0CBA413716356021007A8CD7 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
@@ -268,6 +352,16 @@
 				0C6EF182163288230094603A /* sr4data_utf8.txt in Resources */,
 				0C6EF183163288230094603A /* sr4gmterm.sqlite in Resources */,
 				0C6EF19616328CFE0094603A /* README.md in Resources */,
+				0CBA409B16355D99007A8CD7 /* char.bin in Resources */,
+				0CBA409C16355D99007A8CD7 /* dicrc in Resources */,
+				0CBA409D16355D99007A8CD7 /* left-id.def in Resources */,
+				0CBA409E16355D99007A8CD7 /* matrix.bin in Resources */,
+				0CBA409F16355D99007A8CD7 /* pos-id.def in Resources */,
+				0CBA40A016355D99007A8CD7 /* rewrite.def in Resources */,
+				0CBA40A116355D99007A8CD7 /* right-id.def in Resources */,
+				0CBA40A216355D99007A8CD7 /* sys.dic in Resources */,
+				0CBA40A316355D99007A8CD7 /* unk.dic in Resources */,
+				0CBA40A516355DAD007A8CD7 /* mecabrc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +382,8 @@
 				0C6EF1601632809D0094603A /* FMResultSet.m in Sources */,
 				0C6EF1891632882E0094603A /* DocumentReader.m in Sources */,
 				0C6EF18A1632882E0094603A /* SqliteDB.m in Sources */,
+				0CBA408F16355D69007A8CD7 /* Mecab.m in Sources */,
+				0CBA409016355D69007A8CD7 /* Node.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +430,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = ./mecab/;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -354,6 +451,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = ./mecab/;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
