@@ -61,7 +61,7 @@
                 NSString *jword = [arr objectAtIndex:2];
                 NSString *page = [arr objectAtIndex:3];
                 NSString *jpage = [arr objectAtIndex:4];
-                NSLog(@"%@", [self parseJapaneseWord:mecab :jword]);
+//                NSLog(@"%@", [self parseJapaneseWord:mecab :jword]);
 //                NSLog(@"%@, %@, %@, %@, %@", category, word, jword, page, jpage);
                 [db executeUpdate:@"INSERT INTO reference(category, word, jword, page, jpage) VALUES(?, ?, ?, ?, ?);", category, word, jword, page, jpage];
                 if (readLines % 100 == 0) {
