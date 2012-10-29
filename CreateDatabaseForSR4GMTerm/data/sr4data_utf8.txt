@@ -1,5 +1,5 @@
 0|Attribute-Only Tests|能力値テスト [能力 値 テスト] |4: p.54|4: p.59 / 4A: p.74|
-0|Long Shots|ロングショット・テスト [ロング ショット テスト] |4: p.55|4: p.59 / 4A: p.74|
+0|Long Shots|ロングショット・テスト [ロング ショット テスト] |4: p.56|4: p.59 / 4A: p.74|
 0|Target Number And Hits|ヒット |4: p.55|4: p.60 / 4A: p.75|
 0|Buying Hits|ヒット の 購入 [ヒット の 購入] |4: p.55|4: p.60 / 4A: p.75|
 0|Glitches|グリッチ |4: p.55|4: p.60 / 4A: p.75|
@@ -7,31 +7,31 @@
 0|Rule of Six|6のルール [6 の ルール] |4: p.56|4: p.61 / 4A: p.76|
 0|Success Tests|成功テスト [成功 テスト] |4: p.56|4: p.61 / 4A: p.76|
 0|Opposed Tests|対抗テスト [対抗 テスト] |4: p.57|4: p.62 / 4A: p.76|
-5|Difficulty Table|難易度表 [難易 度 表] |4: p.56|4: p.62 / 4A: p.76|
+6|Difficulty Table|難易度表 [難易 度 表] |4: p.56|4: p.62 / 4A: p.76|
 0|Opposed Test vs. a Group|集団 に対する 対抗 テスト [集団 に対する 対抗 テスト] |4: p.57|4: p.62 / 4A: p.77|
 0|Extended Tests|継続テスト [継続 テスト] |4: p.58|4: p.63 / 4A: p.77|
 0|Quick Extended Tests|即決継続テスト [即決 継続 テスト] |4: p.59|4: p.63 / 4A: p.78|
 0|Extended Tests and Glitches|継続テストとグリッチ [継続 テスト と グリッチ] |4: p.59|4: p.63 / 4A: p.78|
-5|Extended Test Difficulties|継続テストの難易度 [継続 テスト の 難易 度] |4: p.58|4: p.63 / 4A: p.78|
-5||継続テストの単位時間 [継続 テスト の 単位 時間] ||4A: p.78|
+6|Extended Test Difficulties|継続テストの難易度 [継続 テスト の 難易 度] |4: p.58|4: p.63 / 4A: p.78|
+6||継続テストの単位時間 [継続 テスト の 単位 時間] ||4A: p.78|
 0|Teamwork Test|チームワーク・テスト [チーム ワーク テスト] |4: p.59|4: p.64 / 4A: p.79|
 0|Trying Again|テストの再挑戦 [テスト の 再 挑戦] |4: p.59|4: p.64 / 4A: p.79|
 0|Critical Success|クリティカル・サクセス [クリティカル サクセス] |4: p.59|4: p.64 / 4A: p.79|
 0|Spending Edge|エッジの使用 [エッジ の 使用] |4: p.67|4: p.73 / 4A: p.90|
 0|Regaining Edge|エッジの回復 [エッジ の 使用] |4: p.68|4: p.74 / 4A: p.92|
 0|Burning Edge|エッジを燃やす [エッジ を 燃やす] |4: p.68|4: p.74 / 4A: p.92|
-5|Metatype Attribute Table|種族能力値表 [種族 能力 値 表] |4: p.73|4: p.79 / 4A: p.99|
+6|Metatype Attribute Table|種族能力値表 [種族 能力 値 表] |4: p.73|4: p.79 / 4A: p.99|
 0|Choose Your Metatype|メタタイプの選択 [メタ タイプ の 選択] |4: p.72|4: p.79 / 4A: p.99|
 0||資質の選択 [資質 の 選択] ||4A: p.100|
 0|Purchase Attributes|能力値の購入 [能力 値 の 購入] |4: p.73|4: p.79 / 4A: p.100|
 0|Acquire Skills|技能の獲得 [技能 の 獲得] |4: p.74|4: p.81 / 4A: p.102|
 0|Assigning Resources|資産の割り当て [資産 の 割り当て] |4: p.84|4: p.91 / 4A: p.105|
-5|Lifestyle Cost Table|ライフスタイルコスト表 [ライフ スタイル コスト 表] |4: p.85|4: p.92 / 4A: p.106|
+6|Lifestyle Cost Table|ライフスタイルコスト表 [ライフ スタイル コスト 表] |4: p.85|4: p.92 / 4A: p.106|
 0|Magical Resources|魔法の資産 [魔法 の 資産] |4: p.85|4: p.93 / 4A: p.106|
 0|Technomancer Resources|テクノマンサーの資産 [テクノマンサー の 資産] |4: p.86|4: p.93 / 4A: p.107|
 0|Starting Nuyen|開始時所持金 [開始 時 所持 金] |4: p.86|4: p.94 / 4A: p.108|
-5|Condition Monitor Boxes|コンディション・モニターのマス数 [コンディション モニター の マス 数] |4: p.86|4: p.94 / 4A: p.108|
-5|Starting Money Table|開始時所持金表 [開始 時 所持 金 表] |4: p.86|4: p.94 / 4A: p.108|
+6|Condition Monitor Boxes|コンディション・モニターのマス数 [コンディション モニター の マス 数] |4: p.86|4: p.94 / 4A: p.108|
+6|Starting Money Table|開始時所持金表 [開始 時 所持 金 表] |4: p.86|4: p.94 / 4A: p.108|
 0|Astral Chameleon (Quality)|アストラル・カメレオン (資質) [アストラル カメレオン 資質] |4: p.78|4: p.84 / 4A: p.110|
 0|Adept (Quality)|アデプト (資質) [アデプト 資質] |4: p.77|4: p.84 / 4A: p.110|
 0|Murky Link (Quality)|おぼろなリンク (資質) [おぼろな リンク 資質] |4: p.79|4: p.84 / 4A: p.110|
@@ -70,7 +70,7 @@
 0|Ork Poser (Quality)|オーク気取り (資質) [オーク 気取り 資質] |4: p.83|4: p.88 / 4A: p.115|
 0|Sensitive Neural Structure (Quality)|過敏な神経構造 (資質) [過敏 な 神経 構造 資質] |4: p.83|4: p.88 / 4A: p.115|
 0|Infirm (Quality)|虚弱 (資質) [虚弱 資質] |4: p.82|4: p.88 / 4A: p.115|
-5|Allergy Table|アレルギー表 [アレルギー 表] |4: p.81|4: p.88 / 4A: p.116|
+6|Allergy Table|アレルギー表 [アレルギー 表] |4: p.81|4: p.88 / 4A: p.116|
 0|Low Pain Tolerance (Quality)|苦痛に弱い (資質) [苦痛 に 弱い 資質] |4: p.82|4: p.89 / 4A: p.116|
 0|Gremlins (Quality)|グレムリン (資質) [グレムリン 資質] |4: p.81|4: p.89 / 4A: p.116|
 0|Codeblock (Quality)|コードブロック (資質) [コード ブロック 資質] |4: p.81|4: p.89 / 4A: p.116|
@@ -86,8 +86,8 @@
 0|Uneducated (Quality)|無教育 (資質) [無 教育 資質] |4: p.83|4: p.91 / 4A: p.118|
 0|Sensitive System (Quality)|免疫過敏 (資質) [免疫 過敏 資質] |4: p.83|4: p.91 / 4A: p.118|
 0|Weak Immune System (Quality)|弱い免疫系 (資質) [弱い 免疫 系 資質] |4: p.84|4: p.91 / 4A: p.118|
-5|Build Point Cost Summary Table|消費BP早見表 [消費 BP 早見 表] |4: p.88|4: p.96|
-5||キャラクター作成手順まとめ [キャラクター 作成 手順 まとめ] ||4A: p.119|
+6|Build Point Cost Summary Table|消費BP早見表 [消費 BP 早見 表] |4: p.88|4: p.96|
+6||キャラクター作成手順まとめ [キャラクター 作成 手順 まとめ] ||4A: p.119|
 0|Bounty Hunter|バウンティ・ハンター [バウンティ ハンター] |4: p.89|4: p.97 / 4A: p.120|
 0|Combat Mage|コンバット・メイジ [コンバット メイジ] |4: p.90|4: p.98 / 4A: p.121|
 0|Covert Ops Specialist|コバート・オペ・スペシャリスト [コバート オペ スペシャリスト] |4: p.91|4: p.99 / 4A: p.122|
@@ -104,8 +104,8 @@
 0|Street Shaman|ストリート・シャーマン [ストリート シャーマン] |4: p.102|4: p.110 / 4A: p.133|
 0|Technomancer|テクノマンサー [テクノマンサー] |4: p.103|4: p.111 / 4A: p.134|
 0|Weapons Specialist|ウェポン・スペシャリスト [ウェポン スペシャリスト] |4: p.104|4: p.112 / 4A: p.135|
-5|Skill Groups|技能グループ [技能 グループ] |4: p.106|4: p.118 / 4A: p.142|
-5|Skills and Linked Attributes|技能と関連能力値表 [技能 と 関連 能力 値 表] |4: p.111|4: p.119 / 4A: p.142|
+6|Skill Groups|技能グループ [技能 グループ] |4: p.106|4: p.118 / 4A: p.142|
+6|Skills and Linked Attributes|技能と関連能力値表 [技能 と 関連 能力 値 表] |4: p.111|4: p.119 / 4A: p.142|
 0|Specializations|専門化 [専門 化] |4: p.110|4: p.117 / 4A: p.143|
 0|Defaulting|デフォルティング [デフォルティング] |4: p.110|4: p.118 / 4A: p.144|
 0|Dodge (Skill)|回避 (技能) [回避 技能 技能] |4: p.112|4: p.118 / 4A: p.144|
@@ -193,39 +193,39 @@
 0|Using Etiquette|〈エチケット〉の使い方 [エチケット の 使い方] |4: p.121|4: p.130 / 4A: p.154|
 0|Using Stealth Skills|隠密系技能の使い方 [隠密 系 技能 の 使い方] |4: p.118|4: p.125 / 4A: p.155|
 0||〈化学〉の使い方 [化学 の 使い方] ||4A: p.155|
-5||ホーム・クッキング表 [ホーム クッキング 表] ||4A: p.156|
-5||化学工具表 [化学 工具 表] ||4A: p.156|
+6||ホーム・クッキング表 [ホーム クッキング 表] ||4A: p.156|
+6||化学工具表 [化学 工具 表] ||4A: p.156|
 0|Using Technical Skills to Build or Repair|技術系技能を使った製作と修理 [技術 系 技能 を使った 製作 と 修理] |4: p.125|4: p.133 / 4A: p.156|
 0|Using Forgery|〈偽造〉の使い方 [偽造 の 使い方] |4: p.124|4: p.132 / 4A: p.156|
 0|Build/Repair Table|製作／修理表 [製作 修理 表] |4: p.125|4: p.133 / 4A: p.156|
 0|Using Language Skills|言語技能の使い方 [言語 技能 の 使い方] |4: p.129|4: p.137 / 4A: p.157|
-5|Language Skill Table|言語技能表 [言語 技能 表] |4: p.129|4: p.137 / 4A: p.157|
+6|Language Skill Table|言語技能表 [言語 技能 表] |4: p.129|4: p.137 / 4A: p.157|
 0|Using Navigation|〈航法〉の使い方 [航法 の使い方] |4: p.116|4: p.124 / 4A: p.157|
 0|Using Survival|〈サバイバル〉の使い方 [サバイバル の 使い方] |4: p.118|4: p.126 / 4A: p.157|
-5|Survival Test Table|サバイバルテスト表 [サバイバル テスト 表] |4: p.118|4: p.126 / 4A: p.158|
+6|Survival Test Table|サバイバルテスト表 [サバイバル テスト 表] |4: p.118|4: p.126 / 4A: p.158|
 0|Using Insruction|〈指導〉の使い方 [指導 の 使い方] |4: p.123|4: p.130 / 4A: p.158|
 0|Using Locksmith|〈錠前〉の使い方 [錠前 の 使い方] |4: p.125|4: p.133 / 4A: p.158|
 0|Using Swimming|〈水泳〉の使い方 [水泳 の 使い方] |4: p.118|4: p.126 / 4A: p.158|
-5|Treading Water Modifications Table|立ち泳ぎ修正表 [立ち 泳ぎ 修正 表] |4: p.119|4: p.127 / 4A: p.159|
-5|Swimming Rates|水泳移動距離表 [水泳 移動 距離 表] |4: p.118|4: p.127 / 4A: p.159|
+6|Treading Water Modifications Table|立ち泳ぎ修正表 [立ち 泳ぎ 修正 表] |4: p.119|4: p.127 / 4A: p.159|
+6|Swimming Rates|水泳移動距離表 [水泳 移動 距離 表] |4: p.118|4: p.127 / 4A: p.159|
 0|Using Escape Artist|〈脱出〉の使い方 [脱出 の 使い方] |4: p.115|4: p.123 / 4A: p.159|
 0|Using Perception|〈知覚〉の使い方 [知覚 の 使い方] |4: p.117|4: p.124 / 4A: p.159|
-5|Escape Artist Table|脱出表 [脱出 表] |4: p.115|4: p.123 / 4A: p.159|
-5|Perception Test Table|知覚テスト表 [知覚 テスト 表] |4: p.117|4: p.125 / 4A: p.160|
+6|Escape Artist Table|脱出表 [脱出 表] |4: p.115|4: p.123 / 4A: p.159|
+6|Perception Test Table|知覚テスト表 [知覚 テスト 表] |4: p.117|4: p.125 / 4A: p.160|
 0|Using Knowledge Skills|知識技能の使い方 [知識 技能 の 使い方] |4: p.128|4: p.136 / 4A: p.160|
 0|Knowledge Skill Table|知識技能表 [知識 技能 表] |4: p.129|4: p.136 / 4A: p.160|
 0|Jumping|跳躍の使い方 [跳躍 の 使い方] |4: p.116|4: p.123 / 4A: p.160|
-5|Jumping Table|跳躍表 [跳躍 表] |4: p.117|4A: p.161|
+6|Jumping Table|跳躍表 [跳躍 表] |4: p.117|4A: p.161|
 0|Using Climbing|〈登攀〉の使い方 [登攀 の 使い方] |4: p.115|4: p.122 / 4A: p.161|
-5|Climbing Table|登攀表 [登攀 表] |4: p.115|4: p.123 / 4A: p.161|
+6|Climbing Table|登攀表 [登攀 表] |4: p.115|4: p.123 / 4A: p.161|
 0|Using Tracking|〈トラッキング〉の使い方 [トラッキング の 使い方] |4: p.119|4: p.127 / 4A: p.162|
 0|Using Disguise|〈変装〉の使い方 [変装 の 使い方] |4: p.118|4: p.125 / 4A: p.162|
 0|Using Charisma-linked Skills|【魅力】の関連技能使い方 [魅力 の 関連 技能 使い方] |4: p.120|4: p.128 / 4A: p.162|
 0|Social Modifiers|社交修正 [社交 修正] |4: p.120|4: p.128 / 4A: p.162|
 0|Using Con, Intimidation, Leadership, and Negotiation|〈虚言〉〈脅迫〉〈統率〉〈交渉〉の使い方 [虚言 脅迫 統率 交渉 の 使い方] |4: p.120|4: p.128 / 4A: p.163|
-5|Charisma-Linked Opposed Tests|【魅力】関連対抗テスト表 [魅力 関連 対抗 テスト 表] |4: p.121|4: p.128 / 4A: p.163|
+6|Charisma-Linked Opposed Tests|【魅力】関連対抗テスト表 [魅力 関連 対抗 テスト 表] |4: p.121|4: p.128 / 4A: p.163|
 0|Using Running|〈ランニング〉の使い方 [ランニング の 使い方] |4: p.117|4: p.125 / 4A: p.163|
-5|Social Modifiers Table|社交修正表 [社交 修正 表] |4: p.122|4: p.129 / 4A: p.164|
+6|Social Modifiers Table|社交修正表 [社交 修正 表] |4: p.122|4: p.129 / 4A: p.164|
 0|Composure (WIL + CHA)|冷静 (【意志力】＋【魅力】) [冷静 意志 力 魅力] |4: p.130|4: p.138 / 4A: p.164|
 0|Judge Intentions (INT + CHA)|意図をはかる ([【直観力】＋【魅力】) [意図 を はかる 直観 力 魅力] |4: p.130|4: p.138 / 4A: p.164|
 0|Lifting and Carrying (STR + BOD)|持ち上げと運搬 (【筋力】＋【強靭力】) [持ち 上げ と 運搬 筋力 強靭 力] |4: p.130|4: p.138 / 4A: p.165|
@@ -239,20 +239,20 @@
 1|Delayed Actions|行動を遅らせる [行動 を 遅らせる] |4: p.134|4: p.143 / 4A: p.172|
 1|Timed Items and Initiative|時限式のアイテムとイニシアティブ [時限 式 の アイテム と イニシアティブ] |4: p.135|4: p.143 / 4A: p.173|
 1|Free Actions|簡易動作 [簡易 動作] |4: p.135|4: p.144 / 4A: p.173|
-5|Combat Actions|戦闘動作 [戦闘 動作] |4: p.137|4: p.146 / 4A: p.173|
+6|Combat Actions|戦闘動作 [戦闘 動作] |4: p.137|4: p.146 / 4A: p.173|
 1|Simple Actions|単純動作 [単純 動作] |4: p.136|4: p.145 / 4A: p.174|
 1|Complex Actions|複雑動作 [複雑 動作] |4: p.138|4: p.147 / 4A: p.176|
 1||割り込み動作 [割り 込み 動作] ||4A: p.176|
 1|Movement|移動 [移動] |4: p.138|4: p.147 / 4A: p.177|
-5|Movement Rate Table|移動速度表 [移動 速度 表] |4: p.138|4: p.148 / 4A: p.177|
+6|Movement Rate Table|移動速度表 [移動 速度 表] |4: p.138|4: p.148 / 4A: p.177|
 1|Resolving Comvat|戦闘の解決 [戦闘 の 解決] |4: p.138|4: p.148 / 4A: p.177|
 1|Opposed Combat Test|対抗戦闘テスト [対抗 戦闘 テスト] |4: p.138|4: p.148 / 4A: p.177|
 1|The Combat Sequence|戦闘の進行 [戦闘 の 進行] |4: p.139|4: p.148 / 4A: p.177|
 1|Ranged Attack Modifiers|射撃戦闘における修正 [射撃 戦闘 における 修正] |4: p.140|4: p.148 / 4A: p.178|
-5|Ranged Combat Summary|射撃戦闘のまとめ [射撃 戦闘 の まとめ] |4: p.141|4: p.151 / 4A: p.178|
-5|Weaoin Range Table|射程距離表 [射程 距離 表] |4: p.139|4: p.149 / 4A: p.179|
-5|Ranged Combat Modifiers Table|射撃戦闘修正表 [射撃 戦闘 修正 表] |4: p.140|4: p.150 / 4A: p.181|
-5|Visibility Table|視界修正表 [視界 修正 表] |4: p.140|4: p.150 / 4A: p.181|
+6|Ranged Combat Summary|射撃戦闘のまとめ [射撃 戦闘 の まとめ] |4: p.141|4: p.151 / 4A: p.178|
+6|Weaoin Range Table|射程距離表 [射程 距離 表] |4: p.139|4: p.149 / 4A: p.179|
+6|Ranged Combat Modifiers Table|射撃戦闘修正表 [射撃 戦闘 修正 表] |4: p.140|4: p.150 / 4A: p.181|
+6|Visibility Table|視界修正表 [視界 修正 表] |4: p.140|4: p.150 / 4A: p.181|
 1|Defending Against Ranged Combat|射撃攻撃に対する防御 [射撃 攻撃 に対する 防御] |4: p.142|4: p.152 / 4A: p.181|
 1|Single-Shot Mode|シングルショット・モード [シングル ショット モード SS] |4: p.142|4: p.152 / 4A: p.182|
 1|Semi-Automatic Mode|セミオート・モード [セミ オート モード SA] |4: p.142|4: p.152 / 4A: p.182|
@@ -264,28 +264,28 @@
 1|Full Bursts|フルバースト [フル バースト] |4: p.144|4: p.154 / 4A: p.183|
 1|Suppressive Fire|制圧射撃 [制圧 射撃] |4: p.144|4: p.154 / 4A: p.183|
 1|Ammunition|弾薬 [弾 薬] |4: p.144|4: p.154 / 4A: p.184|
-1|Shotguns (Rule)|ショットガン (ルール) [ショット ガン] |4: p.144|4: p.154 / 4A: p.184|
+1|Shotguns (Rule)|ショットガン (ルール) [ショット ガン ルール] |4: p.144|4: p.154 / 4A: p.184|
 1|Narrow Spread|狭拡散 (狭い拡散) [狭 拡散 狭い 拡散] |4: p.144|4: p.154 / 4A: p.184|
 1|Medium Spread|中拡散 [中 拡散] |4: p.144|4: p.154 / 4A: p.184|
 1|Wide Spread|広拡散 (広い拡散) [広 拡散 広い 拡散] |4: p.144|4: p.154 / 4A: p.184|
 1|Grenades|手榴弾 (ルール) [手 榴弾] |4: p.145|4: p.155 / 4A: p.184|
-5|Projectile Weapons Table|射出武器表 [射出 武器 表] |4: p.145|4: p.155 / 4A: p.185|
-5|Scatter Table|着弾誤差表 [着弾 誤差 表] |4: p.145|4: p.155 / 4A: p.185|
+6|Projectile Weapons Table|射出武器表 [射出 武器 表] |4: p.145|4: p.155 / 4A: p.185|
+6|Scatter Table|着弾誤差表 [着弾 誤差 表] |4: p.145|4: p.155 / 4A: p.185|
 1|Determine Scatter|着弾誤差の決定 [着弾 誤差 の 決定] |4: p.145|4: p.155 / 4A: p.185|
 1|Blast Effects|爆発効果 [爆発 効果] |4: p.145|4: p.156 / 4A: p.185|
-5|Grenade Damage Table|手榴弾ダメージ表 [手 榴弾 ダメージ 表] |4: p.146|4: p.156 / 4A: p.185|
+6|Grenade Damage Table|手榴弾ダメージ表 [手 榴弾 ダメージ 表] |4: p.146|4: p.156 / 4A: p.185|
 1|Blast Against Barriers|障壁と爆発 [障壁 と 爆発] |4: p.146|4: p.156 / 4A: p.186|
 1|Blast in a Confined Space|閉鎖空間での爆発 [閉鎖 空間 での 爆発] |4: p.146|4: p.156 / 4A: p.186|
 1|Resolving Rocket and Missile Fire|ロケットとミサイルによる攻撃の解決 [ロケット と ミサイル による 攻撃 の 解決] |4: p.146|4: p.156 / 4A: p.186|
 1|Rocket and Missile Scatter|ロケットとミサイルの着弾誤差 [ロケット と ミサイル の 着弾 誤差] |4: p.146|4: p.157 / 4A: p.186|
-5|Rocket/Missile Table|ロケット／ミサイル表 [ロケット ミサイル 表] |4: p.146|4: p.156 / 4A: p.186|
-5|Melee Combat Summary|近接戦闘のまとめ [近接 戦闘 の まとめ] |4: p.147|4: p.157 / 4A: p.187|
+6|Rocket/Missile Table|ロケット／ミサイル表 [ロケット ミサイル 表] |4: p.146|4: p.156 / 4A: p.186|
+6|Melee Combat Summary|近接戦闘のまとめ [近接 戦闘 の まとめ] |4: p.147|4: p.157 / 4A: p.187|
 1|Defending Against Melee Attacks|近接戦闘に対する防御 [近接 戦闘 に対する 防御] |4: p.147|4: p.157 / 4A: p.187|
 1|Melee Modifiers|近接戦闘における修正 [近接 戦闘 における 修正] |4: p.147|4: p.158 / 4A: p.188|
-5|Melee Modifiers Table|近接戦闘修正表 [近接 戦闘 修正 表] |4: p.148|4: p.158 / 4A: p.188|
-5|Melee Weapons Table|近接武器表 [近接 武器 表] |4: p.149|4: p.159 / 4A: p.189|
+6|Melee Modifiers Table|近接戦闘修正表 [近接 戦闘 修正 表] |4: p.148|4: p.158 / 4A: p.188|
+6|Melee Weapons Table|近接武器表 [近接 武器 表] |4: p.149|4: p.159 / 4A: p.189|
 1||戦闘中の防御 [戦闘 中 の 防御] ||4A: p.190|
-5|Defense Modifiers Table|防御修正表 [防御 修正 表] |4: p.151|4: p.161 / 4A: p.190|
+6|Defense Modifiers Table|防御修正表 [防御 修正 表] |4: p.151|4: p.161 / 4A: p.190|
 1|Full Defense|全力防御 [全力 防御] |4: p.151|4: p.162 / 4A: p.191|
 1|Full Defense as an Interrupt Action|割り込み動作としての全力防御 [割り込み 動作 としての 全力 防御] |4: p.151|4: p.162 / 4A: p.191|
 1|Armor|装甲値 [装甲 値] |4: p.148|4: p.159 / 4A: p.192|
@@ -306,7 +306,7 @@
 1|Electricity Damage|電撃ダメージ [電撃 ダメージ] |4: p.154|4: p.165 / 4A: p.196|
 1|Falling Damage|落下ダメージ [落下 ダメージ] |4: p.154|4: p.166 / 4A: p.197|
 1|Fatigue Damage|疲労ダメージ [疲労 ダメージ] |4: p.155|4: p.166 / 4A: p.197|
-5|Falling Damage Table|落下ダメージ表 [落下 ダメージ 表] |4: p.154|4: p.166 / 4A: p.197|
+6|Falling Damage Table|落下ダメージ表 [落下 ダメージ 表] |4: p.154|4: p.166 / 4A: p.197|
 1|Surprise|不意打ち [不意 打ち] |4: p.155|4: p.166 / 4A: p.198|
 1|Surprise and Perception|不意打ちと知覚 [不意 打ち と 知覚] |4: p.155|4: p.167 / 4A: p.198|
 1|Surprise Tests|不意打ちテスト [不意 打ち テスト] |4: p.155|4: p. 167/ 4A: p.198|
@@ -316,30 +316,30 @@
 1|Barrier Ratings|障壁値 [障壁 値] |4: p.157|4: p.168 / 4A: p.199|
 1|Shooting Through Barriers|障壁を通しての射撃 [障壁 を 通しての 射撃] |4: p.157|4: p.169 / 4A: p.199|
 1|Destroying Barriers|障壁の破壊 [障壁 の 破壊] |4: p.157|4: p.169 / 4A: p.200|
-5|Barrier Rating Table|障壁値表 [障壁 値 表] |4: p.157|4: p.169 / 4A: p.200|
-5|Damage Barriers Table|障壁攻撃表 [障壁 攻撃 表] |4: p.158|4: p.169 / 4A: p.200|
-1|Vehicle Combat|ヴィークル戦闘 [ヴィークル 戦闘] |4: p.158|4: p.170 / 4A: p.200|
-1|Vehicle Tests|ヴィークル・テスト [ヴィークル テスト] |4: p.159|4: p.170 / 4A: p.201|
-5|Handling Rating Table|操縦値表 [操縦 値 表] |4: p.159|4: p.170 / 4A: p.201|
-5|Vehicle Test Threshold Table|ヴィークル・テスト目標値表 [ヴィークル テスト 目標 値 表] |4: p.159|4: p.171 / 4A: p.202|
-5|Terrain Table|地形表 [地形 表] |4: p.160|4: p.171 / 4A: p.203|
-1|Ramming|体当たり [体 当たり] |4: p.160|4: p.172 / 4A: p.203|
-5|Ramming Damage Table|体当たりダメージ表 [体 当たり ダメージ 表] |4: p.160|4: p.172 / 4A: p.203|
-1|Chase Combat|チェイス [チェイス] |4: p.160|4: p.172 / 4A: p.204|
-1|Opposed Vehcle Test|対抗ヴィークル・テスト [対抗 ヴィークル テスト] |4: p.161|4: p.173 / 4A: p.204|
-1|Attacks Against Vehicles|ヴィークルへの攻撃 [ヴィークル への 攻撃] |4: p.161|4: p.173 / 4A: p.205|
-1|Evasive Driving|回避機動 [回避 機動] |4: p.161|4: p.173 / 4A: p.205|
-1|Vehicle Damage|ヴィークル の ダメージ [ヴィークル の ダメージ] |4: p.161|4: p.174 / 4A: p.205|
-1|Crashing|クラッシュ [クラッシュ] |4: p.161|4: p.174 / 4A: p.205|
-1|Called Shots on Vehicles|ヴィークルの部位狙い [ヴィークル の 部位 狙い] |4: p.162|4: p.174 / 4A: p.205|
-1|Damage and Passengers|ダメージと同乗者 [ダメージ と 同乗 者] |4: p.162|4: p.174 / 4A: p.206|
-1|Gunnery (Rule)|砲術 (ルール) [砲術] |4: p.162|4: p.174 / 4A: p.206|
-1|Drones and Gunnery|ドローンと砲術 [ドローン と 砲術] |4: p.162|4: p.174 / 4A: p.206|
-1|Sensor Tests|センサー・テスト [センサー テスト] |4: p.162|4: p.174 / 4A: p.206|
-1|Sensor Targeting|センサーによる照準 [センサー による 照準] |4: p.162|4: p.175 / 4A: p.206|
-1|Passive Targeting|受動照準 [受動 照準] |4: p.162|4: p.175 / 4A: p.206|
-1|Active Targeting|能動照準 [能動 照準] |4: p.162|4: p.175 / 4A: p.206|
-5|Signature Table|シグネチャー表 [シグネチャー 表] |4: p.162|4: p.174 / 4A: p.206|
+6|Barrier Rating Table|障壁値表 [障壁 値 表] |4: p.157|4: p.169 / 4A: p.200|
+6|Damage Barriers Table|障壁攻撃表 [障壁 攻撃 表] |4: p.158|4: p.169 / 4A: p.200|
+5|Vehicle Combat|ヴィークル戦闘 [ヴィークル 戦闘] |4: p.158|4: p.170 / 4A: p.200|
+5|Vehicle Tests|ヴィークル・テスト [ヴィークル テスト] |4: p.159|4: p.170 / 4A: p.201|
+6|Handling Rating Table|操縦値表 [操縦 値 表] |4: p.159|4: p.170 / 4A: p.201|
+6|Vehicle Test Threshold Table|ヴィークル・テスト目標値表 [ヴィークル テスト 目標 値 表] |4: p.159|4: p.171 / 4A: p.202|
+6|Terrain Table|地形表 [地形 表] |4: p.160|4: p.171 / 4A: p.203|
+5|Ramming|体当たり [体 当たり] |4: p.160|4: p.172 / 4A: p.203|
+6|Ramming Damage Table|体当たりダメージ表 [体 当たり ダメージ 表] |4: p.160|4: p.172 / 4A: p.203|
+5|Chase Combat|チェイス [チェイス] |4: p.160|4: p.172 / 4A: p.204|
+5|Opposed Vehcle Test|対抗ヴィークル・テスト [対抗 ヴィークル テスト] |4: p.161|4: p.173 / 4A: p.204|
+5|Attacks Against Vehicles|ヴィークルへの攻撃 [ヴィークル への 攻撃] |4: p.161|4: p.173 / 4A: p.205|
+5|Evasive Driving|回避機動 [回避 機動] |4: p.161|4: p.173 / 4A: p.205|
+5|Vehicle Damage|ヴィークル の ダメージ [ヴィークル の ダメージ] |4: p.161|4: p.174 / 4A: p.205|
+5|Crashing|クラッシュ [クラッシュ] |4: p.161|4: p.174 / 4A: p.205|
+5|Called Shots on Vehicles|ヴィークルの部位狙い [ヴィークル の 部位 狙い] |4: p.162|4: p.174 / 4A: p.205|
+5|Damage and Passengers|ダメージと同乗者 [ダメージ と 同乗 者] |4: p.162|4: p.174 / 4A: p.206|
+5|Gunnery (Rule)|砲術 (ルール) [砲術 ルール] |4: p.162|4: p.174 / 4A: p.206|
+5|Drones and Gunnery|ドローンと砲術 [ドローン と 砲術] |4: p.162|4: p.174 / 4A: p.206|
+5|Sensor Tests|センサー・テスト [センサー テスト] |4: p.162|4: p.174 / 4A: p.206|
+5|Sensor Targeting|センサーによる照準 [センサー による 照準] |4: p.162|4: p.175 / 4A: p.206|
+5|Passive Targeting|受動照準 [受動 照準] |4: p.162|4: p.175 / 4A: p.206|
+5|Active Targeting|能動照準 [能動 照準] |4: p.162|4: p.175 / 4A: p.206|
+6|Signature Table|シグネチャー表 [シグネチャー 表] |4: p.162|4: p.174 / 4A: p.206|
 2|Drain|ドレイン [ドレイン] |4: p.167|4: p.180 / 4A: p.214|
 2|Magical Lodges|マジカル・ロッジ [マジカル ロッジ] |4: p.167|4: p.181 / 4A: p.215|
 2|Noticing Magic|魔法を察知する [魔法 を 察知 する] |4: p.168|4: p.181 / 4A: p.215|
@@ -347,13 +347,13 @@
 2|Traditions|様式 [様式 トラディショナル] |4: p.169|4: p.182 / 4A: p.217|
 2|Overcasting|過負荷呪文 [過 負荷 呪文 オーバー キャスティング] |4: p.172|4: p.186 / 4A: p.220|
 2|Learning Spells|呪文を学ぶ [呪文 を 学ぶ] |4: p.172|4: p.186 / 4A: p.220|
-5|Spell Formulae Costs|呪文式コスト表 [呪文 式 コスト 表] |4: p.172|4: p.186 / 4A: p.220|
+6|Spell Formulae Costs|呪文式コスト表 [呪文 式 コスト 表] |4: p.172|4: p.186 / 4A: p.220|
 2|Limited Spells|制限呪文 [制限 呪文] |4: p.172|4: p.186 / 4A: p.220|
 2|Spellcasting (Rule)|呪文行使 (ルール) [呪文 行使 ルール] |4: p.173|4: p.186 / 4A: p.220|
-5|Spellcasting by the Numbers|呪文行使の手順 [呪文 行使 の 手順] |4: p.175|4: p.189 / 4A: p.221|
+6|Spellcasting by the Numbers|呪文行使の手順 [呪文 行使 の 手順] |4: p.175|4: p.189 / 4A: p.221|
 2|Area Spell|範囲呪文 [範囲 呪文] |4: p.173|4: p.187 / 4A: p.221|
 2|Casting Multiple Spells|複数の呪文を行使する [複数 の 呪文 を 行使 する] |4: p.173|4: p.187 / 4A: p.221|
-5|Object Resistance Table|物体抵抗表 [物体 抵抗 表] |4: p.174|4: p.188 / 4A: p.222|
+6|Object Resistance Table|物体抵抗表 [物体 抵抗 表] |4: p.174|4: p.188 / 4A: p.222|
 2|Ritual Spellcasting (Rule)|儀式呪文行使 (ルール) [儀式 呪文 行使 ルール] |4: p.174|4: p.189 / 4A: p.223|
 2|Ritual Targeting|儀式照準 [儀式 照準] |4: p.175|4: p.189 / 4A: p.223|
 2|Team Leader|儀式のリーダー [儀式 の リーダー] |4: p.175|4: p.189 / 4A: p.224|
@@ -372,7 +372,7 @@
 2|Bound Spirit Services|束縛された精霊の助力 [束縛 された 精霊 の 助力] |4: p.178|4: p.192 / 4A: p.226|
 2|Roleplaying Spirits and Services|精霊のロールプレイングと助力 [精霊 の ロール プレイング と 助力] |4: p.179|4: p.193 / 4A: p.227|
 2|Summoning (Rule)|召喚 (ルール) [召喚 ルール] |4: p.179|4: p.194 / 4A: p.228|
-5|Spirit Services|精霊の助力 [精霊 の 助力] |4: p.179|4: p.194 / 4A: p.228|
+6|Spirit Services|精霊の助力 [精霊 の 助力] |4: p.179|4: p.194 / 4A: p.228|
 2|Summoning Drain|召喚時のドレイン [召喚 時の ドレイン] |4: p.179|4: p.194 / 4A: p.228|
 2|Banishing|放逐 (ルール) [放逐 ルール] |4: p.180|4: p.194 / 4A: p.228|
 2|Binding|束縛 (ルール) [束縛 ルール] |4: p.180|4: p.194 / 4A: p.229|
@@ -384,17 +384,17 @@
 2||収束具式 [収束 具 式] ||4A: p.230|
 2||テレスマ [テレスマ] ||4A: p.231|
 2||収束具の作成 [収束 具 の 作成] ||4A: p.231|
-5||呪付表 [呪付 表] ||4A: p.231|
+6||呪付表 [呪付 表] ||4A: p.231|
 2|The Astral World|アストラル界 [アストラル 界] |4: p.181|4: p.196 / 4A: p.232|
 2|Auras and Astral Forms|オーラとアストラル体 [オーラ と アストラル 体] |4: p.181|4: p.196 / 4A: p.232|
 2|Astral Perception (Rule)|アストラル知覚 (ルール) [アストラル 知覚 ルール] |4: p.182|4: p.196 / 4A: p.232|
-5|Assensing Table|霊視表 [霊視 表] |4: p.183|4: p.197 / 4A: p.232|
+6|Assensing Table|霊視表 [霊視 表] |4: p.183|4: p.197 / 4A: p.232|
 2|Astral Signatures|霊紋 [霊紋] |4: p.182|4: p.197 / 4A: p.233|
 2|Astral Projection|アストラル投射 [アストラル 投射] |4: p.183|4: p.198 / 4A: p.233|
 2|Astral Movement|アストラル空間での移動 [アストラル 空間 での 移動] |4: p.183|4: p.198 / 4A: p.233|
-5|Astral Attributes|アストラル能力値表 [アストラル 能力 値 表] |4: p.184|4: p.199 / 4A: p.233|
-5|Astral Tracking Modifiers|アストラル追跡修正表 [アストラル 追跡 修正 表] |4: p.184|4: p.199 / 4A: p.234|
-5|Astral Combat (Table)|アストラル戦闘表 [アストラル 戦闘 表] |4: p.184|4: p.199 / 4A: p.234|
+6|Astral Attributes|アストラル能力値表 [アストラル 能力 値 表] |4: p.184|4: p.199 / 4A: p.233|
+6|Astral Tracking Modifiers|アストラル追跡修正表 [アストラル 追跡 修正 表] |4: p.184|4: p.199 / 4A: p.234|
+6|Astral Combat (Table)|アストラル戦闘表 [アストラル 戦闘 表] |4: p.184|4: p.199 / 4A: p.234|
 2|Astral Forms|アストラル体 [アストラル 体] |4: p.183|4: p.198 / 4A: p.234|
 2|Astral Detection|アストラル体の感知 [アストラル 体 の 感知] |4: p.184|4: p.199 / 4A: p.234|
 2|Manifesting|顕現 [顕現] |4: p.184|4: p.199 / 4A: p.235|
@@ -427,7 +427,7 @@
 2|Attribute Boost (Adept Power)|能力値ブースト (アデプトパワー) [能力 値 ブースト アデプト パワー] |4: p.187|4: p.204 / 4A: p.239|
 2|Improved Reflexes (Adept Power)|反射強化 (アデプトパワー) [反射 強化 アデプト パワー] |4: p.188|4: p.204 / 4A: p.239|
 2|Mystic Armor (Adept Power)|魔力装甲 (アデプトパワー) [魔力 装甲 アデプト パワー] |4: p.188|4: p.204 / 4A: p.239|
-5|Improved Reflexes Cost|反射強化コスト [反射 強化 コスト] |4: p.188|4: p.204 / 4A: p.239|
+6|Improved Reflexes Cost|反射強化コスト [反射 強化 コスト] |4: p.188|4: p.204 / 4A: p.239|
 2|Missile Parry (Adept Power)|矢薙ぎ (アデプトパワー) [矢 薙ぎ アデプト パワー] |4: p.188|4: p.204 / 4A: p.240|
 2|Initiation|イニシエーション (秘儀参入の儀式) [イニシエーション 秘儀 参入 の 儀式] |4: p.189|4: p.205 / 4A: p.240|
 2|Initiate Powers|イニシエイトのパワー [イニシエイト の パワー] |4: p.189|4: p.205 / 4A: p.240|
@@ -436,7 +436,7 @@
 2|Metamagic|メタマジック (上位魔法) [メタ マジック 上位 魔法] |4: p.189|4: p.205 / 4A: p.241|
 2|Foci|収束具 (ルール) [収束 具 フォーカス ルール] |4: p.190|4: p.206 / 4A: p.242|
 2|Bonding|結合 [結合] |4: p.191|4: p.206 / 4A: p.242|
-5|Focus Bonding Table|収束具結合表 [収束 具 結合 表] |4: p.191|4: p.207 / 4A: p.242|
+6|Focus Bonding Table|収束具結合表 [収束 具 結合 表] |4: p.191|4: p.207 / 4A: p.242|
 2|Activation|活性化 [活性 化] |4: p.191|4: p.207 / 4A: p.242|
 2|Spell Foci|呪文収束具 (スペル・フォーカス) [呪文 収束 具 スペル フォーカス] |4: p.191|4: p.207 / 4A: p.242|
 2|Spirit Foci|精霊収束具 (スピリット・フォーカス) [精霊 収束 具 スピリット フォーカス] |4: p.191|4: p.207 / 4A: p.243|
@@ -468,7 +468,7 @@
 2|Street Grimoire|ストリートの魔道書 [ストリート の 魔道 書] |4: p.195|4: p.211 / 4A: p.247|
 2|Spell Characteristics|呪文の特性 [呪文 の 特性] |4: p.195|4: p.211 / 4A: p.247|
 2|Combat Spells|戦闘呪文 [戦闘 呪文] |4: p.195|4: p.212 / 4A: p.248|
-5|Spell Codes|呪文コード [呪文 コード] |4: p.197|4: p.213 / 4A: p.248|
+6|Spell Codes|呪文コード [呪文 コード] |4: p.197|4: p.213 / 4A: p.248|
 2|Direct Combat Spells|直接戦闘呪文 [直接 戦闘 呪文] |4: p.195|4: p.212 / 4A: p.248|
 2|Indirect Combat Spells|間接戦闘呪文 [間接 戦闘 呪文] |4: p.196|4: p.213 / 4A: p.248|
 2|Elemental Effects|元素属性効果 [元素 属性 効果] |4: p.196|4: p.213 / 4A: p.249|
@@ -496,7 +496,7 @@
 2|Range (Detection Spell)|範囲探知呪文 [範囲 探知 呪文] |4: p.198|4: p.215 / 4A: p.251|
 2|Analyze Device (Detection Spell)|機器分析／アナライズ・デバイス (探知呪文) [機器 分析 アナライズ デバイス 探知 呪文] |4: p.198|4: p.215 / 4A: p.251|
 2|Analyze Truth (Detection Spell)|真偽分析／アナライズ・トゥルース (探知呪文) [真偽 分析 アナライズ トゥルース 探知 呪文] |4: p.198|4: p.215 / 4A: p.251|
-5|Detection Spell Result|探知呪文の結果表 [探知 呪文 の 結果 表] |4: p.198|4: p.215 / 4A: p.251|
+6|Detection Spell Result|探知呪文の結果表 [探知 呪文 の 結果 表] |4: p.198|4: p.215 / 4A: p.251|
 2|Clairaudience (Detection Spell)|地獄耳／クレアオーディエンス (探知呪文) [地獄 耳 クレア オーディエンス 探知 呪文] |4: p.198|4: p.215 / 4A: p.252|
 2|Clairvoyance (Detection Spell)|千里眼／クレアボヤンス (探知呪文) [千里 眼 クレア ボヤンス 探知 呪文] |4: p.198|4: p.216 / 4A: p.252|
 2|Combat Sense (Detection Spell)|戦闘感覚／コンバットセンス (探知呪文) [戦闘 感覚 コンバット センス 探知 呪文] |4: p.198|4: p.216 / 4A: p.252|
@@ -512,7 +512,7 @@
 2|Detect [Object] (Detection Spell)|［物体］探知／ディテクト・［オブジェクト］ (探知呪文) [物体 探知 ディテクト オブジェクト 探知 呪文] |4: p.199|4: p.216 / 4A: p.252|
 2|Mindlink (Detection Spell)|精神連結／マインドリンク (探知呪文) [精神 連結 マインド リンク 探知 呪文] |4: p.199|4: p.216 / 4A: p.253|
 2|Mind Probe (Detection Spell)|精神探査／マインド・プロープ (探知呪文) [精神 探査 マインド プロープ 探知 呪文] |4: p.199|4: p.216 / 4A: p.253|
-5|Mind Probe Result|精神探査の結果表 [精神 探査 の 結果 表] |4: p.199|4: p.217 / 4A: p.253|
+6|Mind Probe Result|精神探査の結果表 [精神 探査 の 結果 表] |4: p.199|4: p.217 / 4A: p.253|
 2|Health Spells|身体呪文 [身体 呪文] |4: p.199|4: p.217 / 4A: p.253|
 2|Healing Characters with Implants|インプラントを持つキャラクターに対する治癒 [インプラント を 持つ キャラクター に対する 治癒] |4: p.199|4: p.217 / 4A: p.253|
 2|Negative Health Spells|負の効果を持つ身体呪文 [負 の 効果 を持つ 身体 呪文] |4: p.199|4: p.217 / 4A: p.253|
@@ -571,17 +571,17 @@
 2|[Critter] Form (Manipulation Spell)|［クリッター］変化／［クリッター］フォーム (操作呪文) [クリッター 変化 クリッター フォーム 操作 呪文] |4: p.204|4: p.223 / 4A: p.259|
 2|Turn to Goo (Manipulation Spell)|ドロドロになれ／ターン・トゥ・グー (操作呪文) [ドロドロ に なれ ターン トゥ グー 操作 呪文] |4: p.204|4: p.223 / 4A: p.259|
 3|Zones|ゾーン [ゾーン] |4: p.209|4: p.229 / 4A: p.270|
-5||雑音ゾーンとデッド・ゾーン [雑音 ゾーン と デッド ゾーン] ||4A: p.270|
+6||雑音ゾーンとデッド・ゾーン [雑音 ゾーン と デッド ゾーン] ||4A: p.270|
 3|Matrix Attributes|マトリックス能力値 [マトリックス 能力 値] |4: p.212|4: p.231 / 4A: p.272|
 3|Firewall|ファイアウォール [ファイア ウォール] |4: p.213|4: p.232 / 4A: p.272|
 3|Response|レスポンス [レスポンス] |4: p.212|4: p.231 / 4A: p.272|
 3|Signal|シグナル [シグナル] |4: p.212|4: p.232 / 4A: p.272|
 3|System|システム [システム] |4: p.213|4: p.232 / 4A: p.272|
 3|Device Rating|機器レーティング [機器 レーティング] |4: p.213|4: p.233 / 4A: p.272|
-5|Signal Rating Table|シグナル表 [シグナル 表] |4: p.212|4: p.232 / 4A: p.272|
-5|Sample Devices|サンプル機器表 [サンプル 機器 表] |4: p.214|4: p.234 / 4A: p.272|
-5||ハードウェア・アップグレード・コスト表 [ハードウェア アップグレード コスト 表] ||4A: p.272|
-5|Hardware Upgrade Costs|ハードウェア・アップグレード表 [ハードウェア アップグレード 表] |4: p.240|4: p. 263|
+6|Signal Rating Table|シグナル表 [シグナル 表] |4: p.212|4: p.232 / 4A: p.272|
+6|Sample Devices|サンプル機器表 [サンプル 機器 表] |4: p.214|4: p.234 / 4A: p.272|
+6||ハードウェア・アップグレード・コスト表 [ハードウェア アップグレード コスト 表] ||4A: p.272|
+6|Hardware Upgrade Costs|ハードウェア・アップグレード表 [ハードウェア アップグレード 表] |4: p.240|4: p. 263|
 3||機器のアップグレード [機器 の アップグレード] ||4A: p.273|
 3||プロセッサ上限 [プロセッサ 上限] ||4A: p.273|
 3||機器のモード [機器 の モード] ||4A: p.273|
@@ -615,14 +615,14 @@
 3||〈ハードウェア〉の使い方  [ハード ウェア の 使い方] ||4A: p.280|
 3||〈ソフトウェア〉の使い方 [ソフト ウェア の 使い方] ||4A: p.280|
 3||共振力系技能の使い方 [共振 力 系 技能 の 使い方] ||4A: p.280|
-5||ハードウェア作成表 [ハード ウェア 作成 表] ||4A: p.280|
-5|Build Hardware Table|ハードウェア製作表 [ハード ウェア 製作 表] |4: p.240|4: p.263|
-5||ソフトウェア・コーディング表 [ソフト ウェア コーディング 表] ||4A: p.280|
-5|Coding Software Table|ソフトウェア・プログラミング表 [ソフト ウェア プログラミング 表] |4: p.240|4: p.263|
+6||ハードウェア作成表 [ハード ウェア 作成 表] ||4A: p.280|
+6|Build Hardware Table|ハードウェア製作表 [ハード ウェア 製作 表] |4: p.240|4: p.263|
+6||ソフトウェア・コーディング表 [ソフト ウェア コーディング 表] ||4A: p.280|
+6|Coding Software Table|ソフトウェア・プログラミング表 [ソフト ウェア プログラミング 表] |4: p.240|4: p.263|
 3|Matrix Perception|マトリックス知覚 [マトリックス 知覚] |4: p.217|4: p.235 / 4A: p.280|
 3|Matrix Actions|マトリックス動作 [マトリックス 動作] |4: p.219|4: p.238 / 4A: p.281|
-5|Search Table|データ検索表 [データ 検索 表] |4: p.220|4: p.239 / 4A: p.283|
-5|Track Modifiers Table|追跡表 [追跡 表] |4: p.220|4: p.239 / 4A: p.285|
+6|Search Table|データ検索表 [データ 検索 表] |4: p.220|4: p.239 / 4A: p.283|
+6|Track Modifiers Table|追跡表 [追跡 表] |4: p.220|4: p.239 / 4A: p.285|
 3|Programs|プログラム [プログラム] |4: p.225|4: p.245 / 4A: p.286|
 3||一般用プログラム・スイート [一般 用 プログラム スイート] ||4A: p.286|
 3|Common Use Programs|一般用プログラム [一般 用 プログラム] |4: p.226|4: p.245 / 4A: p.286|
@@ -669,7 +669,7 @@
 3|Matrix Condition Monitor|マトリックス・コンディション・モニター [マトリックス コンディション モニター] |4: p.231|4: p.251 / 4A: p.293|
 3|Dumpshock|ダンプショック [ダンプ ショック] |4: p.231|4: p.251 / 4A: p.293|
 3|Black IC Attacks|ブラックICによる攻撃 [ブラック IC による 攻撃] |4: p.231|4: p.252 / 4A: p.293|
-5|Matrix Combat Summary|マトリックス戦闘のまとめ [マトリックス 戦闘 の まとめ] |4: p.232|4: p.252 / 4A: p.293|
+6|Matrix Combat Summary|マトリックス戦闘のまとめ [マトリックス 戦闘 の まとめ] |4: p.232|4: p.252 / 4A: p.293|
 3|Simultaneous Combat in Multiple Nodes|複数ノードでの同時戦闘 [複数 ノード での 同時 戦闘] |4: p.232|4: p.252 / 4A: p.294|
 3||ノードのセキュリティ [ノード の セキュリティ] ||4A: p.294|
 3|Intruder Alerts|警報 [警報] |4: p.222|4: p.242 / 4A: p.295|
@@ -678,13 +678,13 @@
 3|Launch IC Program|ICプログラムを起動する [IC プログラム を 起動 する] |4: p.223|4: p.242 / 4A: p.295|
 3||コネクションを切る [コネクション を 切る] ||4A: p.295|
 3|Terminate Connection|接続を遮断する [接続 を 遮断 する] |4: p.223|4: p.242|
-5|Random Alert Response|ランダム警戒対応表 [ランダム 警戒 対応 表] |4: p.223|4: p.242|
-5||ランダム警報対応表 [ランダム 警報 対応 表] ||4A: p.295|
+6|Random Alert Response|ランダム警戒対応表 [ランダム 警戒 対応 表] |4: p.223|4: p.242|
+6||ランダム警報対応表 [ランダム 警報 対応 表] ||4A: p.295|
 3|System Reset|システム・リセット [システム リセット] |4: p.223|4: p. 242|
 3||システムを再起動する [システム を 再 起動 する] ||4A: p.296|
 3|Implants and Resonance|埋め込みと共振力 [埋め 込み と 共振 力] |4: p.232|4: p.253 / 4A: p.296|
 3|The Living Persona|生体ペルソナ [生体 ペルソナ] |4: p.233|4: p.253 / 4A: p.296|
-5|Living Persona Table|生体ペルソナ表 [生体 ペルソナ] |4: p.233|4: p.254 / 4A: p.296|
+6|Living Persona Table|生体ペルソナ表 [生体 ペルソナ] |4: p.233|4: p.254 / 4A: p.296|
 3|Technomancers and Condition Monitors|テクノマンサーとコンディション・モニター [テクノマンサー と コンディション モニター] |4: p.233|4: p.253 / 4A: p.296|
 3|Technomancer Skills|テクノマンサーの技能 [テクノマンサー の 技能] |4: p.233|4: p.254 / 4A: p.296|
 3|Complex Forms|複合体 [複合 体] |4: p.233|4: p.254 / 4A: p.297|
@@ -716,44 +716,44 @@
 3|Increased Resonance|共振力上限の増加 [共振 力 上限 の 増加] |4: p.238|4: p.259 / 4A: p.303|
 3|Access to the Resonance Realms|共振領域へのアクセス [共振 領域 への アクセス] |4: p.238|4: p.259 / 4A: p.303|
 3|Echoes|エコー [エコー] |4: p.238|4: p.259 / 4A: p.303|
-3|Rigging and Drones|リギング [リギング] |4: p.238|4: p.260 / 4A: p.303|
-3|Drones|ドローン [ドローン] |4: p.238|4: p.260 / 4A: p.303|
-3|Pilot Programs|パイロット・プログラム [パイロット プログラム] |4: p.213|4: p.233 / 4A: p.303|
-3||ドローンの知覚 [ドローン の 知覚] ||4A: p.304|
-3|Drones and Sensors|ドローンとセンサー [ドローン と センサー] |4: p.239|4: p.261|
-3|Drone Initiative|ドローンのイニシアティブ [ドローン の イニシアティブ] |4: p.239|4: p.261 / 4A: p.304|
-3|Controlling Drones|ドローンの制御 [ドローン の 制御] |4: p.238|4: p.260 / 4A: p.304|
-3|Issuing Commands|命令を与える [命令 を 与える] |4: p.221|4: p.240 / 4A: p.304|
-3||遠隔操縦 [遠隔 操縦] ||4A: p.304|
-3||ジャンプ・イン [ジャンプ イン] ||4A: p.305|
-3|Jumping into Drones|ドローンに飛び乗る [ドローン に 飛び 乗る] |4: p.239|4: p.260|
-3||セキュリティ・システムやその他の機器のリギング [セキュリティ システム や その他 の 機器 の リギング] ||4A: p.305|
-3|Rigginh Security Systems|警備システムをリギングする [警備 システム を リギング する] |4: p.239|4: p.260|
-3|Autosoft Programs|オートソフト・プログラム [オート ソフト プログラム] |4: p.239|4: p.261 / 4A: p.305|
-3|Clearsight (Autosoft)|鮮明化 (オートソフト) [鮮明 化 オート ソフト] |4: p.239|4: p.261 / 4A: p.305|
-3|Defence (Autosoft)|防御 (オートソフト) [防御 オート ソフト] |4: p.239|4: p.261 / 4A: p.305|
-3|Electronic Warfare (Autosoft)|電子戦 (オートソフト) [電子 戦 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
-3|Maneuver (Autosoft)|機動 (オートソフト) [機動 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
-3|Targeting (Autosoft)|照準 (オートソフト) [照準 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
-3||電子戦 (ルール) [電子 戦 ルール] ||4A: p.306|
-3||シグナルの到達距離 [シグナル の 到達 距離] ||4A: p.306|
-3||走査と傍受 [走査 と 傍受] ||4A: p.306|
-3||ECMとECCM [ECM と ECCM] ||4A: p.306|
+5|Rigging and Drones|リギング [リギング] |4: p.238|4: p.260 / 4A: p.303|
+5|Drones|ドローン [ドローン] |4: p.238|4: p.260 / 4A: p.303|
+5|Pilot Programs|パイロット・プログラム [パイロット プログラム] |4: p.213|4: p.233 / 4A: p.303|
+5||ドローンの知覚 [ドローン の 知覚] ||4A: p.304|
+5|Drones and Sensors|ドローンとセンサー [ドローン と センサー] |4: p.239|4: p.261|
+5|Drone Initiative|ドローンのイニシアティブ [ドローン の イニシアティブ] |4: p.239|4: p.261 / 4A: p.304|
+5|Controlling Drones|ドローンの制御 [ドローン の 制御] |4: p.238|4: p.260 / 4A: p.304|
+5|Issuing Commands|命令を与える [命令 を 与える] |4: p.221|4: p.240 / 4A: p.304|
+5||遠隔操縦 [遠隔 操縦] ||4A: p.304|
+5||ジャンプ・イン [ジャンプ イン] ||4A: p.305|
+5|Jumping into Drones|ドローンに飛び乗る [ドローン に 飛び 乗る] |4: p.239|4: p.260|
+5||セキュリティ・システムやその他の機器のリギング [セキュリティ システム や その他 の 機器 の リギング] ||4A: p.305|
+5|Rigginh Security Systems|警備システムをリギングする [警備 システム を リギング する] |4: p.239|4: p.260|
+5|Autosoft Programs|オートソフト・プログラム [オート ソフト プログラム] |4: p.239|4: p.261 / 4A: p.305|
+5|Clearsight (Autosoft)|鮮明化 (オートソフト) [鮮明 化 オート ソフト] |4: p.239|4: p.261 / 4A: p.305|
+5|Defence (Autosoft)|防御 (オートソフト) [防御 オート ソフト] |4: p.239|4: p.261 / 4A: p.305|
+5|Electronic Warfare (Autosoft)|電子戦 (オートソフト) [電子 戦 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
+5|Maneuver (Autosoft)|機動 (オートソフト) [機動 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
+5|Targeting (Autosoft)|照準 (オートソフト) [照準 オート ソフト] |4: p.240|4: p.261 / 4A: p.305|
+5||電子戦 (ルール) [電子 戦 ルール] ||4A: p.306|
+5||シグナルの到達距離 [シグナル の 到達 距離] ||4A: p.306|
+5||走査と傍受 [走査 と 傍受] ||4A: p.306|
+5||ECMとECCM [ECM と ECCM] ||4A: p.306|
 3||暗号化 (ルール) [暗号 化 ルール] ||4A: p.306|
 3||ハッキングとなりすまし [ハッキング と なりすまし] ||4A: p.306|
-5||リガー／ドローン・テストまとめ [リガー ドローン テスト まとめ] ||4A: p.307|
+6||リガー／ドローン・テストまとめ [リガー ドローン テスト まとめ] ||4A: p.307|
 0|Healing|回復 [回復] |4: p.242|4: p.266 / 4A: p.312|
 0|Stun Damage (Healing)|精神ダメージ (回復) [精神 ダメージ 回復] |4: p.242|4: p.266 / 4A: p.312|
 0|Physical Damage (Healing)|身体ダメージ (回復) [身体 ダメージ 回復] |4: p.242|4: p.266 / 4A: p.312|
 0|Using First Aid|応急処置 (ルール) [応急 処置 ルール] |4: p.242|4: p.266 / 4A: p.312|
-5|Healing Modifiers|回復修正表 [回復 修正 表] |4: p.244|4: p.267 / 4A: p.313|
+6|Healing Modifiers|回復修正表 [回復 修正 表] |4: p.244|4: p.267 / 4A: p.313|
 0|Using Medicine|〈医術〉の使い方 [医術 の 使い方] |4: p.242|4: p.267 / 4A: p.313|
 0|Medkits and Autodocs|医療キットとオートドク [医療 キット と オート ドク] |4: p.244|4: p.267 / 4A: p.313|
 0|Magical Healing|魔法治療 [魔法 治療] |4: p.244|4: p.267 / 4A: p.314|
 0|Physical Damage Overflow|身体ダメージのオーバーフロー [身体 ダメージ の オーバー フロー] |4: p.244|4: p.267 / 4A: p.314|
 0|Stabilization|容態を安定させる [容態 を 安定 させる] |4: p.244|4: p.267 / 4A: p.314|
 0|Toxins|毒物 [毒物] |4: p.244|4: p.268 / 4A: p.314|
-5|Toxin Protection|毒に対する防護手段 [毒 に 対する 防護 手段] |4: p.245|4: p.268 / 4A: p.314|
+6|Toxin Protection|毒に対する防護手段 [毒 に 対する 防護 手段] |4: p.245|4: p.268 / 4A: p.314|
 0|Using Toxic Substances|毒物の使用 [毒物 の 使用] |4: p.245|4: p.269 / 4A: p.315|
 0|Toxin Resistance Test|毒物抵抗テスト [毒物 抵抗 テスト] |4: p.245|4: p.269 / 4A: p.315|
 0|Concentration|濃縮 [濃縮] |4: p.245|4: p.269 / 4A: p.315|
@@ -768,7 +768,7 @@
 0||睡眠不足 [睡眠 不足] ||4A: p.316|
 0|Substance Abuse|依存と乱用 [依存 と 乱用]|4: p.247|4: p.270 / 4A: p.317|
 0|Addiction Tests|依存症テスト [依存 症 テスト] |4: p.247|4: p.270 / 4A: p.317|
-5|Addiction Threshold|依存症目標値表 [依存 症 目標 値 表] |4: p.248|4: p.272 / 4A: p.318|
+6|Addiction Threshold|依存症目標値表 [依存 症 目標 値 表] |4: p.248|4: p.272 / 4A: p.318|
 0||摂取 [摂取] ||4A: p.318|
 0|Getting a Fix|服用 [服用] |4: p.248|4: p.272|
 0||離脱状態と再摂取 [離脱 状態 と 再 摂取] ||4A: p.318|
@@ -797,7 +797,7 @@
 0|Wires (Security)|ワイア (セキュリティ) [ワイア セキュリティ] |4: p.252|4: p.276 / 4A: p.322|
 0|Lighting (Security)|照明 (セキュリティ) [照明 セキュリティ] |4: p.252|4: p.276 / 4A: p.322|
 0|Doors and Windows (Security)|扉と窓 (セキュリティ) [扉 と 窓 セキュリティ] |4: p.252|4: p.276 / 4A: p.322|
-5|Fencing Table|フェンス表 [フェンス 表 セキュリティ] |4: p.252|4: p.275 / 4A: p.322|
+6|Fencing Table|フェンス表 [フェンス 表 セキュリティ] |4: p.252|4: p.275 / 4A: p.322|
 0|HVAC (Security)|HVAC (セキュリティ) [HVAC セキュリティ] |4: p.252|4: p.276 / 4A: p.323|
 0|Personnel (Security)|人員 (セキュリティ) [人員 セキュリティ] |4: p.252|4: p.277 / 4A: p.323|
 0|Alerms (Security)|警報装置 (セキュリティ) [警報 装置 セキュリティ] |4: p.253|4: p.277 / 4A: p.323|
@@ -806,9 +806,9 @@
 0|Sensors (Security)|センサー (セキュリティ) [センサー セキュリティ] |4: p.254|4: p.278 / 4A: p.324|
 0|Scanners (Security)|スキャナー (セキュリティ) [スキャナー セキュリティ] |4: p.254|4: p.278 / 4A: p.325|
 0|Locks (Security)|錠 (セキュリティ) [錠 セキュリティ] |4: p.255|4: p.279 / 4A: p.325|
-5|Chemical Detection Modifiers|化学検知修正表 [化学 検知 修正 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
-5|Pheromone Scanner Table|フェロモン・スキャナー表 [フェロモン スキャナー 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
-5|Cyberware Scanner Table|サイバーウェア・スキャナー表 [サイバーウェア スキャナー 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+6|Chemical Detection Modifiers|化学検知修正表 [化学 検知 修正 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+6|Pheromone Scanner Table|フェロモン・スキャナー表 [フェロモン スキャナー 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
+6|Cyberware Scanner Table|サイバーウェア・スキャナー表 [サイバーウェア スキャナー 表 セキュリティ] |4: p.254|4: p.279 / 4A: p.325|
 0|Maglocks (Security)|マグロック (セキュリティ) [マグ ロック セキュリティ] |4: p.255|4: p.279 / 4A: p.326|
 0|Biometrics (Security)|生体認証 (セキュリティ) [生体 認証 セキュリティ] |4: p.255|4: p.280 / 4A: p.327|
 0|Automated Systems|自動化システム (セキュリティ) [自動 化 システム セキュリティ] |4: p.256|4: p.280 / 4A: p.327|
@@ -823,7 +823,7 @@
 0|Notoriety Applications|悪名の適用 [悪名 の 適用] |4: p.258|4: p.283 / 4A: p.329|
 0|Public Awareness|公的認知度 [公的 認知 度] |4: p.258|4: p.283 / 4A: p.329|
 0|Public Awareness Application|公的認知度の使い方 [公的 認知 度 の 使い方] |4: p.258|4: p.283 / 4A: p.329|
-5|Certified Credstic Table|支払い保証済みクレッドスティック表 [支払い 保証 済み クレッド スティック 表] |4: p.260|4: p.284 / 4A: p.331|
+6|Certified Credstic Table|支払い保証済みクレッドスティック表 [支払い 保証 済み クレッド スティック 表] |4: p.260|4: p.284 / 4A: p.331|
 0|Using Forged ID|偽造IDの使い方 [偽造 ID の 使い方] |4: p.260|4: p.285 / 4A: p.332|
 0|Luxury (Lifestyle)|贅沢 (ライフスタイル) [贅沢 ライフ スタイル] |4: p.261|4: p.286 / 4A: p.332|
 0|High (Lifestyle)|上流 (ライフスタイル) [上流 ライフ スタイル] |4: p.261|4: p.286 / 4A: p.332|
@@ -836,12 +836,12 @@
 0|Buying a Lifestyle|ライフスタイルを買う [ライフ スタイル を 買う] |4: p.262|4: p.287 / 4A: p.333|
 0|Team Lifestyles|チーム・ライフスタイル [チーム ライフ スタイル] |4: p.262|4: p.288 / 4A: p.334|
 0|Awarding Karma|カルマを与える [カルマ を 与える] |4: p.263|4: p.288 / 4A: p.334|
-5|Karma Awards|カルマ褒賞表 [カルマ 褒賞 表] |4: p.263|4: p.288 / 4A: p.335|
+6|Karma Awards|カルマ褒賞表 [カルマ 褒賞 表] |4: p.263|4: p.288 / 4A: p.335|
 0|Character Improvement|キャラクターの成長 [カルマ 褒賞 表] |4: p.263|4: p.289 / 4A: p.335|
 0|Improving Skills and Skill Groups|技能や技能グループの成長 [技能 や 技能 グループ の 成長] |4: p.264|4: p.289 / 4A: p.335|
 0|Improving Attributes|能力値の成長 [能力 値 の 成長] |4: p.264|4: p.289 / 4A: p.336|
 0|Other Improvements|その他の成長 [その他 の 成長] |4: p.264|4: p.289 / 4A: p.336|
-5|Character Improvement|キャラクターの成長表 [キャラクター の 成長 表] |4: p.264|4: p.290 / 4A: p.336|
+6|Character Improvement|キャラクターの成長表 [キャラクター の 成長 表] |4: p.264|4: p.290 / 4A: p.336|
 0|Grunts|グラント (集団の一員) [グラント 集団 の 一員] |4: p.272|4: p.300 / 4A: p.348|
 0|Professional Rating|プロ意識 [プロ 意識] |4: p.272|4: p.300 / 4A: p.349|
 0|Lieutenants|ルテナント (隊長) [ルテナント 隊長] |4: p.274|4: p.301 / 4A: p.349|
@@ -853,14 +853,14 @@
 0|Lone Star Police Squad|ローンスター警官隊 (グラント) [ローン スター 警官 隊 グラント] |4: p.274|4: p.303 / 4A: p.352|
 0|Tir Ghosts|ティルのゴースト (グラント) [ティル の ゴースト グラント] |4: p.275|4: p.303 / 4A: p.352|
 0|Prime Runners|プライム・ランナー [プライム ランナー] |4: p.276|4: p.304 / 4A: p.353|
-5|Prime Runner Creation and Advancement Table|プライム・ランナー作成／成長表 [プライム ランナー 作成 成長 表] |4: p.277|4: p.305 / 4A: p.354|
+6|Prime Runner Creation and Advancement Table|プライム・ランナー作成／成長表 [プライム ランナー 作成 成長 表] |4: p.277|4: p.305 / 4A: p.354|
 0|Contacts|コンタクト [コンタクト] |4: p.278|4: p.305 / 4A: p.354|
 0|Connection Rating|コネ値 [コネ 値] |4: p.278|4: p.305 / 4A: p.355|
 0|Loyalty Rating|忠実値 [忠実 値] |4: p.278|4: p.306 / 4A: p.355|
-5|Connection Rating Table|コネ値表 [コネ 値 表] |4: p.278|4: p.305 / 4A: p.355|
-5|Loyalty Rating Table|忠実値表 [忠実 値 表] |4: p.279|4: p.306 / 4A: p.355|
+6|Connection Rating Table|コネ値表 [コネ 値 表] |4: p.278|4: p.305 / 4A: p.355|
+6|Loyalty Rating Table|忠実値表 [忠実 値 表] |4: p.279|4: p.306 / 4A: p.355|
 0|Using Contacts|コンタクトの使い方 [コンタクト の 使い方] |4: p.279|4: p.306 / 4A: p.355|
-5|Tavor Rating Table|手助け表 [手助け 表] |4: p.281|4: p.308 / 4A: p.358|
+6|Tavor Rating Table|手助け表 [手助け 表] |4: p.281|4: p.308 / 4A: p.358|
 0|Beat Cop (Contact)|巡回警官 (コンタクト) [巡回 警官 コンタクト] |4: p.282|4: p.310 / 4A: p.358|
 0|Street Doc (Contact)|ストリート・ドク (コンタクト) [ストリート ドク コンタクト] |4: p.284|4: p.312 / 4A: p.359|
 0|Talismonger (Contact)|タリス モンガー (コンタクト) [タリス モンガー コンタクト] |4: p.285|4: p.312 / 4A: p.359|
@@ -895,7 +895,7 @@
 0|Innate Spell (Critter Power)|生得呪文 (クリッターパワー) [生得 呪文 クリッター パワー] |4: p.289|4: p.317 / 4A: p.367|
 0|Binding (Critter Power)|接着 (クリッターパワー) [接着 クリッター パワー] |4: p.287|4: p.314 / 4A: p.367|
 0|Armor (Critter Power)|装甲 (クリッターパワー) [装甲 クリッター パワー] |4: p.286|4: p.314 / 4A: p.367|
-5|Search Modifiers Table|捜索修正表 [捜索 修正 表] |4: p.290|4: p.318 / 4A: p.368|
+6|Search Modifiers Table|捜索修正表 [捜索 修正 表] |4: p.290|4: p.318 / 4A: p.368|
 0|Search (Critter Power)|捜索 (クリッターパワー) [捜索 クリッター パワー] |4: p.290|4: p.318 / 4A: p.368|
 0|Immunity (Critter Power)|耐性 (クリッターパワー) [耐性 クリッター パワー] |4: p.288|4: p.316 / 4A: p.368|
 0|Sapience (Critter Power)|知性 (クリッターパワー) [知性 クリッター パワー] |4: p.290|4: p.318 / 4A: p.368|
@@ -950,11 +950,11 @@
 4|Using Unadapted Gear|サイズの合わない装備を使う [サイズ の 合わない 装備 を 使う] |4: p.301|4: p.328 / 4A: p.385|
 4|Concealing Gear|装備を隠す [装備 を 隠す] |4: p.301|4: p.328 / 4A: p.385|
 4|Physical Searches|身体検査 [身体 検査] |4: p.301|4: p.328 / 4A: p.385|
-5|Concealability Table|隠蔽表 [隠蔽 表] |4: p.302|4: p.331 / 4A: p.385|
+6|Concealability Table|隠蔽表 [隠蔽 表] |4: p.302|4: p.331 / 4A: p.385|
 4|Availability and Buying Gear|入手値と装備の購入 [入手 値 と 装備 の 購入] |4: p.301|4: p.331 / 4A: p.386|
 4|Standard Goods|一般流通品 [一般 流通 品] |4: p.301|4: p.331 / 4A: p.386|
-5|Availability Interval|入手単位時間表 [入手 単位 時間 表] |4: p.303|4: p.332 / 4A: p.386|
-5|Street Costs|ストリート価格表 [ストリート 価格 表] |4: p.303|4: p.332 / 4A: p.386|
+6|Availability Interval|入手単位時間表 [入手 単位 時間 表] |4: p.303|4: p.332 / 4A: p.386|
+6|Street Costs|ストリート価格表 [ストリート 価格 表] |4: p.303|4: p.332 / 4A: p.386|
 4|Black Market Goods|ブラックマーケットの商品 [ブラック マーケット の 商品] |4: p.302|4: p.331 / 4A: p.386|
 4|The Availability Test|入手テスト [入手 テスト] |4: p.302|4: p.331 / 4A: p.386|
 4|Fixers and Availability|フィクサーと入手値 [フィクサー と 入手 値] |4: p.302|4: p.331 / 4A: p.386|
@@ -963,9 +963,9 @@
 4|Legality|合法性 [合法 性] |4: p.303|4: p.332 / 4A: p.387|
 4|Jurisdiction|法域 [法 域] |4: p.303|4: p.332 / 4A: p.387|
 4|Cyberware and Bioware Grades|サイバーウェアとバイオウェアの等級 [サイバー ウェア と バイオ ウェア の 等級] |4: p.303|4: p.332 / 4A: p.387|
-5|Implant Grades|インプラント等級表 [インプラントとうきゅうひょう] |4: p.303|4: p.332 / 4A: p.387|
+6|Implant Grades|インプラント等級表 [インプラントとうきゅうひょう] |4: p.303|4: p.332 / 4A: p.387|
 4|Wireless Connectivity|ワイアレス接続機能 [ワイアレス 接続 機能] |4: p.304|4: p.333 / 4A: p.388|
-5|Common Costs|一般的な価格 [一般的 な 価格] |4: p.304|4: p.333 / 4A: p.388|
+6|Common Costs|一般的な価格 [一般的 な 価格] |4: p.304|4: p.333 / 4A: p.388|
 4|Combat Axe|コンバット・アックス [コンバット アックス] |4: p.305|4: p.334 / 4A: p.389|
 4|Forearm A ap-Blades|フォアアーム・スナップブレード [フォア アーム スナップ ブレード] |4: p.305|4: p.334 / 4A: p.389|
 4|Katana|カタナ [刀 カタナ] |4: p.305|4: p.334 / 4A: p.389|
@@ -1057,7 +1057,7 @@
 4|Tracer Rounds|曳光弾 [曳光 弾] |4: p.313|4: p.342 / 4A: p.400|
 4|Assault Cannon Rounds|アサルトキャノン 弾 [アサルト キャノン 弾] |4: p.312|4: p.342 / 4A: p.400|
 4|Taser Dart|テイザー・ダート [テイザー ダート] |4: p.313|4: p.342 / 4A: p.400|
-5|Reloading Firearms|弾薬装填表 [弾薬 装填 表] |4: p.312|4: p.342 / 4A: p.400|
+6|Reloading Firearms|弾薬装填表 [弾薬 装填 表] |4: p.312|4: p.342 / 4A: p.400|
 4|Flash-Bang Grenades|閃光手榴弾 [閃光 手 榴弾] |4: p.313|4: p.343 / 4A: p.401|
 4|Flash-Pak|フラッシュパック [フラッシュ パック] |4: p.313|4: p.343 / 4A: p.401|
 4|Fragmentation Grenades|破片手榴弾 [破片 手 榴弾] |4: p.313|4: p.343 / 4A: p.401|
