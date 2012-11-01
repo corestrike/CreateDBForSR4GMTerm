@@ -26,7 +26,7 @@
     FMResultSet *tableExistRS = [db executeQuery:@"SELECT name FROM sqlite_master WHERE type='table' AND name='reference';"];
     if (NO == [tableExistRS next]) {
         [db beginTransaction];
-        BOOL tableCreated = [db executeUpdate:@"CREATE VIRTUAL TABLE reference USING fts4(category INTEGER, word TEXT, jword TEXT, page TEXT, jpage TEXT);"];
+        BOOL tableCreated = [db executeUpdate:@"CREATE VIRTUAL TABLE reference USING fts4(category INTEGER, word TEXT, jword TEXT, jwordread TEXT, page TEXT, jpage TEXT);"];
         if (tableCreated == NO) {
             NSLog(@"*** Failed: %d (%@)", [db lastErrorCode], [db lastErrorMessage]);
             return;
@@ -36,16 +36,18 @@
         [db commit];
     }
 
-    Mecab* mecab = [[Mecab new] autorelease];
+//    Mecab* mecab = [[Mecab new] autorelease];
     FMResultSet *existRecords = [db executeQuery:@"SELECT * FROM reference WHERE rowid = 1;"];
     if (NO == [existRecords next]) {
         [db beginTransaction];
         FileReader *txtFileReader = [[FileReader alloc] initWithFilePath:[[NSBundle mainBundle] pathForResource:@"sr4data_utf8" ofType:@"txt"]];
         __block int readLines = 0;
         [txtFileReader enumerateLinesUsingBlock:^(NSString *aNewLine, BOOL *stop) {
+            if(readLines < 1){
+                readLines++;
+                return;
+            }
             if (readLines >= 1353) {
-                // Drop the last 18 lines.
-                //      [self.db commit];
                 FMResultSet *result = [db executeQuery:@"SELECT count(*) from reference;"];
                 if ([result next]) {
                     NSLog(@"Result: imported %d records", [result intForColumnIndex:0]);
@@ -59,11 +61,12 @@
                 NSNumber *category = [NSNumber numberWithInt:[[arr objectAtIndex:0] intValue]];
                 NSString *word = [arr objectAtIndex:1];
                 NSString *jword = [arr objectAtIndex:2];
-                NSString *page = [arr objectAtIndex:3];
-                NSString *jpage = [arr objectAtIndex:4];
+                NSString *jwordread = [arr objectAtIndex:3];
+                NSString *page = [arr objectAtIndex:4];
+                NSString *jpage = [arr objectAtIndex:5];
 //                NSLog(@"%@", [self parseJapaneseWord:mecab :jword]);
 //                NSLog(@"%@, %@, %@, %@, %@", category, word, jword, page, jpage);
-                [db executeUpdate:@"INSERT INTO reference(category, word, jword, page, jpage) VALUES(?, ?, ?, ?, ?);", category, word, jword, page, jpage];
+                [db executeUpdate:@"INSERT INTO reference(category, word, jword, jwordread, page, jpage) VALUES(?, ?, ?, ?, ?, ?);", category, word, jword, jwordread, page, jpage];
                 if (readLines % 100 == 0) {
                     NSLog(@"Reaches line: %d", readLines);
                 }                
