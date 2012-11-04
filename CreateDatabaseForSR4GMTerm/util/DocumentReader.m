@@ -47,7 +47,7 @@
                 readLines++;
                 return;
             }
-            if (readLines >= 1353) {
+            if (readLines >= 1370) {
                 FMResultSet *result = [db executeQuery:@"SELECT count(*) from reference;"];
                 if ([result next]) {
                     NSLog(@"Result: imported %d records", [result intForColumnIndex:0]);
